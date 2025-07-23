@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Ingreso a la Store
 
 Bienvenido a mi Documentación de Waizant Store en docusaurio.
