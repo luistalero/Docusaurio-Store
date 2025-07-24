@@ -4,13 +4,13 @@ sidebar_position: 4
 
 # Features
 
-![Adobe Logo](/img/store-usuario/7.png "Hover text")
+![Features](/img/store-usuario/7.png )
 
 **Esta sección destaca las funcionalidades esenciales del ecosistema Waizant™, orientadas a optimizar la gestión clínica, asegurar el cumplimiento normativo y aumentar la eficiencia operativa.**
 
 ****
 
-![Adobe Logo](/img/store-usuario/8.png "Hover text")
+![Features](/img/store-usuario/8.png )
 
 **Recaudación de Datos de Facturación:** Herramienta que agiliza el cierre de casos al recopilar información médica precisa y compararla con centros externos, reduciendo errores y garantizando cobros correctos.
 
