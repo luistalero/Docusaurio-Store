@@ -6,4 +6,4 @@ sidebar_position: 1
 
 ![Adobe Logo](/img/store-usuario/1.png "Hover text")
 
-Bienvenido a mi Documentación de Waizant Store en docusaurio.
+**Para acceder a la vista principal de Waizant Store, ingresa a [Waizant Store](https://www.waizant.com)**
