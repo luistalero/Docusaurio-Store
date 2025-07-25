@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Incomplete Record
+# Registro Incompleto (No verificado)
 
 ![Incomplete Record](/img/store-usuario/incomplete-1.png )
 
