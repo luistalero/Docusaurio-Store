@@ -28,3 +28,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.markdown img {
+  display: block;
+  width: 1000px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto; /* centra y separa */
+  border-radius: 8px; /* opcional: bordes redondeados */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* opcional: sombra suave */
+  object-fit: contain; /* mantiene proporciones sin cortar */
+}
