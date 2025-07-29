@@ -29,13 +29,32 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.row {
+  display: block;
+  margin: 0;
+}
+
 .markdown img {
   display: block;
-  width: 1000px;
+  width: 900px;
   max-width: 100%;
   height: auto;
   margin: 1rem auto; /* centra y separa */
   border-radius: 8px; /* opcional: bordes redondeados */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* opcional: sombra suave */
   object-fit: contain; /* mantiene proporciones sin cortar */
+}
+
+.markdown p{
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+.markdown h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.markdown h1, h2, h3, h4, h5, h6, p{
+  padding: 0 1rem;
 }
