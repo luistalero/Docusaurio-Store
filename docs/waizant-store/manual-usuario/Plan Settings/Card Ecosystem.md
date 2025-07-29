@@ -54,15 +54,27 @@ sidebar_position: 2
 
 **Al hacer clic en "Update plan", se desplega un menú mostrando las opciones, se selecciona "Add more encounters" para ampliar la cantidad de encounters disponibles para un ecosistema.**
 
+![Upgrade Ecosystem](/img/store-usuario/more-encounters-1.png)
+
+**Sección para añadir encuentros a un plan. Se indica el plan actual con 500 encuentros y la opción de agregar hasta 1000 más. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, antes de confirmar la actualización.**
+
+![Upgrade Ecosystem](/img/store-usuario/pay-encounter-1.png)
+
+**Esta es la pasarela de pago de Stripe aqui es donde el usuario tendra que digitar sus datos para realizar el pago de los encounters que desea añadir a su plan.**
+
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-2.png)
 
 **Sección para añadir encuentros a un plan. Se indica el plan actual con 500 encuentros y la opción de agregar hasta 1000 más. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, antes de confirmar la actualización.**
 
-![Upgrade Ecosystem](/img/store-usuario/pay-pasarela-1.png)
+![Upgrade Ecosystem](/img/store-usuario/pay-encounter-2.png)
 
 **Esta es la pasarela de pago de Stripe aqui es donde el usuario tendra que digitar sus datos para realizar el pago de los encounters que desea añadir a su plan.**
 
-![Upgrade Ecosystem](/img/store-usuario/more-encounters-1.png)
+![Upgrade Ecosystem](/img/store-usuario/more-encounters-3.png)
+
+**Sección para añadir encuentros a un plan. Se indica el plan actual con 500 encuentros y la opción de agregar hasta 1000 más. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, antes de confirmar la actualización.**
+
+![Upgrade Ecosystem](/img/store-usuario/more-encounters-4.png)
 
 **Pantalla de confirmación "Congrats" indicando que el plan se ha actualizado exitosamente. Un botón "Continue" permite regresar al ecosistema.**
 
