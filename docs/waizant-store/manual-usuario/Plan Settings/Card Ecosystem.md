@@ -56,27 +56,27 @@ sidebar_position: 2
 
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-1.png)
 
-**Sección para añadir encuentros a un plan. Se indica el plan actual con 500 encuentros y la opción de agregar hasta 1000 más. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, antes de confirmar la actualización.**
+**Aquí el usuario podrá añadir más encuentros a un plan. Se indica el plan actual con los encountersque le pertenecen y la opción de agregar más encounters. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, tambien podemos apreciar un input donde tenemos la opción de añadir un cupón para tener un descuento en nuetra compra, actualmente existen dos tipos de cupones en este caso se usa el cupón por descuento del 20% antes de confirmar la actualización.**
 
 ![Upgrade Ecosystem](/img/store-usuario/pay-encounter-1.png)
 
-**Esta es la pasarela de pago de Stripe aqui es donde el usuario tendra que digitar sus datos para realizar el pago de los encounters que desea añadir a su plan.**
+**Esta es la pasarela de pago de Stripe aqui es donde el usuario tendra que digitar sus datos para realizar el pago de los encounters que desea añadir a su plan se puede ver que Stripe hace la validación del cupón cuando ya esta aplicado y le indica al usuario el total de lo que debe pagar contando con su cupón de descuento.**
 
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-2.png)
 
-**Sección para añadir encuentros a un plan. Se indica el plan actual con 500 encuentros y la opción de agregar hasta 1000 más. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, antes de confirmar la actualización.**
+**Aquí en este caso se usa el cupón que tiene un precio fijo de descuento en este caso 100 dólares, antes de confirmar la actualización nos muestra el mensaje de que el código del cupón es valido.**
 
 ![Upgrade Ecosystem](/img/store-usuario/pay-encounter-2.png)
 
-**Esta es la pasarela de pago de Stripe aqui es donde el usuario tendra que digitar sus datos para realizar el pago de los encounters que desea añadir a su plan.**
+**En la pasarela de pago de Stripe se nos muestra el descuento que se esta realizando y se le indica al usuario el total a pagar con el descuento.**
 
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-3.png)
 
-**Sección para añadir encuentros a un plan. Se indica el plan actual con 500 encuentros y la opción de agregar hasta 1000 más. Se resaltan los beneficios de pago inmediato, acceso de por vida y sin fecha de expiración, antes de confirmar la actualización.**
+**En esta vista se puede apreciar el error que se le mostrara al usuario cuando un cupón no sea valido, para limpiar el input y popder voler a escribir se debe precionaer la "X" roja y asi se puede volver a realizar la compra con un cupón valido o realizarlo sin cupo.**
 
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-4.png)
 
-**Pantalla de confirmación "Congrats" indicando que el plan se ha actualizado exitosamente. Un botón "Continue" permite regresar al ecosistema.**
+**Pantalla de confirmación "Congrats" indicando que se ha realizado el pago de los encounters y el plan se ha actualizado exitosamente. Un botón "Continue" permite regresar al user panel.**
 
 ## more services/licenses
 
