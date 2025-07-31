@@ -52,53 +52,131 @@ sidebar_position: 4
 
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-14.png)
 
-**.**
+**Cuando el sucesor seleccionado acepta la sucesión del ecosistema, el usuario ya puede iniciar el proceso de suceción cuando lo vea necesario y de igual forma el puede realizar la eliminación del sucesor que esta aceptado.**
 
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-15.png)
 
-![Ecosystem Successor](/img/store-usuario/ecosystem-successor-16.png)
+**Al momento de iniciar el proceso de sucesión se le muestra una alerta al usuario donde se le explica que esta en el proceso de transferencia del Admin Ecosystem, se le especifica al usuario que puede tomar entre 24 a 48 horas en surtir efecto el cambio de administrador y que al momento de comenzar el proceso este perdera todos los privilegios de su ecosistema a menos que el nuevo admin lo asigne como un usuario para el mismo, si el usuario decide continuar con el proceso se activara una vista para ingresar el codigo del MFA como metodo de seguridad.**
 
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-17.png)
 
+**En esta sección se indican los dos estados que hay para dejar la cuenta del que esta sediendo la administración del ecosistema.**
+
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-18.png)
+
+**Aqui seleccionada se encuenta la 1ra opción que sera "Permanently Remove" con esta opción el usuario que antes era administrador quedara completamente eliminado de este ecosistema y ya no tendra acceso a los productos especificos de dicho ecosistema.**
 
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-19.png)
 
+**Ya aqui se encuentra seleccionada la 2da opción que seria "Keep as a User" la cual borraria completamente el rol como administrador para el usuario, pero, este usuario seguiria teniendo acceso hacia Waizant web y a Waizant APP.**
+
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-20.png)
 
-## web
+**Cuando el proceso es finalizado, se le notifica al usuario que su proceso ya esta en validación y sera notificado via correo que ya esta activo en la transferencia de la administrador .**
 
-![Ecosystem Successor](/img/store-usuario/ecosystem-successor-21.png)
+![Successor web 12](/img/store-usuario/successor-web-12.png)
+
+**Esta Seria la vista que el usuario vera en la store si el sucesor que el asigno rechaza la invitación, tendriamos dos opciones para esta situación.**
+
+![Successor web 14](/img/store-usuario/successor-web-14.png)
+
+**la 1ra seria el botón "Resend Invitation" que lo que haria seria reenviar el correo de invitación al usuario que se habia seleccionado para que el puede aceptarla.**
+
+![Successor web 13](/img/store-usuario/successor-web-13.png)
+
+**La 2da opcion es el botón "Go Back" este botón nos enviara a la vista de el suscesor asignado y el estado de este sucesor sera aceptado y estara listo para iniciar el proceso de sucesión.**
+
+## Proceso de la web
+
+![Successor web 1](/img/store-usuario/successor-web-1.png)
+
+**Caundo el Administrador asigna a un usuario como sucesor y el estado de la invitación es "pending" el usuario invitado al momento de iniciar sesión va a ver esta modal, donde se le informa la decisión que tomó el administrador y le pregunta que si quiere aceptar o no la invitación.**
+
+![Successor web 2](/img/store-usuario/successor-web-2.png)
+
+**Si el usuario decide rechazar la invitación le saldra una advertencia donde se explica que esta a punto de rechazar ser el sucesor y que si lo hace no hay forma de revertirlo y le pregunta al usuario si desea continuar con esa decisión.**
 
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-22.png)
 
-![Successor web 1](/img/store-usuario/successor-web-1.png)
-![Successor web 2](/img/store-usuario/successor-web-2.png)
+**Cuando se acepta la invitación se mostrara la el usuario debe ingresar el codigo MFA como medida de seguridad.**
+
 ![Successor web 3](/img/store-usuario/successor-web-3.png)
+
+**Cuando ya el usuario ingrese su codigo, obtendremos esta vista que nos indica que tenemos un nuevo correo donde se nos esta pidiendo activar tu estado como un sucesor, teniendo un tiempo limite para confirmar su estado antes de que no pueda confirmarlo.**
+
 ![Successor web 5](/img/store-usuario/successor-web-5.png)
+
+**Despues de que el sucesor actualice su estado a sucesor del ecosistema se le mostrara esta modal donde explica que ahora tiene un botón por el cual podrá iniciar el proceso de suceción en los ajustes de su perfil y que cuando obtenga la sucesión del ecosistema todos los usuarios seran informados incluyendo al antiguo administrador.**
+
 ![Successor web 6](/img/store-usuario/successor-web-6.png)
+
+**Este seria ahora lso ajuste de perfil del sucesor en la Web de waizant donde se aprecia el botón que permite al sucesor comenzar en proceso de sucesión en caso de que el administrador actual sufra algun problema y no pueda hacer el inico del proceso el mismo.**
+
 ![Successor web 7](/img/store-usuario/successor-web-7.png)
+
+**Al momento del sucesor hacer click en el nuevo botón vera esta modal, donde le indica que esta a punto de solicitar el proceso de suceción, el proceso podria surtir efecto entre 24 a 48 horas y que se notificara a todos los usuarios sobre la actualización del ecosistema, se le pregunta si desea continuar.**
+
 ![Successor web 8](/img/store-usuario/successor-web-8.png)
+
+**Al iniciar el proceso se le muestra esta información donde se especifica todo lo que esta apunto de suceder a este usuario, como este es un proceso iniciado fuera de la ruta principal aqui el sucesor tendra que especificar la razón del porque inicio el proceso de sucesión ante Support Waizant.**
+
 ![Successor web 9](/img/store-usuario/successor-web-9.png)
+
+**Al momento de comenzar la validación temdriamos esta vista, se le explica al usuario que como sucesor tiene le derecho de reclamar y validar su papel como nuevo administrador del ecosistema, no obstante para mayor seguridad se deben verificar si se estan cumpliendo todas las condiciones para que se realice la suceción, se le realiza una pregunta al usuario de cual es la razón que lo llevo a asumir la administración del ecosistema y se nos despliega un input con las opciones que son validas para asumir la administración del ecosistema.**
+
 ![Successor web 10](/img/store-usuario/successor-web-10.png)
+
+**Despues de que el usuario selecciona la razón por la cual esta solicitando la suceción se habilita un drop de archivos en donde el usuario debe cargar el archivo que valide la razón que el usuario esta dando para la suceción y en la parte inferior se encuentra un check donde el usaurio a aprobarlo certifica que la información del archivo es veraz y original, al hacer el envio de este formulario la administración de waizant recibira un correo electro con este archivo y ellos decidiran si la información es valida o no.**
+
 ![Successor web 11](/img/store-usuario/successor-web-11.png)
-![Successor web 12](/img/store-usuario/successor-web-12.png)
-![Successor web 13](/img/store-usuario/successor-web-13.png)
-![Successor web 14](/img/store-usuario/successor-web-14.png)
+
+**De igaul forma si el usuario se llego a equivocar iniciando el proceso o por algun motivo debe cancelar el proceso este mostrara una modal donde la advertencia le pregunat al usuario si desea continuar con la acción de cancelado, si el usuario confirma esta acción, automaticamente este usuario deja de ser el sucesor del ecosistema.**
+
+![Ecosystem Successor](/img/store-usuario/ecosystem-successor-12.png)
+
+**El administrador del ecosistema actual al momento de que el sucesor cancele el proceso de suceción desde la web verá el estado del sucesor como declinado por el mismo y volveran a salir las opciones de "Resend Invitation" y "Go Back".**
+
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-9.png)
+
+**Este es un acaso considerado especial ya que si el usuario administrador de un ecosistema asigna de sucesor a un usuario que cumpla con alguna de las restricciones que tiene waizant estipuladas como no apto para sucesor que pódrian ser no tener MFA activo, estar incativo por mas de 30 dias, etc. el sistema rechazara automaticamente la solicitud de este usuario y estev no podra ser el sucesor del ecosistema.**
+
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-10.png)
+
+**Para el adminstrador al momento de que waizant decline la solicitud para el sucesor este no podra volver a asignar a un nuevo sucesor por que el estdo de sucesor quedara bloqueado y para poder solucionarlo y que el administrador pueda asignar a un sucesor el debera comunicarse con el soporte de waizant y estos desactivaran el bloqueo desde Waizant Backoffice.**
 
 ## Proceso Backoffice
 
 ![Successor backoffice 1](/img/store-usuario/successor-backoffice-1.png)
+
+**Cuando el usuario contacta con el soperte de waizant ellos buscaran el el correo electronico que el usuario les proporcione ellos buscaran validar el correo por medio de un codigo que sera enviado al correo del usuario.**
+
 ![Successor backoffice 2](/img/store-usuario/successor-backoffice-2.png)
-![Successor backoffice 3](/img/store-usuario/successor-backoffice-3.png)
+
+**.**
+
 ![Successor backoffice 4](/img/store-usuario/successor-backoffice-4.png)
+
+**.**
+
 ![Successor backoffice 5](/img/store-usuario/successor-backoffice-5.png)
+
+**.**
+
 ![Successor backoffice 6](/img/store-usuario/successor-backoffice-6.png)
+
+**.**
+
 ![Successor backoffice 7](/img/store-usuario/successor-backoffice-7.png)
+
+**.**
+
 ![Successor backoffice 8](/img/store-usuario/successor-backoffice-8.png)
+
+**.**
+
 ![Successor backoffice 9](/img/store-usuario/successor-backoffice-9.png)
+
+**.**
 
 ## Notificaciones Waizant sucesor
 
