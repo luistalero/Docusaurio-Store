@@ -91,8 +91,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/luistalero',
-          label: 'GitHub',
+          href: 'https://wiedii.co/',
+          label: 'Wiedii',
           position: 'right',
         },
       ],

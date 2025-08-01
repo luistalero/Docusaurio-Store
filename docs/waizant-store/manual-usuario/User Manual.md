@@ -10,7 +10,7 @@ sidebar_position: 8
 
 ![User Manual](/img/store-usuario/17.png )
 
-**Esta ventana emergente de inicio de sesión de Waizant aparece únicamente si el usuario intenta acceder a la documentación sin tener una sesión activa.**
+**Esta ventana emergente de inicio de sesión de Waizant™ aparece únicamente si el usuario intenta acceder a la documentación sin tener una sesión activa.**
 
 ![User Manual](/img/store-usuario/18.png )
 

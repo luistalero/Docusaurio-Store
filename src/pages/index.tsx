@@ -20,8 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/waizant---store">
-            Documentación Waizant
+            to="/docs/category/Waizant™---store">
+            Documentación Waizant™
           </Link>
         </div>
       </div>

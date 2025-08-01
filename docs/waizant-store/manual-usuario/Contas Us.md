@@ -10,4 +10,4 @@ sidebar_position: 6
 
 ![Contact Us](/img/store-usuario/14.png)
 
-**Ya en este formulario tendrá los campos para la información del usuario como First name, Last name, Work email, Company name, Company Website, How can we help or assist you?, también cuenta con un select llamado Nature of inquity que contiene 4 opciones que serian Sales, Schedule a Demo, Account support, Techical Support y este seria el asunto del correo enviado a la administración de waizant.**
+**Ya en este formulario tendrá los campos para la información del usuario como First name, Last name, Work email, Company name, Company Website, How can we help or assist you?, también cuenta con un select llamado Nature of inquity que contiene 4 opciones que serian Sales, Schedule a Demo, Account support, Techical Support y este seria el asunto del correo enviado a la administración de Waizant™.**

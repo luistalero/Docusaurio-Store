@@ -29,20 +29,16 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.row {
-  display: block;
-  margin: 0;
-}
 
 .markdown img {
   display: block;
   width: 900px;
   max-width: 100%;
   height: auto;
-  margin: 1rem auto; /* centra y separa */
-  border-radius: 8px; /* opcional: bordes redondeados */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* opcional: sombra suave */
-  object-fit: contain; /* mantiene proporciones sin cortar */
+  margin: 1rem auto; 
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  object-fit: contain;
 }
 
 .markdown p{
