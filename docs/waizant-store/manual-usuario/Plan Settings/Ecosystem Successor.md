@@ -48,7 +48,7 @@ sidebar_position: 4
 
 **Cuando el proceso de eliminación es completado se le notifica al usuario que el usuario invitado fue eliminado como sucesor del ecosistema y ahora debe empezar el proceso desde cero.**
 
-## Comenzar Proceso
+## Proceso de sucesión desde Waizant Store
 
 ![Ecosystem Successor](/img/store-usuario/ecosystem-successor-14.png)
 
@@ -86,7 +86,7 @@ sidebar_position: 4
 
 **La 2da opcion es el botón "Go Back" este botón nos enviara a la vista de el suscesor asignado y el estado de este sucesor sera aceptado y estara listo para iniciar el proceso de sucesión.**
 
-## Proceso de la web
+## Proceso de sucesión desde Waizant Web
 
 ![Successor web 1](/img/store-usuario/successor-web-1.png)
 
@@ -144,43 +144,54 @@ sidebar_position: 4
 
 **Para el adminstrador al momento de que waizant decline la solicitud para el sucesor este no podra volver a asignar a un nuevo sucesor por que el estdo de sucesor quedara bloqueado y para poder solucionarlo y que el administrador pueda asignar a un sucesor el debera comunicarse con el soporte de waizant y estos desactivaran el bloqueo desde Waizant Backoffice.**
 
-## Proceso Backoffice
+## Proceso de restauración desde Waizant Backoffice
 
 ![Successor backoffice 1](/img/store-usuario/successor-backoffice-1.png)
 
-**Cuando el usuario contacta con el soperte de waizant ellos buscaran el el correo electronico que el usuario les proporcione ellos buscaran validar el correo por medio de un codigo que sera enviado al correo del usuario.**
-
-![Successor backoffice 2](/img/store-usuario/successor-backoffice-2.png)
-
-**.**
+**Cuando el usuario contacta con el soperte de waizant, ellos buscaran el correo electronico que el usuario les proporcione, validaran el correo por medio de un codigo que sera enviado al correo del usuario.**
 
 ![Successor backoffice 4](/img/store-usuario/successor-backoffice-4.png)
 
-**.**
+**Ya que el correo del usuario esta confirmado el soporte de Waizant tendra visibilidad de los ecosistemas que esten a nombre del usuario y es donde el usuario debe informar cual es el ecosistema que actualmente no esta funcionando la suceción.**
 
 ![Successor backoffice 5](/img/store-usuario/successor-backoffice-5.png)
 
-**.**
+**Ya con el ecosistema seleccionado se mostrara la información referente a la actividad del usuario, tenemos los detalles de cada actividad que ha tenido el ecosistema con respecto a la suceción de administreador, aqui por medio de el soporte de waizant el usuario puede saber como esta el proceso de sucesión y poder solucionar cualquier inconveniente con este proceso, ahora que el proceso esta declinado por Waizant se puede ver un "More details" en la ultima actividad del ecosistema.**
 
 ![Successor backoffice 6](/img/store-usuario/successor-backoffice-6.png)
 
-**.**
-
-![Successor backoffice 7](/img/store-usuario/successor-backoffice-7.png)
-
-**.**
+**Al momento de que el soporte de waizant seleccione el botón de detalles se mostrara esta modal donde se daran las posibles razones de por que fue declinada la solicitud y se muestra sugerencias para que no vuelva a pasar el rechazo por medio de waizant y se le pregunta si desea realizar la invitación a el sucesor, cuando se realice esta acción sera enviado un correo al usuario para que ingrese el codigo del MFA.**
 
 ![Successor backoffice 8](/img/store-usuario/successor-backoffice-8.png)
 
-**.**
+**Ya aqui se le notifica al usuario que el proceso se ha completado correctamente y que el usuario puede volver a iniciar el su proceso para adquirir la sucesió ya con esto actvio de nuevo con un status en pending.**
 
-![Successor backoffice 9](/img/store-usuario/successor-backoffice-9.png)
-
-**.**
-
-## Notificaciones Waizant sucesor
+## Templates de correos Electrónicos para sucesor
 
 ![Successor notification 1](/img/store-usuario/notification-successor-1.png)
+
+**Aqui podemos ver uno de los template, en esta podemos ver que lo que dice esta siendo invotado para ser el sucesor del ecosistema, en esta plantilla hay una redirección en el texto "here" que envia al usuario a la pagina de Waizant Web.**
+
 ![Successor notification 2](/img/store-usuario/notification-successor-2.png)
+
+**Cuando el usuario accede a la Web de Waizant se le pedira activar su estado como sucesor y cuando eso pase se le enviara este correo electronico donde es notificado de lo que debe hacer y hay un botón "Active Status" que al hacer click cargara una ventana y despues de confirmar el usuario sera actualizado como sucesor para dicho ecosistema.**
+
 ![Successor notification 3](/img/store-usuario/notification-successor-3.png)
+
+**Este correo lo obsevaria el dueño del ecosistema cuando el asigna a un sucesor, explica quien es el que esta siendo asignado, el ecosistema en el que fue asigna y le da la opción al usuario si no conoce esta activida o si desea cancelarlo.**
+
 ![Successor notification 4](/img/store-usuario/notification-successor-4.png)
+
+**Este correo le sera enviado al administrador del ecosistema en caso de que el usuario que el asigno acepte ser el sucesor de ese ecosistema y aqui se le muuestra el nombre del ecosistema y el correo del sucesor.**
+
+![Successor notification 5](/img/store-usuario/notification-successor-5.png)
+
+**Esta plantilla se enviara al correo del adminitrador cuando se inicia el proceso de transferencia de Administrador, en el correo se especifica que el proceso de sucesión podra demorar entre 24 a 48 horas y le recalca al administrador que al momento de que el sucesor sea validado el perdera completamente los accesos a waizanr.**
+
+![Successor notification 6](/img/store-usuario/notification-successor-6.png)
+
+**Cuando el sucesor es validado y tdoo esta en orden paraa ser sucesor le llegara un correo con esta vista donde se le dice que confirrme el estado de administrador del ecosistema y hay un botón que dice "Confirm" que este redigira al usuario a configiurar el nuevo ecosistema.**
+
+![Successor notification 7](/img/store-usuario/notification-successor-7.png)
+
+**Por ultimo despues de que el sucesor tome el puestos de administrador, al anterior admin se le enviara este correo para informale que todos los servicios y productos del ecosistema no estaran disponibles y si tiene dudas o preguntas debera comunicarse con el nuevo administrador.**

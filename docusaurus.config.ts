@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Wiedii',
+  tagline: 'We learn to improve',
   favicon: 'img/favicon-wiedii.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -70,7 +70,11 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,   
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Wiedii Doc.',
