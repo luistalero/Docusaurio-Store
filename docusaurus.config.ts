@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/waizant-store',
             },
           ],
         },
@@ -113,29 +113,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://github.com/luistalero',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/margay.wiedii',
             },
             {
-              label: 'Discord',
-              href: 'https://github.com/luistalero',
+              label: 'Instragram',
+              href: 'https://www.instagram.com/wiedii.co/',
             },
             {
-              label: 'X',
-              href: 'https://github.com/luistalero',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/luistalero',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/wiediius/',
             },
           ],
         },
