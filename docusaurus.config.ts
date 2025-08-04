@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/waizant-store',
+              to: '/docs/intro',
             },
           ],
         },
