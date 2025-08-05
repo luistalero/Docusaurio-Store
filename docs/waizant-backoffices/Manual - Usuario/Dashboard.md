@@ -65,3 +65,9 @@ Es la división de Sales to date y Sold plans donde se saca el porcentaje y en l
 ![MFA-Disable](/img/backoffice-user/leads_backoffice.png)
 
 **5. Subscriptions**
+
+![MFA-Disable](/img/backoffice-user/suscription_backoffice.png)
+
+**a) En la siguiente sesión tiene contiene una gráfica que muestra a los nuevos clientes, clientes inactivos y el total de los ecosistemas, se va actualizando automáticamente cuando detecta cambios ya sea que se inactive un cliente o se añada nuevo cliente.**
+
+**b) Cuenta con dos opciones, una para descargar el documento xls donde obtiene todos los datos, y la otra opción para seleccionar las fechas en las cuales se requiera toda la información.**
