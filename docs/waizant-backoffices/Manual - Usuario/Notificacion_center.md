@@ -93,6 +93,12 @@ creada, al realizar esta acción no se modificara la notificación, esto hace qu
 
 **Al hacer clic sobre la campana, se despliega una ventana lateral que muestra las notificaciones recibidas, separadas en dos pestañas:**
 
-***All: muestra el historial completo de notificaciones.**
+***All:**
+ Muestra el historial completo de notificaciones.
 
-***Unread: muestra únicamente las notificaciones que no han sido leídas.**
+![MFA-Disable](/img/backoffice-user/notification_center_all_backoffice.png)
+
+***Unread:**
+Muestra únicamente las notificaciones que no han sido leídas.
+
+![MFA-Disable](/img/backoffice-user/notification_center_unread.png)
