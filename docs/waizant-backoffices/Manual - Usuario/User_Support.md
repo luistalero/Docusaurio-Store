@@ -42,3 +42,28 @@ sidebar_position: 8
 
 ![MFA-Disable](/img/backoffice-user/see_plan_details_backoffice.png)
 
+**Y si se escoge el botón de Waizant App se redirige a una vista donde se visualiza un código Qr donde se debe escanear desde un celular para hacer el ingreso mediante un dispositivo mobile**
+
+![MFA-Disable](/img/backoffice-user/code_qr_app.png)
+
+**Ecosystem Admin**
+
+**En este modulo tiene conexión a la base de datos del Core, conexión con lambdas AWS para el proceso de envio de correos con el código Qr Previamente pide un MFA al de soporte por medio de conexión a una lambda, también este modulo se le dará soporte al usuario sucesor, quien ha recibido el ecosistema.**
+
+![MFA-Disable](/img/backoffice-user/verification_process_backoffice.png)
+
+**Este código que se envia al usuario mediante el correo se debe agregar a la vista para verificación del código y así continuar con el proceso**
+
+![MFA-Disable](/img/backoffice-user/verification_code_admin.png)
+
+**Se debe seleccionar un ecosistema para continuar el proceso, se da clic al botón de Send verification Code este código se le enviara al correo de la persona que esta prestando el soporte**
+
+![MFA-Disable](/img/backoffice-user/verification_succesfull_backoffice.png)
+
+**Existe un botón de Cancel este sirve para cancelar el proceso, pero muestra una modal donde hay un campo, allí se debe agregar el porque se esta cancelando, y luego se le da clic en ok.**
+
+![MFA-Disable](/img/backoffice-user/cancel_process_admin_backoffice.png)
+
+**En esta vista se mostrara 3 campos (User Email, Select Ecosystem, User Role) también se mostrara el un listado de procesos que lleve el usuario, defendiendo de donde quiera obtener información se mostrara una modal con el detallado, solo se le daría clic a see details.**
+
+![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)

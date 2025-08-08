@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Dashboard BackOffice
+# Dashboard
 
 **El modulo de Dashboard es el encargado de tener y mostrar las métricas del proyecto, inicialmente se muestra unas card:**
 

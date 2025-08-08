@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Store Users BackOffice
+# Store Users
 
 **El módulo Store Users permite gestionar y consultar la información de los usuarios registrados en el sistema, clasificándolos en dos categorías: Customers y Leads. Desde este módulo es posible filtrar, buscar y exportar la información disponible en formato XLS.**
 
