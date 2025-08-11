@@ -48,13 +48,18 @@ sidebar_position: 8
 
 **Ecosystem Admin**
 
+
 **En este modulo tiene conexión a la base de datos del Core, conexión con lambdas AWS para el proceso de envio de correos con el código Qr Previamente pide un MFA al de soporte por medio de conexión a una lambda, también este modulo se le dará soporte al usuario sucesor, quien ha recibido el ecosistema.**
 
 ![MFA-Disable](/img/backoffice-user/verification_process_backoffice.png)
 
+![MFA-Disable](/img/backoffice-user/user_email_start_verification.png)
+
 **Este código que se envia al usuario mediante el correo se debe agregar a la vista para verificación del código y así continuar con el proceso**
 
 ![MFA-Disable](/img/backoffice-user/verification_code_admin.png)
+
+![MFA-Disable](/img/backoffice-user/internal_code_verification.png)
 
 **Se debe seleccionar un ecosistema para continuar el proceso, se da clic al botón de Send verification Code este código se le enviara al correo de la persona que esta prestando el soporte**
 
@@ -64,6 +69,14 @@ sidebar_position: 8
 
 ![MFA-Disable](/img/backoffice-user/cancel_process_admin_backoffice.png)
 
+***Paso a paso de actividades del sucesor**
+
 **En esta vista se mostrara 3 campos (User Email, Select Ecosystem, User Role) también se mostrara el un listado de procesos que lleve el usuario, defendiendo de donde quiera obtener información se mostrara una modal con el detallado, solo se le daría clic a see details.**
+
+![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)
+
+***Nota: Esta ayuda o soporte al no tener actividad tendrá un tiempo de 15 minutos, es decir si se solicita soporte y el usuario no vuelve a tener actividad no responde al llamado de soporte a los 15 minutos de inactividad por parte del usuario automáticamente pasado el tiempo se cerrara la sesión y perderá esa solicitud.**
+
+**Modal del detallado del botón de see details si se le dio clic a The validation process for The Successor was rejected by Waizant**
 
 ![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)
