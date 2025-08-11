@@ -28,6 +28,10 @@ sidebar_position: 2
 
 **El sistema detecta un error en el método de pago. No se ha podido procesar el cobro del servicio, por lo tanto, el ecosistema no puede operar normalmente hasta resolver esta situación y se le indica al usuario actualizar el método de pago o reintentar el cobro.**
 
+![Estado Ecosystem](/img/store-usuario/Card-ecosystem-(9).png)
+
+**El sistema detecta cuando un usuario cancele la suscripción a su plan y automaticamente la tarjeta del ecosistema tomara este estilo para que el usuario tenga acceso unicamente a su billing panel.**
+
 ## Barra de Progreso de los Ecosistemas
 
 ![Progreso Ecosystem](/img/store-usuario/Card-ecosystem-(8).png)
