@@ -54,3 +54,19 @@
 .markdown h1, h2, h3, h4, h5, h6, p{
   padding: 0 1rem;
 }
+@layer docusaurus.theme-classic {
+  @media (min-width: 996px) {
+    main.docMainContainer_TBSr div.container div.generatedIndexPage_vN6x {
+      max-width: 100% !important;
+    }
+  }
+}
+
+.docItemContainer_c0TR {
+  width: 1400px;
+}
+
+section.row > article {
+  flex: 1 1 calc(33.333% - 1rem); /* 3 columnas */
+  min-width: 300px; /* que no se hagan muy pequeñas */
+}
