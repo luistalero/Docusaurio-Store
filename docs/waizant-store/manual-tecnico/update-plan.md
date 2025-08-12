@@ -12,7 +12,7 @@ sidebar_position: 6
 **Esta acción de creación de ecosistema implica la persistencia de datos en múltiples bases de datos:**
 
 + **La base de datos de la Store.**
-+ **La base de datos del Core.** 
++ **La base de datos del Core.**
 + **Una base de datos específica derivada de waizant_tickets que adopta un formato waizant_tickets_###### con un identificador único.**
 
 **Esto asegura la trazabilidad y la segregación de datos a nivel de ecosistema.**
