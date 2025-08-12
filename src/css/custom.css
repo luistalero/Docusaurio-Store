@@ -70,3 +70,8 @@ section.row > article {
   flex: 1 1 calc(33.333% - 1rem);
   min-width: 300px;
 }
+
+a.info {
+  color: #25c2a0;
+  text-decoration-color: #25c2a0;
+}

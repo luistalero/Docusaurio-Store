@@ -119,5 +119,6 @@ sidebar_position: 17
 **Cuando hablamos de un usuario no verificado, nos referimos a un usuario que mientras hacia el proceso de registro tuvo algun problema al momento de recibir el codigo OTP que envia cognito o fallo su internet, etc, entonces el servicio de cognito no puede verificar al usuario en su momento(para que un usuario deje de estar en este estado solo necesita iniciar sesión).**
 
 :::info
-Más información aquí <a href="/docs/waizant-store/manual-usuario/Login/Registro%20incompleto" style={{ color: '#25c2a0', textDecorationColor: '#25c2a0' }}>Usuario no verficado</a>
+Más información aquí{' '}
+<a href="/docs/waizant-store/manual-usuario/Login/Registro%20incompleto"className="info">Usuario no verificado</a>
 :::
