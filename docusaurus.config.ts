@@ -89,7 +89,7 @@ const config: Config = {
           position: 'left',
           label: 'Documentación',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://wiedii.co/',
           label: 'Wiedii',
@@ -101,25 +101,26 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
+          title: 'Facebook',
           items: [
             {
               label: 'Facebook',
               href: 'https://www.facebook.com/margay.wiedii',
             },
+          ],
+        },
+        {
+          title: 'Instagram',
+          items: [
             {
               label: 'Instragram',
               href: 'https://www.instagram.com/wiedii.co/',
             },
+          ],
+        },
+        {
+          title: 'LinkedIn',
+          items: [
             {
               label: 'LinkedIn',
               href: 'https://www.linkedin.com/company/wiediius/',

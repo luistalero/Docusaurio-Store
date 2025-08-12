@@ -76,7 +76,7 @@ sidebar_position: 2
 
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-3.png)
 
-**En esta vista se puede apreciar el error que se le mostrará al usuario cuando un cupón no sea válido. Para limpiar el input y poder volver a escribir, se debe presionar la "X" roja y así se puede volver a realizar la compra con un cupón válido o realizarlo sin cupo.**
+**En esta vista se puede apreciar el error que se le mostrará al usuario cuando un cupón no sea válido. Para limpiar el input y poder volver a escribir, se debe presionar la "X" roja y así se puede volver a realizar la compra con un cupón válido o realizar la compra sin cupón.**
 
 ![Upgrade Ecosystem](/img/store-usuario/more-encounters-4.png)
 
