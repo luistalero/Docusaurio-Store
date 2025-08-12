@@ -67,6 +67,6 @@
 }
 
 section.row > article {
-  flex: 1 1 calc(33.333% - 1rem); /* 3 columnas */
-  min-width: 300px; /* que no se hagan muy pequeñas */
+  flex: 1 1 calc(33.333% - 1rem);
+  min-width: 300px;
 }
