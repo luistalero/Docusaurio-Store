@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Detalles de Ecosistema
 
-**Esta interfaz principal del ecosistema se adapta visualmente según el plan de suscripción del usuario. Específicamente, si el ecosistema está asociado a un plan Premium, se renderizará la modal de 'Waizant RCM'. Esta modal no estará presente para ecosistemas con planes inferiores. La interacción con las modales presentes redirigirá al usuario a la funcionalidad o destino correspondiente. La única excepción a este patrón de redirección es la modal de 'Waizant App': en entornos macOS, el click redirigirá a la App Store, mientras que en dispositivos Android, la redirección se efectuará a la Play Store, optimizando la descarga de la aplicación nativa según el sistema operativo del usuario.**
+**Esta interfaz principal del ecosistema se adapta visualmente según el plan de suscripción del usuario. Específicamente, si el ecosistema está asociado a un plan Premium, se renderizará la modal de 'Waizant RCM'. Esta modal no estará presente para ecosistemas con planes inferiores. La interacción con las modales presentes redirigirá al usuario a la funcionalidad o destino correspondiente. La única excepción a este patrón de redirección es la modal de 'Waizant App': en entornos macOS, el clic redirigirá a la App Store, mientras que en dispositivos Android, la redirección se efectuará a la Play Store, optimizando la descarga de la aplicación nativa según el sistema operativo del usuario.**
 
 ## Menú Lateral
 

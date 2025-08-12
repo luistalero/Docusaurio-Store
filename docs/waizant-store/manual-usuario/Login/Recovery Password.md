@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ![Recovery Password](/img/store-usuario/recovery-1.png )
 
-**Si por alguna razón el usuario se olvida de su contraseña esta el enlace "Click Here" de la pregunta "Forgot your password?" que redirige a vista donde se hará la validación del correo con el que se esta intentado iniciar sesión.**
+**Si por alguna razón el usuario se olvida de su contraseña esta el enlace "clic Here" de la pregunta "Forgot your password?" que redirige a vista donde se hará la validación del correo con el que se esta intentado iniciar sesión.**
 
 ![Recovery Password](/img/store-usuario/recovery-2.png )
 

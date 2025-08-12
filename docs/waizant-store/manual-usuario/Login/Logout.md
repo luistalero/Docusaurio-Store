@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ![Logout](/img/store-usuario/logout-1.png )
 
-**El usuario tiene un botón en el header para cerrar su sesión el cual al momento de clickearlo desplegara una modal de advertencia al usuario.**
+**El usuario tiene un botón en el header para cerrar su sesión el cual al momento de clicearlo desplegara una modal de advertencia al usuario.**
 
 ![Logout](/img/store-usuario/logout-2.png )
 

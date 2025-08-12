@@ -6,4 +6,4 @@ sidebar_position: 1
 
 ![Store](/img/store-usuario/1.png )
 
-**Para acceder a la vista principal de Waizant™ Store, ingresa a [Waizant™ Store](https://www.Waizant™.com)**
+**Para acceder a la vista principal ingresa a [Waizant™ Store](https://www.Waizant.com)**

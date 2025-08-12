@@ -114,7 +114,7 @@ sidebar_position: 4
 
 ![Successor web 7](/img/store-usuario/successor-web-7.png)
 
-**Al momento del sucesor hacer click en el nuevo botón vera esta modal, donde le indica que esta a punto de solicitar el proceso de suceción, el proceso podria surtir efecto entre 24 a 48 horas y que se notificara a todos los usuarios sobre la actualización del ecosistema, se le pregunta si desea continuar.**
+**Al momento del sucesor hacer clic en el nuevo botón vera esta modal, donde le indica que esta a punto de solicitar el proceso de suceción, el proceso podria surtir efecto entre 24 a 48 horas y que se notificara a todos los usuarios sobre la actualización del ecosistema, se le pregunta si desea continuar.**
 
 ![Successor web 8](/img/store-usuario/successor-web-8.png)
 
@@ -174,7 +174,7 @@ sidebar_position: 4
 
 ![Successor notification 2](/img/store-usuario/notification-successor-2.png)
 
-**Cuando el usuario accede a la Web de Waizant™ se le pedira activar su estado como sucesor y cuando eso pase se le enviara este correo electronico donde es notificado de lo que debe hacer y hay un botón "Active Status" que al hacer click cargara una ventana y despues de confirmar el usuario sera actualizado como sucesor para dicho ecosistema.**
+**Cuando el usuario accede a la Web de Waizant™ se le pedira activar su estado como sucesor y cuando eso pase se le enviara este correo electronico donde es notificado de lo que debe hacer y hay un botón "Active Status" que al hacer clic cargara una ventana y despues de confirmar el usuario sera actualizado como sucesor para dicho ecosistema.**
 
 ![Successor notification 3](/img/store-usuario/notification-successor-3.png)
 

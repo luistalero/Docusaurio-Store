@@ -6,13 +6,13 @@ sidebar_position: 1
 
 ![MFA-Disable](/img/store-usuario/login-1.png )
 
-**Al hacer click en el botón Login que se encuentra en la parte derecha del header\, se redirige al usuario a la vista de inicio de sesión de Waizant™ Store**
+**Al hacer clic en el botón Login que se encuentra en la parte derecha del header\, se redirige al usuario a la vista de inicio de sesión de Waizant™ Store**
 
 ## MultiFactor Authentication Disable
 
 ![MFA-Disable](/img/store-usuario/login-2.png )
 
-**Se muestra el formulario para ingresar las credenciales de sesión del usuario\, también se encuentra un autenticado reCAPTCHA para la verificación del usuario\, hay un link click Here que redirige al usuario para recuperar su contraseña en caso de que se le haya olvidado y el botón Get Start Now por si el usuario todavía no tiene una cuenta creada**
+**Se muestra el formulario para ingresar las credenciales de sesión del usuario\, también se encuentra un autenticado reCAPTCHA para la verificación del usuario\, hay un link clic Here que redirige al usuario para recuperar su contraseña en caso de que se le haya olvidado y el botón Get Start Now por si el usuario todavía no tiene una cuenta creada**
 
 ![MFA-Disable](/img/store-usuario/login-3.png )
 

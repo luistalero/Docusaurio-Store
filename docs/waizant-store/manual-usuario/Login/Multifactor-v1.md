@@ -6,13 +6,13 @@ sidebar_position: 2
 
 ![MFA Enable](/img/store-usuario/mfav1-1.png )
 
-**Cuando un usuario que ya es dueño de uno o más ecosistemas\, tendrá la posibilidad de ver los detalles del ecosistema que desee dando click en el botón Ecosytem Details**
+**Cuando un usuario que ya es dueño de uno o más ecosistemas\, tendrá la posibilidad de ver los detalles del ecosistema que desee dando clic en el botón Ecosytem Details**
 
 ## Products Ecosystem
 
 ![MFA Enable](/img/store-usuario/mfav1-2.png )
 
-**Ya en los detalles del ecosistema, el usuario tiene acceso a los productos que ofrece el plan que adquirió. Si el usuario hace click en estos botones, será enviado a la página web del producto que seleccione mostrando el login de cada uno.**
+**Ya en los detalles del ecosistema, el usuario tiene acceso a los productos que ofrece el plan que adquirió. Si el usuario hace clic en estos botones, será enviado a la página web del producto que seleccione mostrando el login de cada uno.**
 
 ## Login Products
 

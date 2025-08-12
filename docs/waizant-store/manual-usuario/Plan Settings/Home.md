@@ -14,4 +14,4 @@ sidebar_position: 1
 
 ![Home](/img/store-usuario/plan-s2.png)
 
-**Esta seria la vista de un usuario que ya adquiro uno o más planes\, cuando un usuario aquiere planes cambia en pequeña media la vista\, teniedo unas cards '1.' donde se especificara todo sobre el plan aquirido por el usuario e información de su ecosistema si esta desplegado\, en la parte inferior de la pantalla '2.' tendriamos un botón "Create new ecosystem" que al hacer click redirige al usuario para la compra de un nuevo plan.**
+**Esta seria la vista de un usuario que ya adquiro uno o más planes\, cuando un usuario aquiere planes cambia en pequeña media la vista\, teniedo unas cards '1.' donde se especificara todo sobre el plan aquirido por el usuario e información de su ecosistema si esta desplegado\, en la parte inferior de la pantalla '2.' tendriamos un botón "Create new ecosystem" que al hacer clic redirige al usuario para la compra de un nuevo plan.**
