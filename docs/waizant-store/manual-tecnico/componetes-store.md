@@ -16,12 +16,12 @@ sidebar_position: 4
 
 ## Contact Us
 
-**La sección 'Contact Us' integra un formulario diseñado para la comunicación directa con el soporte de Waizant. Este formulario se encuentra conectado al servicio de terceros Hubspot. La información ingresada en los campos de entrada se canaliza automáticamente a las direcciones de correo electrónico de soporte de Waizant a través de la API de Hubspot\, facilitando la gestión centralizada de las consultas**
+**La sección 'Contact Us' integra un formulario diseñado para la comunicación directa con el soporte de Waizant. Este formulario se encuentra conectado al servicio de terceros HubSpot. La información ingresada en los campos de entrada se canaliza automáticamente a las direcciones de correo electrónico de soporte de Waizant a través de la API de HubSpot\, facilitando la gestión centralizada de las consultas**
 
 ## Newsletter Sing-Up
 
-**Similar a la sección 'Contact Us', la funcionalidad de 'Newsletter Sign-Up' también aprovecha el servicio de Hubspot para la gestión de suscripciones, permitiendo la recolección y procesamiento de datos de los usuarios interesados en recibir comunicaciones.**
+**Similar a la sección 'Contact Us', la funcionalidad de 'Newsletter Sign-Up' también aprovecha el servicio de HubSpot para la gestión de suscripciones, permitiendo la recolección y procesamiento de datos de los usuarios interesados en recibir comunicaciones.**
 
 ## Blog Subscription
 
-**De manera análoga a las secciones 'Contact Us' y 'Newsletter Sign-Up', la 'Blog Subscription' se integra con el servicio de Hubspot para la gestión de las suscripciones al blog, facilitando la captura de datos de los usuarios y su incorporación a las listas de distribución.**
+**De manera análoga a las secciones 'Contact Us' y 'Newsletter Sign-Up', la 'Blog Subscripción' se integra con el servicio de HubSpot para la gestión de las suscripciones al blog, facilitando la captura de datos de los usuarios y su incorporación a las listas de distribución.**

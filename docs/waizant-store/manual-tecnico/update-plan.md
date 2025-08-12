@@ -19,7 +19,7 @@ sidebar_position: 6
 
 ## Comprar Encounters
 
-**Esta interfaz proporciona al cliente la funcionalidad para incrementar la cantidad de 'encounters' asociados a su plan actual. La operación está directamente integrada con Stripe: al generarse una factura por 'encounters' adicionales, Stripe procede al cobro inmediato. Tras la confirmación de un pago exitoso por parte de Stripe, la información de la transacción se registra en la base de datos de la Store. Concomitantemente, se emite un mensaje a una cola SQS (Simple Queue Service) denominada subscription. Este mensaje es consumido por el Microservice Queuing, que, a su vez, procesa la información y se conecta a la base de datos del ecosistema para actualizar los registros y reflejar el incremento en los 'encounters' disponibles.**
+**Esta interfaz proporciona al cliente la funcionalidad para incrementar la cantidad de 'encounters' asociados a su plan actual. La operación está directamente integrada con Stripe: al generarse una factura por 'encounters' adicionales, Stripe procede al cobro inmediato. Tras la confirmación de un pago exitoso por parte de Stripe, la información de la transacción se registra en la base de datos de la Store. Concomitantemente, se emite un mensaje a una cola SQS (Simple Queue Service) denominada subscripción. Este mensaje es consumido por el microservicio Queuing, que, a su vez, procesa la información y se conecta a la base de datos del ecosistema para actualizar los registros y reflejar el incremento en los 'encounters' disponibles.**
 
 ## Comprar Licensias y Servicios
 

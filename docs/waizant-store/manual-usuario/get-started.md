@@ -10,7 +10,7 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-2.png )
 
-**En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye: Recopilación de datos de facturación, Informes de medidas de calidad (AQI), Documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). Tus respuestas nos ayudarán a sugerir la mejor solución. Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
+**En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye: Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). Tus respuestas nos ayudarán a sugerir la mejor solución. Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
 
 ![Get Started](/img/store-usuario/get-started-3.png )
 
@@ -26,61 +26,57 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-4.png )
 
-**Despues de que el usuario ingresa el codigo OTP para cognito nos mostrara esa notificación de verificación del usuario, esta sección presenta los planes de suscripción de Waizant™, donde el sistema sugiere un plan específico "Sugerido" basándose en la información previa del usuario. Los planes son: Lite, Plus y Premium. Cada uno de estos planes cuenta con caracteristicas especificas y funcionalidades exclusivas del tipo de plan.**
+**Después de que el usuario ingresa el código OTP para cognito nos mostrará esa notificación de verificación del usuario. Esta sección presenta los planes de suscripción de Waizant™, donde el sistema sugiere un plan específico "Sugerido" basándose en la información previa del usuario. Los planes son: Lite, Plus y Premium. Cada uno de estos planes cuenta con características específicas y funcionalidades exclusivas del tipo de plan.**
 
 ![Get Started](/img/store-usuario/get-started-5.png )
 
-**El usuario tambien puede hacer uso del toogle que sale en cada uno de los planes que les mostrara el precio de los planes en versión anual donde se realizaria un descuento al precio de cada plan.**
+**El usuario también puede hacer uso del toogle que sale en cada uno de los planes que les mostrará el precio de los planes en versión anual, donde se realizaría un descuento al precio de cada plan.**
 
 ![Get Started](/img/store-usuario/get-started-6.png )
 
-**Ya cuando el usuario selecciona un plan para comprar, procede a la configuración de su plan y en esta vista podemos ver que el plan trae unos Encounters de base y se le permite al usuario poder añadir más Encounters de ser necesarios se le permite al usuario añadir licensias de usuario y activar los servicios si el usuario los requiere.**
+**Ya cuando el usuario selecciona un plan para comprar, procede a la configuración de su plan y en esta vista podemos ver que el plan trae unos Encounters de base y se le permite al usuario poder añadir más Encounters de ser necesarios se le permite al usuario añadir licencias de usuario y activar los servicios si el usuario los requiere.**
 
 ![Get Started](/img/store-usuario/get-started-7.png )
 
-**Siempre dependiendo de las opciones que el usuario active o desactive el servicio de Stripe realizara un prorrateo que sera el desglose de lo que el usuario esta comprando.**
+**Siempre dependiendo de las opciones que el usuario active o desactive, el servicio de Stripe realizará un prorrateo que será el desglose de lo que el usuario está comprando.**
 
 ![Get Started](/img/store-usuario/get-started-9.png )
 
-**Cuando un usuario esta realizando la compra de un plan y este mismo añade Encounters adicionales a los base que otorga el plan, sera visible una casilla para ingresar un cupón de descuento que sera siempre en un porcentaje sobre el precio de los encounters añadidos, si el usuario ingresa el cupón que no sea valido se le mostrará la notificación informando que el cupón es invalido.**
+**Cuando un usuario está realizando la compra de un plan y este mismo añade Encounters adicionales a los bases que otorga el plan, será visible una casilla para ingresar un cupón de descuento que será siempre en un porcentaje sobre el precio de los encounters añadidos, si el usuario ingresa el cupón que no sea válido se le mostrará la notificación informando que el cupón es inválido.**
 
 ![Get Started](/img/store-usuario/get-started-10.png )
 
-**Aqui se puede apreciar que si el usuario solo hace la compra del plan sin nada adicional se marca que es solo el precio por la suscripción de su plan y no aparece la casilla de cupones, tambien teniendo en cuenta que si el usuario comprar el plan en la versión anual o mensual el p.**
-
-<!-- ![Get Started](/img/store-usuario/get-started-11.png )
-
-**.** -->
+**Aquí se puede apreciar que si el usuario solo hace la compra del plan sin nada adicional se marca que es solo el precio por la suscripción de su plan y no aparece la casilla de cupones, también teniendo en cuenta que si el usuario comprar el plan en la versión anual o mensual el precio será correspondiente en el prorrateo generado por el servicio de Stripe.**
 
 ![Get Started](/img/store-usuario/get-started-12.png )
 
-**Si el usuario esta realizando la compra y el cupón es invalido, el botón para proceder con el proceso de pago sera desavilitado hasta que se limpie la casilla.**
+**Si el usuario está realizando la compra y el cupón es inválido, el botón para proceder con el proceso de pago será deshabilitado hasta que se limpie la casilla.**
 
 ![Get Started](/img/store-usuario/get-started-13.png )
 
-**al momento de que el usuario ingrese un cupón valido se le mostrara una notificación y el botón para proceder con el pago se activara.**
+**Al momento de que el usuario ingrese un cupón válido, se le mostrará una notificación y el botón para proceder con el pago se activará.**
 
 ![Get Started](/img/store-usuario/get-started-14.png )
 
-**Aqui esatriamos en la pasarela de pago del servivio de Stripe donde el usuario tendra los productos estaran desglosados mostrandole el precio de cada una de las adiciones.**
+**Aquí estaríamos en la pasarela de pago del servicio de Stripe, donde el usuario tendrá que los productos estarán desglosados mostrándole el precio de cada una de las adiciones.**
 
 ![Get Started](/img/store-usuario/get-started-15.png )
 
-**Si el usuario tiene un cupón valido este cupón contara como descuento sobre el precio de los Encounters que este comprando y si el cupón en ivalido el usuario nunca vera esta pasarela de pagos.**
+**Si el usuario tiene un cupón válido, este cupón contará como descuento sobre el precio de los Encounters que esté comprando y si el cupón está válido, el usuario nunca verá esta pasarela de pagos.**
 
 ![Get Started](/img/store-usuario/get-started-16.png )
 
-**Despues de terminar el pago del plan, nos mostrara esta modal si todo esta completamente bien y nos preguntara que deseamos hacer, "Build My Ecosystem" o "Not Now", que especificamente nos lleva a otras vista para la creación de nuestro ecosistema y la otra opción nos lleva al inicio de la Store.**
+**Después de terminar el pago del plan, nos mostrará esta modal si todo está completamente bien y nos preguntará qué deseamos hacer, "Build My Ecosystem" o "Not Now", que específicamente nos lleva a otra vista para la creación de nuestro ecosistema y la otra opción nos lleva al inicio de la Store.**
 
 ## Build My Ecosystem
 
 ![Get Started](/img/store-usuario/get-started-18.png )
 
-**Si el usuario selecciona la opción para construir su ecosistema, se mostrara este formulario donde debe asignar un nombre al ecosistema, seleccionar la zona horaria, se le preguntara al usuario si es un provedor o no, si la respuesta es no el usuario solo debe de continuar con la creación.**
+**Si el usuario selecciona la opción para construir su ecosistema, se mostrará este formulario donde debe asignar un nombre al ecosistema, seleccionar la zona horaria, se le preguntará al usuario si es un proveedor o no. Si la respuesta es no, el usuario solo debe de continuar con la creación.**
 
 ![Get Started](/img/store-usuario/get-started-17.png )
 
-**Pero si el usuario selecciona que es un proveedor se añadiran más campos al formulario que sera el titulo del proveedor, el codigo NPI y por ultimo un codigo de referencia que es opcionl despues de completar los campos el usuario puede continuar con el proceso.**
+**Pero si el usuario selecciona que es un proveedor, se añadirán más campos al formulario que serán, el título del proveedor, el código NPI y, por último, un código de referencia que es opcional. Después de completar los campos, el usuario puede continuar con el proceso.**
 
 ![Get Started](/img/store-usuario/get-started-19.png )
 
@@ -88,7 +84,7 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-20.png )
 
-**Esta pantalla muestra la segunda etapa del proceso de configuración inicial, titulada "Quality Data Collection" (Recolección de Datos de Calidad). Se informa al usuario que tendrá control total sobre la documentación y el reporte de las medidas de calidad de su práctica médica, lo que asegura el cumplimiento normativo adaptado a su especialidad.En la parte inferior, se presenta un mensaje de agradecimiento por la paciencia del usuario, indicando que la configuración del sistema tomará solo unos minutos.**
+**Esta pantalla muestra la segunda etapa del proceso de configuración inicial, titulada "Quality Data Collection" (Recolección de Datos de Calidad). Se informa al usuario que tendrá control total sobre la documentación y el reporte de las medidas de calidad de su práctica médica, lo que asegura el cumplimiento normativo adaptado a su especialidad. En la parte inferior, se presenta un mensaje de agradecimiento por la paciencia del usuario, indicando que la configuración del sistema tomará solo unos minutos.**
 
 ![Get Started](/img/store-usuario/get-started-21.png )
 
@@ -100,23 +96,23 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-22.png )
 
-**¡Felicidades! La pantalla "Congratulations!" indica que su panel de ecosistema está listo. Para continuar, diríjase a la plataforma web y configure sus instalaciones y equipo. Puede seleccionar "Proceed to My Ecosystem" para acceder de inmediato o "Maybe later" si prefiere posponerlo. Esta pantalla confirma la finalización exitosa del proceso de configuración inicial del sistema.**
+**La pantalla "Congratulaciones", indica que su panel de ecosistema está listo. Para continuar, diríjase a la plataforma web y configura sus instalaciones y equipo. Puede seleccionar "Proceed to My Ecosystem" para acceder de inmediato o "Maybe later" si prefiere posponerlo. Esta pantalla confirma la finalización exitosa del proceso de configuración inicial del sistema.**
 
 ![Get Started](/img/store-usuario/get-started-24.png )
 
-**Al seleccionar la opción de proceder al ecosistema, el usuario sera enviado al login de la Store y despues de iniciar sesión en el user panel asi es com se lograria ver ya su tarjeta de ecosistema ya activa y completada.**
+**Al seleccionar la opción de proceder al ecosistema, el usuario será enviado al login de la Store y, después de iniciar sesión en el user panel, así es cómo se lograría ver su tarjeta de ecosistema ya activa y completada.**
 
 ## Usuario Customer
 
-**Cuando hablamos de un usuario customer, nos referimos a un usuario que ya esta registrado en el sistema, se encuntra verificado por el servicio de cognito, ha realizado la compra de algun plan y tiene un ecosistema construido.**
+**Cuando hablamos de un usuario customer, nos referimos a un usuario que ya está registrado en el sistema, se encuentra verificado por el servicio de cognito, ha realizado la compra de algún plan y tiene un ecosistema construido.**
 
 ## Usuario Lead
 
-**Cuando hablamos de un usario lead, nos referimos a un usuario registrado en el sistema, se encuntra verificado por el servicio de cognito, pero, este no cuenta con ningun plan comprado y por ende no tiene ningun ecosistema configurado.**
+**Cuando hablamos de un usuario lead, nos referimos a un usuario registrado en el sistema. Se encuentra verificado por el servicio de cognito, pero, este no cuenta con ningún plan comprado y, por ende, no tiene ningún ecosistema configurado.**
 
 ## Usuario No verificado(Cognito)
 
-**Cuando hablamos de un usuario no verificado, nos referimos a un usuario que mientras hacia el proceso de registro tuvo algun problema al momento de recibir el codigo OTP que envia cognito o fallo su internet, etc, entonces el servicio de cognito no puede verificar al usuario en su momento(para que un usuario deje de estar en este estado solo necesita iniciar sesión).**
+**Cuando hablamos de un usuario no verificado, nos referimos a un usuario que mientras hacia el proceso de registro tuvo algún problema al momento de recibir el código OTP que envía cognito o fallo su internet, etc. Entonces el servicio de cognito no puede verificar al usuario en su momento(para que un usuario deje de estar en este estado solo necesita iniciar sesión).**
 
 :::info
 Más información aquí{' '}
