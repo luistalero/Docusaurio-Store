@@ -15,3 +15,11 @@ sidebar_position: 11
 ![MFA-Disable](/img/backoffice-user/profile_settings_backoffice.png)
 
 ***Multi-factor: En esta opción se visualiza la vista de Multi-factor se le da clic al botón de Continue, se mostrara las opciones para su autenticación al escanear el código Qr lleva a la app para descargar Authy luego se le da clic al botón de Continue.**
+
+***Nota: Para información mas detallada de Multi-factor se debe dar clic en Más información aquí.**
+
+
+:::info
+Más información aquí{' '}
+<a href="/docs/waizant-backoffices/Manual%20-%20Usuario/Login/Multifactor_Backoffice"className="info">Multi-factor</a>
+:::
