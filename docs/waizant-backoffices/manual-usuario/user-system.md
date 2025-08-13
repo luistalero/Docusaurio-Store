@@ -95,5 +95,3 @@ Usuario con permisos de desarrollo y mantenimiento técnico.
 ![MFA-Disable](/img/backoffice-user/edit_modal_permissions_usersystem.png)
 
 ***Nota: Al seleccionar los modulos que se desse que el user system tenga se le da clic en el boton save**
-
-
