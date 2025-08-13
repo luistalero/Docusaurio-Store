@@ -26,11 +26,11 @@ sidebar_position: 1
 
 ## **Los Planes que se pueden apreciar son:**
 
-- **Plan Lite.**
+- **Plan Lite: Ideal para organizaciones que requieren funciones esenciales de gestión médica con acceso móvil y comunicación segura. Incluye programación ilimitada de eventos, chat cifrado punto a punto, geolocalización para integración de agenda, reportes automáticos de millaje y creación de etiquetas de jeringas conforme a JCAHO. .**
 
-- **Plan Plus.**
+- **Plan Plus: Pensado para prácticas que necesitan un control más detallado de sus encounters médicos y la gestión de datos. Añade programación de encounters, recolección de datos de calidad, seguimiento de tiempo por proveedor y carga de documentos demográficos y clínicos. Mantiene todas las funciones del plan Lite y aumenta en licencias e incluye encounters mensuales..**
 
-- **Plan Premium.**
+- **Plan Premium: Diseñado para organizaciones de salud con alta demanda y necesidad de integración avanzada. Ofrece todas las funciones de los planes anteriores más el módulo Waizant™ RCM, que incluye procesamiento de datos de facturación/demografía, certificación HIPAA SOC 1 y SOC 2, preparación para outsourcing, integración EMR (HL7) y conexión con software central de facturación. Incluye más que los planes anterioes licencias y lso mismos encounters al mensuales.**
 
 ## **Los servicios que se ofrecen son:**
 
