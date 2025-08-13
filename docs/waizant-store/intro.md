@@ -24,13 +24,12 @@ sidebar_position: 1
 
 **La Store ofrece la información de los planes que son ofrecidos y muestra los enfoques de cada plan, dando la opción para que el usuario realice comparaciones y pueda decidir cual se acomoda mejor a sus requisitos, tambien cuenta con la configuración para que un plan pueda ser adquirido ya sea con facturación mensual o facturación anual.**
 
-## Los Planes que se pueden apreciar son':'
+## **Los Planes que se pueden apreciar son:**
 
 - **Plan Lite.**
 - **Plan Plus.**
 - **Plan Premium.**
 
-## Los servicios que se ofrecen son:
-
+## **Los servicios que se ofrecen son:**
 
 **.**
