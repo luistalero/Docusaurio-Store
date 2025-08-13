@@ -22,11 +22,11 @@ sidebar_position: 1
 
 ![Estado Ecosystem](/img/store-usuario/Card-ecosystem-(2).png)
 
-**El sistema detecta pagos pendientes. Aunque no se ha suspendido el ecosistema completamente, se requiere que el usuario regularice la situación para evitar interrupciones, para más información acceda aqui [Pay Services](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/payment-error#pay-services).**
+**El sistema detecta pagos pendientes o erros al momento de realizar el pago de los servicios que fueron adquirido en este plan. Aunque no se ha suspendido el ecosistema completamente, se requiere que el usuario regularice la situación para evitar interrupciones, para más información acceda aqui [Pay Services](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/payment-error#pay-services).**
 
 ![Estado Ecosystem](/img/store-usuario/Card-ecosystem-(1).png)
 
-**El sistema detecta un error en el método de pago. No se ha podido procesar el cobro del servicio, por lo tanto, el ecosistema no puede operar normalmente hasta resolver esta situación y se le indica al usuario actualizar el método de pago o reintentar el cobro, para más información acceda aqui [Payment Error](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/payment-error#payment-error).**
+**El sistema detecta un error al momento de realizar el pago del plan que el usuario adquirio. No se ha podido procesar el cobro de la suscripción, por lo tanto, el ecosistema no puede operar normalmente hasta resolver esta situación y se le indica al usuario actualizar el método de pago o reintentar el cobro, para más información acceda aqui [Payment Error](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/payment-error#payment-error).**
 
 ![Estado Ecosystem](/img/store-usuario/Card-ecosystem-(9).png)
 

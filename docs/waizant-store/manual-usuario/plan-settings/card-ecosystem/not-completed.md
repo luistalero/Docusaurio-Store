@@ -3,4 +3,4 @@ sidebar_position: 3
 
 ---
 
-# Funcionalidad Del Estado Not Completed
+# Funcionalidad del Estado Not Completed
