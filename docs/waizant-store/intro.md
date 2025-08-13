@@ -16,16 +16,21 @@ sidebar_position: 1
 
 - **Auditoría de casos para asegurar calidad, cumplimiento y trazabilidad en cada procedimiento.**
 
-**Dentro de este ecosistema, la Store de Waizant es el punto de inicio para configurar una solución personalizada. No es una tienda convencional: es un asistente guiado que recopila información sobre tu organización, analiza tus necesidades y adapta la plataforma a tu realidad, haceindo recomendaciones de el plan que se acomoda a las necesidades del usuario.**
-<!-- 
-**En solo tres pasos, podrás:**
-
-- **Presentar tu organización y especialidad médica.**
-
-- **Definir tus prioridades y retos actuales.**
-
-- **Enviar la información para recibir una propuesta ajustada a tus necesidades.** -->
+**Dentro de este ecosistema, la Store de Waizant es el punto de inicio para configurar una solución personalizada. No es una tienda convencional: es un asistente guiado que recopila información sobre tu organización, analiza tus necesidades y adapta la plataforma a tu realidad, haciendo recomendaciones del plan que se acomoda a las necesidades del usuario.**
 
 **Gracias a este enfoque, cada cliente comienza con una configuración pensada para su contexto, asegurando que el servicio final sea eficiente, seguro y realmente útil en el día a día.**
 
 **Waizant no es solo tecnología: es una herramienta que ayuda a médicos y personal de salud en Estados Unidos a mejorar la atención, optimizar la gestión y trabajar con total confianza en la protección de los datos.**
+
+**La Store ofrece la información de los planes que son ofrecidos y muestra los enfoques de cada plan, dando la opción para que el usuario realice comparaciones y pueda decidir cual se acomoda mejor a sus requisitos, tambien cuenta con la configuración para que un plan pueda ser adquirido ya sea con facturación mensual o facturación anual.**
+
+## Los Planes que se pueden apreciar son':'
+
+- **Plan Lite.**
+- **Plan Plus.**
+- **Plan Premium.**
+
+## Los servicios que se ofrecen son:
+
+
+**.**
