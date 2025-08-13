@@ -2,7 +2,7 @@
 sidebar_position: 1 
 ---
 
-# Introducción a la documentación en el BackOffice
+# Introducción a la documentación del BackOffice
 
 **BackOffice es un sistema administrativo diseñado para centralizar y gestionar de manera eficiente las operaciones internas del proyecto. Este sistema permite organizar, controlar y mantener en orden todos los recursos, configuraciones y relaciones entre las distintas entidades que componen el ecosistema de la aplicación.**
 
