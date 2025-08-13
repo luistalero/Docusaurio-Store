@@ -6,17 +6,17 @@ sidebar_position: 8
 
 **Este modulo tiene conexionarme a la base de datos de Core, tiene conexión a lambdas AWS para el proceso de Autenticación con AWS cognito**
 
-**a) Technical Assistance**
+**a\) Technical Assistance**
 
 **Permite verificar el estado de un usuario en Waizant ingresando su correo electrónico. Una vez validado, se selecciona el ecosistema para iniciar el proceso de autenticación y brindar soporte técnico personalizado.**
 
 ![MFA-Disable](/img/backoffice-user/user_pupport_backoffice.png)
 
-**Luego de dar clic en el botón de Start Verification Process se visualiza un selector, donde se podía elegir el ecosistema que se desee**
+**Luego de dar clic en el botón de Start Verification Process se visualiza un selector\, donde se podía elegir el ecosistema que se desee**
 
 ![MFA-Disable](/img/backoffice-user/start_verification_backoffice.png)
 
-**Previamente pide un MFA al de soporte, este código llega al correo por medio de la conexión a una lambda**
+**Previamente pide un MFA al de soporte\, este código llega al correo por medio de la conexión a una lambda**
 
 ![MFA-Disable](/img/backoffice-user/internal_verification_backoffice.png)
 
@@ -46,8 +46,7 @@ sidebar_position: 8
 
 ![MFA-Disable](/img/backoffice-user/code_qr_app.png)
 
-**Ecosystem Admin**
-
+## Ecosystem Admin
 
 **En este modulo tiene conexión a la base de datos del Core, conexión con lambdas AWS para el proceso de envio de correos con el código Qr Previamente pide un MFA al de soporte por medio de conexión a una lambda, también este modulo se le dará soporte al usuario sucesor, quien ha recibido el ecosistema.**
 

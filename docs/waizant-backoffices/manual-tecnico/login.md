@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Login Store
+# Login 
 
 Bienvenido a mi Documentación de Waizant™ Store en docusaurio.
