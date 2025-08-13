@@ -22,14 +22,20 @@ sidebar_position: 1
 
 **Waizant no es solo tecnología: es una herramienta que ayuda a médicos y personal de salud en Estados Unidos a mejorar la atención, optimizar la gestión y trabajar con total confianza en la protección de los datos.**
 
-**La Store ofrece la información de los planes que son ofrecidos y muestra los enfoques de cada plan, dando la opción para que el usuario realice comparaciones y pueda decidir cual se acomoda mejor a sus requisitos, tambien cuenta con la configuración para que un plan pueda ser adquirido ya sea con facturación mensual o facturación anual.**
+**La Store ofrece la información de los planes que son ofrecidos y muestra los enfoques de cada plan, dando la opción para que el usuario realice comparaciones y pueda decidir cuál se acomoda mejor a sus requisitos, también cuenta con la configuración para que un plan pueda ser adquirido ya sea con facturación mensual o facturación anual.**
 
 ## **Los Planes que se pueden apreciar son:**
 
 - **Plan Lite.**
+
 - **Plan Plus.**
+
 - **Plan Premium.**
 
 ## **Los servicios que se ofrecen son:**
 
-**.**
+- **Scheduling Service**
+
+- **Reviewing Service**
+
+**Cuando un usuario desde el user panel tendra acceso para poder actualizar su plan adquirido, revisar el panel de factura y poder transferir el ecosistema creado apartir del plan comprado a algun usuario de su ecosistema por si el usuario ya no puede seguir dirgiedno el ecosistema.**
