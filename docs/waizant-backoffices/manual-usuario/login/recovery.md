@@ -23,7 +23,7 @@ El usuario ingresa su dirección de correo electrónico registrada en el campo s
 El sistema genera automáticamente un código temporal de 6 dígitos (OTP), el cual es enviado al correo electrónico proporcionado. Este código es válido por un tiempo limitado.
 
 **c) Ingreso del código OTP:**
-En el formulario de recuperación, el usuario debe ingresar el código recibido por correo en el campo designado: 
+En el formulario de recuperación, el usuario debe ingresar el código recibido por correo en el campo designado:
 "Write your password reset code".
 
 **d) Creación de nueva contraseña:**
@@ -33,8 +33,9 @@ Ambos campos deben coincidir para que el sistema permita continuar.
 **e) Validación de condiciones de seguridad:**
 
 **La contraseña debe cumplir con los siguientes requisitos mínimos de seguridad:** 
+
 - Tener al menos 8 caracteres.
--  Incluir al menos una letra mayúscula.
+- Incluir al menos una letra mayúscula.
 - Incluir al menos una letra minúscula.
 - Incluir al menos un número.
 - Incluir al menos un carácter especial (por ejemplo: ! @ # $ % & *).

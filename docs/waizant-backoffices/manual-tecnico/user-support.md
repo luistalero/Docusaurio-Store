@@ -19,11 +19,10 @@ sidebar_position: 7
 
 ![MFA-Disable](/img/backoffice-user/support_technical_backoffices.png)
 
-## *El botón que redirige a la web lleva al Home de la web del usuario que se le esta brindando soporte y también queda logueado
-
+***El botón que redirige a la web lleva al Home de la web del usuario que se le esta brindando soporte y también queda logueado**
 ![MFA-Disable](/img/backoffice-user/ecosystem_plans.png)
 
-## *El botón de la app lo dirige a una vista con un código Qr donde se debe escanear con un dispositivo mobiliario para que permita su acceso
+***El botón de la app lo dirige a una vista con un código Qr donde se debe escanear con un dispositivo mobiliario para que permita su acceso**
 
 ![MFA-Disable](/img/backoffice-user/code-qr-app.png)
 

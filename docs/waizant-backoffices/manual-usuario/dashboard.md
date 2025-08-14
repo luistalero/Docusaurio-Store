@@ -51,11 +51,11 @@ Es la división de Sales to date y Sold plans donde se saca el porcentaje y en l
 
 **a) En esta opción se muestran los tipos de clientes, Customers y Leads a su derecha se obtiene el porcentaje, tiene un botón que al darle clic lleva a una vista con el listado de los clientes.**
 
-* Customers: Usuarios que han completado el proceso de compra o suscripción.
+- **Customers:** Usuarios que han completado el proceso de compra o suscripción.
 
 ![MFA-Disable](/img/backoffice-user/customer_backoffice.png)
 
-* Leads: Usuarios que iniciaron el proceso pero no finalizaron ninguna adquisición.
+- **Leads:** Usuarios que iniciaron el proceso pero no finalizaron ninguna adquisición.
 
 ![MFA-Disable](/img/backoffice-user/leads_backoffice.png)
 **5. Subscriptions**

@@ -59,9 +59,7 @@ Correo electrónico de contacto (obligatorio).
 **Tipos de usuario disponibles:**
 
 **Admin Reviewer System:**
-Usuario con permisos administrativos y de
-revisión.
-
+Usuario con permisos administrativos y de revisión.
 
 **Admin Digitizer System:**
 Usuario con permisos administrativos y de digitalización.

@@ -14,8 +14,7 @@ sidebar_position: 2
 **ExcelJS:** Librería para exportar datos en reportes Excel desde la aplicación se puede ingresar al siguiente link para obtener mas información
 [ExcelJS](https://www.npmjs.com/package/exceljs#create-a-workbook)
 
-**DBCore:** Servicio de base de datos central que gestiona y almacena toda
-la información operativa y de usuarios del modelo de negocio.
+**DBCore:** Servicio de base de datos central que gestiona y almacena toda la información operativa y de usuarios del modelo de negocio.
 
 ## Cards del Dashboard
 
