@@ -4,13 +4,15 @@ sidebar_position: 17
 
 # Get Started
 
+[Get Started](https://www.waizant.com/checkout/step/1)
+
 ![Get Started](/img/store-usuario/get-started-1.png )
 
 **La primera etapa de "Get Started" en Waizant, "Háblanos sobre tu organización", recopila información sobre el tamaño y las operaciones. Solicita el número de profesionales clínicos (médicos, enfermeros, administradores), el promedio de casos mensuales (con rangos a seleccionar) y la cantidad de instalaciones. Con un botón para "Salir del proceso" y otro para "Siguiente".**
 
 ![Get Started](/img/store-usuario/get-started-2.png )
 
- **En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye:** Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). <!--Tus respuestas nos ayudarán a sugerir la mejor solución. -->**Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
+ **En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye:** Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). **Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
 
 ![Get Started](/img/store-usuario/get-started-3.png )
 

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Introducción a la documentación de Waizant™ Store
 
+[Waizant™ Store](https://www.waizant.com)
+
 **Waizant™ es una plataforma médica avanzada utilizada por médicos y organizaciones de salud en Estados Unidos para optimizar la gestión de sus prácticas. Diseñada con un enfoque en la eficiencia y la seguridad, cumple con la normativa HIPAA, garantizando que toda la información médica se maneje con los más altos estándares de privacidad y protección.**
 
 **La plataforma reúne en un solo lugar todas las herramientas clave que necesita una práctica médica:**

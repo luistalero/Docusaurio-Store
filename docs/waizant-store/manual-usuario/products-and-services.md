@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Products & Services
 
+[Products & Services](https://www.waizant.com/product-detail)
+
 ![Products & Services](/img/store-usuario/4.png )
 
 **Esta sección presenta las soluciones principales de Waizant™:** la aplicación móvil, la plataforma web y la herramienta de comunicación en tiempo real, que cubren la gestión clínica y administrativa.**

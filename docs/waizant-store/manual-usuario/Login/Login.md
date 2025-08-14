@@ -2,13 +2,15 @@
 sidebar_position: 1
 ---
 
-# Login MFA-Disable
+# Login
+
+[Login Waizant Store](https://www.waizant.com/auth/login)
 
 ![MFA-Disable](/img/store-usuario/login-1.png )
 
-**Al hacer clic en el botón Login que se encuentra en la parte derecha del header\, se redirige al usuario a la vista de inicio de sesión de Waizant™ Store**
+**Al hacer clic en el botón Login que se encuentra en el header\, se redirige al usuario a la vista de inicio de sesión para ingresar al user panel de la Store.**
 
-## MultiFactor Authentication Disable
+## Login para el user panel de la Store
 
 ![MFA-Disable](/img/store-usuario/login-2.png )
 

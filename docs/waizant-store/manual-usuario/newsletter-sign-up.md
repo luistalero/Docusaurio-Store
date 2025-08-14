@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Newsletter Sign-Up
 
-[Terms & Conditions](https://www.waizant.com/newsletter-sign-up)
+[Newsletter Sign-Up](https://www.waizant.com/newsletter-sign-up)
 
 ![Newsletter](/img/store-usuario/19.png )
 

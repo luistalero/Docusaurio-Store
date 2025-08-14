@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Features
 
+[Features](https://www.waizant.com/feature)
+
 ![Features](/img/store-usuario/7.png )
 
 **Esta sección destaca las funcionalidades esenciales del ecosistema Waizant™, orientadas a optimizar la gestión clínica, asegurar el cumplimiento normativo y aumentar la eficiencia operativa.**
