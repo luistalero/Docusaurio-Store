@@ -11,13 +11,11 @@ sidebar_position: 6
 ![MFA-Disable](/img/backoffice-user/notification_center_backoffice.png)
 
 **a) Para ingresar al modulo de Notification Center se debe dar clic a la opción que se encuentra en la barra lateral izquierda.**
-
 **b) Se mostrara un listado de notificaciones que se han creado mediante el botón que se encuentra en la parte superior (Create new notification) al darle clic de mostrara una sesión en la parte derecha donde se debe llenar el formulario, existen 2 tabs (Single User) y (Group of users)**
 
 **¿Cómo acceder?**
 
 **Desde la barra lateral izquierda del BackOffice, haz clic en la opción Notification Center. Se desplegará una vista principal con un listado de notificaciones existentes y un botón para crear nuevas.**
-
 **Crear Nueva Notificación**
 
 **Para crear una nueva notificación, haz clic en el botón "Create new notification" ubicado en la parte superior. Aparecerá una sección lateral con un formulario dividido en dos pestañas:**
@@ -59,7 +57,6 @@ Al tener el formulario de la notificación lleno se le da clic a este botón par
 **Vista del listado de notificaciones:**
 
 ![MFA-Disable](/img/backoffice-user/list_notification_backoffice.png)
-
 **a) En esta vista del listado contienen varios items, (Notification title) (Type) (Creation Date) (Publication date) (Status) (Action)**
 
 ***Notification title: En esta opción se mostrara el titulo de la notificación que se haya seleccionado.**
@@ -82,7 +79,6 @@ creada, al realizar esta acción no se modificara la notificación, esto hace qu
 ***Group of users**
 
 **Su funcionamiento y llenado de campos es similar al del item anterior (Single User) el item que cambia es el de (Groups of recipients) en este campo se selecciona es por grupos se selecciona en la serie de opciones que se muestran.**
-
 **Icono de notificaciones en la barra superior**
 
 ![MFA-Disable](/img/backoffice-user/icon_notification_backoffice.png)

@@ -5,7 +5,6 @@ sidebar_position: 8
 # User Support
 
 **Este modulo tiene conexionarme a la base de datos de Core, tiene conexión a lambdas AWS para el proceso de Autenticación con AWS cognito**
-
 **a\) Technical Assistance**
 
 **Permite verificar el estado de un usuario en Waizant ingresando su correo electrónico. Una vez validado, se selecciona el ecosistema para iniciar el proceso de autenticación y brindar soporte técnico personalizado.**
@@ -41,7 +40,6 @@ sidebar_position: 8
 ***Nota, si se elige dar clic en el botón de waizant store se envía a la store, Si se elige dar clic en el botón de Waizant Web se enviara a la vista de el home de la web**
 
 ![MFA-Disable](/img/backoffice-user/see_plan_details_backoffice.png)
-
 **Y si se escoge el botón de Waizant App se redirige a una vista donde se visualiza un código Qr donde se debe escanear desde un celular para hacer el ingreso mediante un dispositivo mobile**
 
 ![MFA-Disable](/img/backoffice-user/code_qr_app.png)
@@ -53,13 +51,11 @@ sidebar_position: 8
 ![MFA-Disable](/img/backoffice-user/verification_process_backoffice.png)
 
 ![MFA-Disable](/img/backoffice-user/user_email_start_verification.png)
-
 **Este código que se envia al usuario mediante el correo se debe agregar a la vista para verificación del código y así continuar con el proceso**
 
 ![MFA-Disable](/img/backoffice-user/verification_code_admin.png)
 
 ![MFA-Disable](/img/backoffice-user/internal_code_verification.png)
-
 **Se debe seleccionar un ecosistema para continuar el proceso, se da clic al botón de Send verification Code este código se le enviara al correo de la persona que esta prestando el soporte**
 
 ![MFA-Disable](/img/backoffice-user/verification_succesfull_backoffice.png)
@@ -75,7 +71,6 @@ sidebar_position: 8
 ![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)
 
 ***Nota: Esta ayuda o soporte al no tener actividad tendrá un tiempo de 15 minutos, es decir si se solicita soporte y el usuario no vuelve a tener actividad no responde al llamado de soporte a los 15 minutos de inactividad por parte del usuario automáticamente pasado el tiempo se cerrara la sesión y perderá esa solicitud.**
-
 **Modal del detallado del botón de see details si se le dio clic a The validation process for The Successor was rejected by Waizant**
 
 ![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)
