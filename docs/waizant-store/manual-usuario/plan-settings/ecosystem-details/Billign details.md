@@ -18,7 +18,7 @@ sidebar_position: 2
 
 ![Billing Details](/img/store-usuario/paymenth-method-2.png)
 
-**Cuando el usuario selecciona el cambio de método de pago y este mismo tiene el MFA desactivado, se le indicará con esta modal, indicando que tiene que activarlo para poder realizar esta acción.**
+**Cuando el usuario selecciona el cambio de método de pago y este mismo tiene el MFA desactivado, se le indicará con esta modal, indicando que tiene que activarlo para poder realizar esta acción, para más información sobre la activación de [Activar MFA](/docs/waizant-store/manual-usuario/profile-settings/activate-mfa) .**
 
 ![Billing Details](/img/store-usuario/paymenth-method-4.png)
 

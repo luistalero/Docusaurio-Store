@@ -28,14 +28,14 @@ sidebar_position: 1
 
 - **Plan Lite: Ideal para organizaciones que requieren funciones esenciales de gestión médica con acceso móvil y comunicación segura. Incluye programación ilimitada de eventos, chat cifrado punto a punto, geolocalización para integración de agenda, reportes automáticos de millaje y creación de etiquetas de jeringas conforme a JCAHO. .**
 
-- **Plan Plus: Pensado para prácticas que necesitan un control más detallado de sus encounters médicos y la gestión de datos. Añade programación de encounters, recolección de datos de calidad, seguimiento de tiempo por proveedor y carga de documentos demográficos y clínicos. Mantiene todas las funciones del plan Lite y aumenta en licencias e incluye encounters mensuales..**
+- **Plan Plus: Pensado para prácticas que necesitan un control más detallado de sus encounters médicos y la gestión de datos. Añade programación de encounters, recolección de datos de calidad, seguimiento de tiempo por proveedor y carga de documentos demográficos y clínicos. Mantiene todas las funciones del plan Lite y aumenta en licencias e incluye encounters mensuales    |.**
 
-- **Plan Premium: Diseñado para organizaciones de salud con alta demanda y necesidad de integración avanzada. Ofrece todas las funciones de los planes anteriores más el módulo Waizant™ RCM, que incluye procesamiento de datos de facturación/demografía, certificación HIPAA SOC 1 y SOC 2, preparación para outsourcing, integración EMR (HL7) y conexión con software central de facturación. Incluye más que los planes anterioes licencias y lso mismos encounters al mensuales.**
+- **Plan Premium: Diseñado para organizaciones de salud con alta demanda y necesidad de integración avanzada. Ofrece todas las funciones de los planes anteriores más el módulo Waizant™ RCM, que incluye procesamiento de datos de facturación/demografía, certificación HIPAA SOC 1 y SOC 2, preparación para outsourcing, integración EMR (HL7) y conexión con software central de facturación. Incluye más licencias que los planes anteriores y los mismos encounters mensuales.**
 
 ## **Los servicios que se ofrecen son:**
 
-- **Scheduling Service**
+- **Scheduling Service: Waizant gestione y optimice la agenda de su práctica médica. A través de herramientas avanzadas de programación, se asegura que las citas se organicen de manera eficiente, evitando solapamientos y maximizando el tiempo disponible de los proveedores. Ideal para clínicas que buscan mejorar su flujo de pacientes y reducir ausencias o espacios no utilizados.**
 
-- **Reviewing Service**
+- **Reviewing Service: Waizant ofrece un servicio especializado de auditoría de datos. Este proceso revisa la exactitud y consistencia de la información demográfica, clínica y de facturación, garantizando que esté completa, cumpla con las normativas y sea apta para el procesamiento sin errores. Esto minimiza rechazos, acelera el ciclo de cobro y mejora la eficiencia financiera de la práctica.**
 
 **Cuando un usuario desde el user panel tendra acceso para poder actualizar su plan adquirido, revisar el panel de factura y poder transferir el ecosistema creado apartir del plan comprado a algun usuario de su ecosistema por si el usuario ya no puede seguir dirgiedno el ecosistema.**
