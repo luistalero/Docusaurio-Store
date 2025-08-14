@@ -8,9 +8,9 @@ sidebar_position: 4
 
 **Este componente, desarrollado en React, es responsable de la renderización dinámica de los planes de servicio disponibles en Waizant Store. La información se extrae directamente de la base de datos de la Store, asegurando la coherencia y actualización de los datos presentados. Su implementación es transversal a múltiples secciones de la aplicación, incluyendo:**
 
-+ **La vista principal de la Store, donde se visualizan como 'cards' detallando la descripción de cada plan.**
-+ **La sección completa de 'Plans & Pricing'.**
-+ **Durante el flujo del proceso 'Get Started'.**
++ La vista principal de la Store, donde se visualizan como 'cards' detallando la descripción de cada plan.
++ La sección completa de 'Plans & Pricing'.
++ Durante el flujo del proceso 'Get Started'.
 
 **La administración y actualización de la información de los planes se realiza centralizadamente a través del módulo 'Plan Settings' en Waizant Backoffices. Cualquier modificación efectuada en dicho módulo se propaga dinámicamente a todas las instancias de este componente en la interfaz de usuario, garantizando la consistencia de la oferta de planes.**
 

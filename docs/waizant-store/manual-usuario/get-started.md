@@ -10,7 +10,7 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-2.png )
 
-**En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye: Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). Tus respuestas nos ayudarán a sugerir la mejor solución. Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
+ **En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye:** Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). <!--Tus respuestas nos ayudarán a sugerir la mejor solución. -->**Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
 
 ![Get Started](/img/store-usuario/get-started-3.png )
 
@@ -18,7 +18,7 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-8.png )
 
-**La cuarta etapa de "Get Started" se centra en "Crea tu cuenta gratuita de Waizant™". Para continuar, el usuario debe crear una contraseña que cumpla con los requisitos: al menos 10 caracteres, incluyendo una minúscula, una mayúscula, un número y un carácter especial. Se proporcionan campos para ingresar y repetir la contraseña, con opción de mostrar/ocultar caracteres. La sección "Verificación de cuenta" informa que se envió un código a una dirección de correo electrónico para autenticar la cuenta.**
+**La cuarta etapa de "Get Started" se centra en "Crea tu cuenta gratuita de Waizant™". Para continuar, el usuario debe crear una contraseña que cumpla con los requisitos:** al menos 10 caracteres, incluyendo una minúscula, una mayúscula, un número y un carácter especial. **Se proporcionan campos para ingresar y repetir la contraseña, con opción de mostrar/ocultar caracteres. La sección "Verificación de cuenta" informa que se envió un código a una dirección de correo electrónico para autenticar la cuenta.**
 
 ![Get Started](/img/store-usuario/incomplete-2.png )
 
@@ -26,7 +26,7 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get-started-4.png )
 
-**Después de que el usuario ingresa el código OTP para cognito nos mostrará esa notificación de verificación del usuario. Esta sección presenta los planes de suscripción de Waizant™, donde el sistema sugiere un plan específico "Sugerido" basándose en la información previa del usuario. Los planes son: Lite, Plus y Premium. Cada uno de estos planes cuenta con características específicas y funcionalidades exclusivas del tipo de plan.**
+**Después de que el usuario ingresa el código OTP para cognito nos mostrará esa notificación de verificación del usuario. Esta sección presenta los planes de suscripción de Waizant™, donde el sistema sugiere un plan específico "Sugerido" basándose en la información previa del usuario. Los planes son:** Lite, Plus y Premium. **Cada uno de estos planes cuenta con características específicas y funcionalidades exclusivas del tipo de plan.**
 
 ![Get Started](/img/store-usuario/get-started-5.png )
 

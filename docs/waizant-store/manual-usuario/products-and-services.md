@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ![Products & Services](/img/store-usuario/4.png )
 
-**Esta sección presenta las soluciones principales de Waizant™: la aplicación móvil, la plataforma web y la herramienta de comunicación en tiempo real, que cubren la gestión clínica y administrativa.**
+**Esta sección presenta las soluciones principales de Waizant™:** la aplicación móvil, la plataforma web y la herramienta de comunicación en tiempo real, que cubren la gestión clínica y administrativa.**
 
 ![Products & Services](/img/store-usuario/5.png )
 

@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ![ACTIVAR MFA 2](/img/store-usuario/mfa-active-2.png)
 
-**Para configurar la MFA en Waizant, puedes "Configurar usando la aplicación de autenticación". La pantalla ofrece dos métodos: descargar aplicaciones como Authy o Google Authenticator, o escanear un código QR. Si el escaneo no es posible, se proporciona un código alfanumérico largo para ingreso manual. Incluye botones "Copiar", "Atrás" y "Continuar".**
+**Para configurar la MFA en Waizant, puedes "Configurar usando la aplicación de autenticación". La pantalla ofrece dos métodos:** descargar aplicaciones como Authy o Google Authenticator o escanear un código QR. **Si el escaneo no es posible, se proporciona un código alfanumérico largo para ingreso manual. Incluye botones "Copiar", "Atrás" y "Continuar".**
 
 ![ACTIVAR MFA 3](/img/store-usuario/mfa-active-2.png)
 
@@ -24,7 +24,7 @@ sidebar_position: 3
 
 ![DESACTIVAR MFA 1](/img/store-usuario/mfa-disable-1.png)
 
-**Al intentar desactivar la autenticación multifactor (MFA), aparece una ventana de advertencia: "¿Está a punto de deshabilitar la autenticación multifactor (MFA) en su cuenta. Esta acción puede comprometer la seguridad de su cuenta. ¿Desea continuar?". Se ofrecen las opciones "Cancelar" y "Ok".**
+**Al intentar desactivar la autenticación multifactor (MFA), aparece una ventana de advertencia:** "¿Está a punto de deshabilitar la autenticación multifactor (MFA) en su cuenta. Esta acción puede comprometer la seguridad de su cuenta. ¿Desea continuar?". **Se ofrecen las opciones "Cancelar" y "Ok".**
 
 ![DESACTIVAR MFA 2](/img/store-usuario/mfa-disable-2.png)
 

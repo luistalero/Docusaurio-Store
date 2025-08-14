@@ -2,12 +2,19 @@
 sidebar_position: 2
 ---
 
-# Waizant™
+# Ingreso a la Store
 
-![Waizant™](/img/store-usuario/2.png )
+![Store](/img/store-usuario/1.png )
 
-**El botón Waizant™, situado en la barra superior junto al logo, te redirige a la vista principal de la tienda desde cualquier otra sección.**
+**Para acceder a la vista principal ingresa a [Waizant™ Store](https://www.Waizant.com)**
+
+## Waizant™
 
 ![Waizant™](/img/store-usuario/1.png )
 
-**Al hacer clic en el botón Waizant™, el usuario será dirigido a esta vista principal.**
+**Al hacer clic en el logo principal de Waizant™ en el header, te redirige a la vista principal de la tienda desde cualquier otra sección.**
+
+<!-- 
+seguir con el home 
+
+ -->
