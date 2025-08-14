@@ -87,7 +87,6 @@ En esta opción se refleja una tabs con dos opciones (Edit monthly prices) (Edit
 **Al seleccionar las licencias le damos clic en Next para seguir al siguiente ítem.**
 
 ***Services**
-
 **Este item tiene dos opciones**
 
 ***Build Schedule: Contiene un campo para ingresar el precio requerido**
@@ -97,7 +96,6 @@ En esta opción se refleja una tabs con dos opciones (Edit monthly prices) (Edit
 ![MFA-Disable](/img/backoffice-user/list_service_backoffice.png)
 
 ***Pricing:**
-
 **Contiene 3 card (Monthly price) (Annual price) (Discount)**
 
 ***Monthly price: Se ingresa el valor de la licencia por mes**
@@ -105,18 +103,15 @@ En esta opción se refleja una tabs con dos opciones (Edit monthly prices) (Edit
 ***Annual price: Se agrega el valor de la licencia por año**
 
 ***Discount: Se realiza el descuento del 20% y muestra el total de descuento en el año.**
-
 **Al tener estos datos llenos se activa el botón de Save rates y se guarda la información al dar clic y se crea la versión**
 
 **b) Plan Plus: Este plan es similar al anterior (Plan Lite) la diferencia es que tiene algunas funcionalidades extras.**
 
 ![MFA-Disable](/img/backoffice-user/pircing_service_backoffice.png)
-
 **Schedule**
 
 **Encounters:**
 Gestión y registro de encuentros o interacciones.
-
 **LabelLlinx**
 
 **MileLinx:**
@@ -124,7 +119,6 @@ Control y seguimiento de distancias o recorridos.
 
 **Quality:**
 Módulo de control de calidad sobre procesos.
-
 **Waizant Chat**
 
 **Billings (CSV y JSON):**
@@ -133,26 +127,17 @@ Exportación y gestión de facturación en formatos CSV y JSON.
 **c) En Parameters cuenta con una segunda opción de (Number of entries) al igual que los pasos anteriores se llenan los campos.**
 
 ![MFA-Disable](/img/backoffice-user/number_of_entries.png)
-
 **Plan Premium**
-
 **El plan más completo, que incluye todas las funcionalidades disponibles en el sistema, ideal para operaciones avanzadas y mayor control administrativo, en este plan al igual que el anterior contiene una nueva opción de (Number of entries) y se llenan para crear una versión mas robusta con todas las opciones que contiene**
-
 **Schedule**
-
 **Encounters**
 
 **Encounters + Capture:**
 Gestión de encuentros con captura de datos adicional.
-
 **LabelLlinx**
-
 **MileLinx**
-
 **Quality**
-
 **Waizant Chat**
-
 **Billings (CSV y JSON)**
 
 **Billings Full (CSV, JSON, XML y PDF):**

@@ -51,9 +51,7 @@ Correo electrónico de contacto (obligatorio).
 ***User Type:**
 
 **Este campo determina el rol y las funcionalidades que tendrá cada usuario en el sistema. Los tipos de usuario disponibles se registran en las tablas:**
-
 **usuariosPerfiles**
-
 **usuariosPerfilesPermisos**
 
 **Cada opción disponible en el User Type se asocia con un perfil definido en estas tablas, el cual a su vez cuenta con permisos específicos que controlan el acceso a los módulos y acciones del sistema, gestionados desde la tabla webModulosPermisos.**
@@ -79,7 +77,6 @@ Usuario encargado de digitalización de información.
 
 **Developer:**
 Usuario con permisos de desarrollo y mantenimiento técnico.
-
 **Edit**
 
 **Cuando el administrador selecciona la opción Edit desde el módulo Users System, se despliega una ventana modal que permite actualizar la información del usuario seleccionado, en la actualización de la contraseña se deben seguir una serie de condiciones.**
@@ -87,7 +84,6 @@ Usuario con permisos de desarrollo y mantenimiento técnico.
 ![MFA-Disable](/img/backoffice-user/edit_modal_user_system.png)
 
 **Dentro de esta misma modal, se encuentra un botón llamado Permissions, que permite configurar los accesos del usuario dentro de la plataforma.**
-
 **Al hacer clic en este botón, se abre una segunda pantalla dentro de la misma modal, donde el administrador puede habilitar o deshabilitar los módulos a los que el usuario tendrá acceso**
 
 **Cada módulo se presenta como un checkbox, permitiendo una asignaciónde permisos según los roles o necesidades.**

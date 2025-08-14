@@ -7,7 +7,6 @@ sidebar_position: 10
 **El módulo Medical Specialty es responsable de la gestión centralizada de las especialidades médicas que se ofrecen dentro del ecosistema de Waizant. Su principal objetivo es mantener actualizado y estructurado el catálogo de especialidades disponibles, el cual sirve como base para otros procesos clínicos y administrativos del sistema, tales como la configuración de perfiles de profesionales de salud, asignación de agendas, categorización de casos clínicos y segmentación de servicios según el tipo de atención requerida.**
 
 ![MFA-Disable](/img/backoffice-user/medical_speciality_backoffice.png)
-
 **Funcionalidades principales**
 
 ***Creación de especialidades:**
@@ -44,10 +43,8 @@ Botones para editar o cambiar el estado del registro.
 
 **Se deben llenar los campos los cuales son obligatorios, se da clic en el botón Save, cuando se guarda la especialidad medica se mostrara en el listado inicial.**
 ![MFA-Disable](/img/backoffice-user/cancel_create_medical_speciality.png)
-
 **Modal de Edit**
 
 **Es una interfaz tipo popup que se abre al hacer clic en el botón "Edit" (ubicado en la columna Action del listado de especialidades). Esta ventana muestra los datos ya registrados de la especialidad seleccionada, permitiendo modificarlos de forma rápida y controlada.**
 
 ![MFA-Disable](/img/backoffice-user/edit_medical_speciality.png)
-
