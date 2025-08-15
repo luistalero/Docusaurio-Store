@@ -14,7 +14,7 @@ sidebar_position: 1
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_completed.png)
 
-**El ecosistema está activo. Hay al menos una licencia de usuario habilitada y encuentros disponibles. No se requiere ninguna acción inmediata, para más información acceda aqui [Detalles De Ecosistema](/docs/waizant-store/manual-usuario/plan-settings/ecosystem-details/ecosystem-details).**
+**El ecosistema está activo. Hay al menos una licencia de usuario habilitada y encuentros disponibles. No se requiere ninguna acción inmediata, para más información acceda aqui [Detalles De Ecosistema](/docs/waizant-store/manual-usuario/plan-settings/ecosystem-details/ecosystem-detail).**
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_inactive.png)
 
