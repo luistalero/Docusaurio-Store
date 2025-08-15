@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Bienvenido a mi Documentación de BackOffice en docusaurio.
 
-**Para ingresar al Backoffice se debe ingresar al siguiente link**[Login](https://backoffice.waizant.com/auth/login)
+**Para ingresar al Backoffice se debe ingresar al siguiente link** [Login](https://backoffice.waizant.com/auth/login)
 
 **Se debe loguear con las credenciales correctas, email y password al ingresar quedara situado el modulo de Dashboard.**
 

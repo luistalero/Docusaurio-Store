@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# MedicalSpeciality
+# Medical Speciality
 
 **Este módulo permite gestionar y administrar las especialidades médicas dentro de un sistema o plataforma clínica o médica. Funciona como un catálogo o registro donde se almacenan las diferentes especialidades médicas disponibles en la plataforma, que pueden asociarse posteriormente a usuarios, profesionales de la salud, servicios, o planes.**
 
@@ -16,4 +16,9 @@ sidebar_position: 3
 
 ***Organizar contenido o funcionalidades específicas por especialidad.**
 
-***Nota: Toda la información gestionada desde este módulo se almacena en la base de datos correspondiente a la plantilla waizant_ticket, asegurando que las especialidades médicas queden centralizadas y disponibles para su consulta o uso desde otros módulos del sistema, el campo de title cuando se crea este se renderiza en la store donde se muestra un selector donde están las opciones que se han creado, todo se comunica y guarda directamente a la plantilla de la base de datos “waizant_ticket”**
+***Nota: Toda la información gestionada desde este módulo se almacena en la base de datos correspondiente a la plantilla `waizant_ticket`, asegurando que las especialidades médicas queden centralizadas y disponibles para su consulta o uso desde otros módulos del sistema, el campo de title cuando se crea este se renderiza en la store donde se muestra un selector donde están las opciones que se han creado, todo se comunica y guarda directamente a la plantilla de la base de datos `“waizant_ticket”`**
+
+:::info
+Más información aquí{' '}
+<a href="/docs/waizant-backoffices/manual-usuario/medical-specialty"className="info">Medical Speciality</a>
+:::

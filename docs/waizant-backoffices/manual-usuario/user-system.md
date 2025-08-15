@@ -18,9 +18,9 @@ sidebar_position: 9
 
 **La modal contiene un formulario el cual se debe llenar completamente, sobre todo los campos con un * ya que son campos requeridos y al no llenarse no es posible avanzar con la creación del usuario, también hay una validación para las contraseñas, la cual tiene una serie de condiciones, al llenar los campos y cumplir con todo lo requerido se activa el botón de Save, y se da clic se guarda el usuario, este se vera reflejado en la lista inicial de cuando se ingresa al modulo.**
 
-**El listado tiene una serie de campos\, (Tilte), (Date Created), (Date Update), (Active), (Action)**
+**El listado tiene una serie de campos\, `(Tilte)(Date Created)(Date Update)(Active)(Action)`**
 
-***Nota: al darle clic al botón de Edit se puede editar la información del usuario**
+***`Nota:` al darle clic al botón de Edit se puede editar la información del usuario**
 ![MFA-Disable](/img/backoffice-user/create_new_user_system.png)
 
 **Al darle clic en el toogle de Active si esta activa se desactiva esa especialidad y sin esta desactivada se activara, también se muestra un botón de Edit el cual al darle clic se muestra una modal con los campos llenos pero si se desea actualizar la información solo se remplaza y se le da clic en Save.**
@@ -31,24 +31,24 @@ sidebar_position: 9
 
 ![MFA-Disable](/img/backoffice-user/modal_create_user_backoffice.png)
 
-**User Name:**
+**`User Name:`**
  Nombre del usuario (obligatorio).
 
-**User Last Name:**
+**`User Last Name:`**
  Apellido del usuario (obligatorio).
 
-**User Email:**
+**`User Email:`**
 Correo electrónico de contacto (obligatorio).
 
-**Phone Number:**
+**`Phone Number:`**
  Número de teléfono con prefijo internacional(obligatorio).
 
-**Position:**
+**`Position:`**
  Cargo o puesto del usuario dentro de la organización.
 
 **Create Password / Repeat new password: Credenciales de acceso inicial, que deben cumplir con requisitos de seguridad (mínimo 8 caracteres, incluir caracteres especiales, y coincidir ambas contraseñas).**
 
-***User Type:**
+***`User Type:`**
 
 **Este campo determina el rol y las funcionalidades que tendrá cada usuario en el sistema. Los tipos de usuario disponibles se registran en las tablas:**
 **usuariosPerfiles**
@@ -58,22 +58,22 @@ Correo electrónico de contacto (obligatorio).
 
 **Tipos de usuario disponibles:**
 
-**Admin Reviewer System:**
+**`Admin Reviewer System:`**
 Usuario con permisos administrativos y de revisión.
 
-**Admin Digitizer System:**
+**`Admin Digitizer System:`**
 Usuario con permisos administrativos y de digitalización.
 
-**Support System:**
+**`Support System:`**
 Usuario para tareas de soporte.
 
-**Reviewer System:**
+**`Reviewer System:`**
 Usuario únicamente con funciones de revisión.
 
-**Digitizer System:**
+**`Digitizer System:`**
 Usuario encargado de digitalización de información.
 
-**Developer:**
+**`Developer:`**
 Usuario con permisos de desarrollo y mantenimiento técnico.
 **Edit**
 
@@ -88,4 +88,4 @@ Usuario con permisos de desarrollo y mantenimiento técnico.
 
 ![MFA-Disable](/img/backoffice-user/edit_modal_permissions_usersystem.png)
 
-***Nota: Al seleccionar los módulos que se desea que el usuario del sistema tenga, haga clic en el botón Save**
+***`Nota:` Al seleccionar los módulos que se desea que el usuario del sistema tenga, haga clic en el botón Save**

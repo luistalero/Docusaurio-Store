@@ -75,3 +75,7 @@ a.info {
   color: #25c2a0;
   text-decoration-color: #25c2a0;
 }
+code{
+  color: #25c2a0;
+  background: transparent;
+}
