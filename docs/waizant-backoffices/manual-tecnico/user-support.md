@@ -28,7 +28,7 @@ sidebar_position: 7
 
 ## Ecosystem Admin
 
-**Este submodulo tiene conexión con la base de datos del `Core`, tiene conexión con `lambdas AWS` para el envio de mensajes con el código `Qr` Previamente pide un `MFA` al de soporte por medio de la conexión a una lambda, se envía código a la persona que se le esta brindando el soporte, se mostrara el listado de una serie de pasos en el que el usuario sucesor tiene ayuda, con unas opciones de see details que al dar clic se mostrara la información mas detallada.**
+**Este submodulo tiene conexión con la base de datos del `Core`, tiene conexión con `lambdas AWS` para el envio de mensajes con el código `Qr` Previamente pide un `MFA` al de soporte por medio de la conexión a una `lambda`, se envía código a la persona que se le esta brindando el soporte, se mostrara el listado de una serie de pasos en el que el usuario sucesor tiene ayuda, con unas opciones de see details que al dar clic se mostrara la información mas detallada.**
 ![MFA-Disable](/img/backoffice-user/modal-verification-user-support.png)
 
 ## Código MFA Usuario
@@ -43,8 +43,8 @@ sidebar_position: 7
 
 ![MFA-Disable](/img/backoffice-user/activity-succesor-.png)
 
-**Nota: Esta ayuda o soporte al no tener actividad tendrá un tiempo de 15 minutos, es decir si se solicita soporte y el usuario no vuelve a tener actividad no responde al llamado de soporte a los 15 minutos de inactividad por parte del usuario automáticamente pasado el tiempo se cerrara la sesión y perderá esa solicitud.**
+**`Nota:` Esta ayuda o soporte al no tener actividad tendrá un tiempo de 15 minutos, es decir si se solicita soporte y el usuario no vuelve a tener actividad no responde al llamado de soporte a los 15 minutos de inactividad por parte del usuario automáticamente pasado el tiempo se cerrara la sesión y perderá esa solicitud.**
 
-**La modal del detallado del botón de see details si se le dio clic a The validation process for The Successor was rejected by Waizant.**
+**La modal del detallado del botón de `see details` si se le dio clic a The validation process for The Successor was rejected by Waizant.**
 
 ![MFA-Disable](/img/backoffice-user/validation-process-succesor.png)
