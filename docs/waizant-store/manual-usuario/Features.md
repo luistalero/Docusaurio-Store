@@ -6,11 +6,11 @@ sidebar_position: 4
 
 [Features](https://www.waizant.com/feature)
 
-![Features](/img/store-usuario/7.png )
+![Features](/img/store-usuario/features.png )
 
 **Esta sección destaca las funcionalidades esenciales del ecosistema Waizant™, orientadas a optimizar la gestión clínica, asegurar el cumplimiento normativo y aumentar la eficiencia operativa.**
 
-![Features](/img/store-usuario/8.png )
+![Features](/img/store-usuario/features_our.png )
 
 **Recaudación de Datos de Facturación:** Herramienta que agiliza el cierre de casos al recopilar información médica precisa y compararla con centros externos, reduciendo errores y garantizando cobros correctos.
 

@@ -4,19 +4,19 @@ sidebar_position: 2
 
 # Ingreso a la Store
 
-![Store](/img/store-usuario/2.png )
+![Store](/img/store-usuario/waizant_store.png )
 
 **Para acceder a la vista principal ingresa a [Waizant™ Store](https://www.Waizant.com)**
 
 ## Waizant™
 
-![Waizant™](/img/store-usuario/1.png )
+![Waizant™](/img/store-usuario/waizant_store_home.png )
 
 **Al hacer clic en el logo principal de Waizant™ en el header, te redirige a la vista principal de la tienda desde cualquier otra sección.**
 
 ## Bienvenido a Waizant™ Store
 
-![Waizant™](/img/store-usuario/waizant_home_1.png )
+![Waizant™](/img/store-usuario/waizant_home_start.png )
 
 **¿Cansado de perder ingresos por procesos manuales obsoletos?**
 
@@ -24,7 +24,7 @@ sidebar_position: 2
 
 **Desde el almacenamiento seguro en la nube hasta la recolección de datos de calidad y facturación, Waizant te ofrece la tecnología que tu equipo necesita para trabajar de forma más ágil, precisa y rentable. Moderniza tu operación médica. Gana tiempo, precisión y control.**
 
-![Waizant™](/img/store-usuario/waizant_home_2.png )
+![Waizant™](/img/store-usuario/waizant_home_features.png )
 
 **Key Features: Waizant™ ofrece herramientas seguras y eficientes para optimizar la captura y transmisión de datos médicos.**
 
@@ -34,7 +34,7 @@ sidebar_position: 2
 
 - Secure Communication
 
-![Waizant™](/img/store-usuario/waizant_home_3.png )
+![Waizant™](/img/store-usuario/waizant_home_products.png )
 
 **Nuestros Productos:**
 
@@ -44,7 +44,7 @@ sidebar_position: 2
 
 - **Waizant™ Chat:** Comunícate de forma segura y eficiente con tu equipo, compartiendo información clave en tiempo real.
 
-![Waizant™](/img/store-usuario/waizant_home_4.png )
+![Waizant™](/img/store-usuario/waizant_home_plans.png )
 
 **Nuestros Planes: Desde la programación y seguimiento de agendas hasta la recolección segura de datos y facturación, Waizant™ ofrece planes que crecen contigo. Elige la opción ideal para tu práctica y escala cuando lo necesites.**
 
