@@ -6,13 +6,13 @@ sidebar_position: 6
 
 **El Notification Center es el módulo del BackOffice diseñado para la gestión centralizada de notificaciones dentro del sistema. Permite a los usuarios administrativos `crear, editar, programar, enviar y eliminar mensajes` dirigidos a usuarios del ecosistema.**
 
-**Este módulo es crucial para mantener una comunicación fluida entre el sistema y los usuarios, ya sea para `enviar mensajes informativos, alertas, avisos de bienvenida, recordatorios, o mensajes grupales`.**
+**Este módulo es crucial para mantener una comunicación fluida entre el sistema y los usuarios, ya sea para enviar mensajes informativos `alertas, avisos de bienvenida, recordatorios, o mensajes grupales`.**
 
 ![MFA-Disable](/img/backoffice-user/notification_center_backoffice.png)
 
 - **Para ingresar al modulo de Notification Center se debe dar clic a la opción que se encuentra en la barra lateral izquierda.**
 
-- **Se mostrara un listado de notificaciones que se han creado mediante el botón que se encuentra en la parte superior (Create new notification) al darle clic de mostrara una sesión en la parte derecha donde se debe llenar el formulario, existen 2 tabs `(Single User)` y `(Group of users)`**
+- **Se mostrara un listado de notificaciones que se han creado mediante el botón que se encuentra en la parte superior `(Create new notification)` al darle clic de mostrara una sesión en la parte derecha donde se debe llenar el formulario, existen 2 tabs `(Single User)` y `(Group of users)`**
 
 **¿Cómo acceder?**
 
@@ -71,11 +71,11 @@ Al tener el formulario de la notificación lleno se le da clic a este botón par
 
 ***`Status:` Esta opción varia dependiendo del estado de la alerta cuando se envía estatus estará en draft, pero cuando ya le llega la notificación al usuario el status cambia a Published.**
 
-***`Action:` En esta opción se visualizan don botones, (Edit, Reprogam) (Delete)**
+***`Action:` En esta opción se visualizan don botones, `(Edit, Reprogam) (Delete)`**
 
 ![MFA-Disable](/img/backoffice-user/edit_notification_backoffice.png)
 
-***Nota: Los botones de `(Edit, Reprogam)` se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada, el boton Delete al darle clic elimina la notificación.**
+***`Nota:` Los botones de `(Edit, Reprogam)` se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada, el boton Delete al darle clic elimina la notificación.**
 
 ***Group of users**
 

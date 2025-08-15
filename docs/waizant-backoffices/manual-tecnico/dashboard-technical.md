@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Dashboard
 
-**El módulo Dashboard es el panel de control principal del Backoffice. Permite a los administradores del modelo de negocio consultar de forma rápida métricas clave, facilitando la toma de decisiones y el seguimiento de la operación, cuenta con librerias para los archivos de excel, librerias para mostrar las graficas y una base de datos.**
+**El módulo Dashboard es el panel de control principal del Backoffice. Permite a los administradores del modelo de negocio consultar de forma rápida métricas clave, facilitando la toma de decisiones y el seguimiento de la operación, cuenta con `librerias` para los archivos de `excel`, `librerias` para mostrar las `graficas` y una `base de datos`.**
 
 ![MFA-Disable](/img/backoffice-user/dashboard_backoffice_file.png)
 
@@ -55,11 +55,9 @@ Es el promedio de ingresos generados por cada plan vendido en la plataforma. Se 
 ## Suscriptions
 
 **Esta sección tiene conexión a la base de datos de la store y esta creada por la librería de apexcharts para creación de las gráficas**  [ApexCharts](https://apexcharts.com/) **también tiene un campo para descargar el informe mediante el documento xls el cual se crea mediante la librería de exceljs**
-[ExcelJS](https://www.npmjs.com/package/exceljs#create-a-workbook)
+[ExcelJS](https://www.npmjs.com/package/exceljs#create-a-workbook) **actualizada del comportamiento de las suscripciones dentro del ecosistema de la plataforma durante el año 2025.**
 
 ![MFA-Disable](/img/backoffice-user/suscription_backoffice.png)
-
-**actualizada del comportamiento de las suscripciones dentro del ecosistema de la plataforma durante el año 2025.**
 
 **A través de este módulo se busca:**
 

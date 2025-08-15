@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Profile Settings
 
-**El módulo Profile Settings permite a cada usuario administrador gestionar y actualizar su información personal y de acceso dentro del sistema BackOffice. Desde esta sección, cada usuario puede modificar sus datos básicos, actualizar su imagen de perfil, definir su contraseña de acceso y configurar la autenticación multifactor si está disponible.**
+**El módulo Profile Settings permite a cada usuario administrador gestionar y actualizar su información personal y de acceso dentro del sistema `BackOffice`. Desde esta sección, cada usuario puede modificar sus datos básicos, actualizar su imagen de perfil, definir su contraseña de acceso y configurar la autenticación multifactor si está disponible.**
 
 **Es una herramienta orientada a mantener la información personal actualizada y a reforzar la seguridad de las cuentas administrativas.**
 **Esta vista contiene una tabs con dos opciones `(Profile)(Multi-factor)`**
