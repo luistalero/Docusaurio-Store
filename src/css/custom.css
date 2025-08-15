@@ -79,3 +79,9 @@ code{
   color: #25c2a0;
   background: transparent;
 }
+.footer--dark .container-fluid{
+display: flex;
+flex-direction: column;
+text-align: center;
+row-gap: 10px;
+}

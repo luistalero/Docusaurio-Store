@@ -45,6 +45,6 @@ Botones para editar o cambiar el estado del registro.
 ![MFA-Disable](/img/backoffice-user/cancel_create_medical_speciality.png)
 **Modal de Edit**
 
-**Es una interfaz tipo popup que se abre al hacer clic en el botón "Edit" (ubicado en la columna Action del listado de especialidades). Esta ventana muestra los datos ya registrados de la especialidad seleccionada, permitiendo modificarlos de forma rápida y controlada.**
+**Es una interfaz tipo popup que se abre al hacer clic en el botón `"Edit"` (ubicado en la columna Action del listado de especialidades). Esta ventana muestra los datos ya registrados de la especialidad seleccionada, permitiendo modificarlos de forma rápida y controlada.**
 
 ![MFA-Disable](/img/backoffice-user/edit_medical_speciality.png)
