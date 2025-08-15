@@ -118,5 +118,5 @@ sidebar_position: 17
 
 :::info
 Más información aquí{' '}
-<a href="/docs/waizant-store/manual-usuario/Login/Registro%20incompleto"className="info">Usuario no verificado</a>
+<a href="/docs/waizant-store/manual-usuario/Login/registro-incompleto"className="info">Usuario no verificado</a>
 :::
