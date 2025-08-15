@@ -30,7 +30,7 @@ sidebar_position: 1
 
 ![Estado Ecosystem](/img/store-usuario/Card-ecosystem-(9).png)
 
-**El sistema detecta cuando un usuario cancele la suscripción a su plan y automaticamente la tarjeta del ecosistema tomara este estilo para que el usuario tenga acceso unicamente a su billing panel, para más información acceda aqui [Billing Panel](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/billing-panel).**
+**El sistema detecta cuando un usuario cancele la suscripción a su plan y automaticamente la tarjeta del ecosistema tomara este estilo para que el usuario tenga acceso unicamente a su billing panel, para más información acceda aqui [Billing Panel](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/canceled-plan).**
 
 ## Barra de Progreso de los Ecosistemas
 
