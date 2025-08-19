@@ -7,3 +7,12 @@
   height: 200px;
   width: 200px;
 }
+
+.buttons {
+    height: 40px;
+    width: 300px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    background: #851e1e;
+    font-size: 18px;
+}

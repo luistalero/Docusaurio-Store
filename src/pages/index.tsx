@@ -7,6 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import LogoutButton from '../components/Logout';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -24,6 +25,7 @@ function HomepageHeader() {
             Documentación Waizant™
           </Link>
         </div>
+          <LogoutButton />
       </div>
     </header>
   );
