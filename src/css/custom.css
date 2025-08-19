@@ -85,3 +85,12 @@ flex-direction: column;
 text-align: center;
 row-gap: 10px;
 }
+
+@media (max-width: 768px) {
+  .footer--dark .container-fluid {
+    display: block;
+    flex-direction: column;
+    text-align: left;
+    row-gap: 0px;
+  }
+}

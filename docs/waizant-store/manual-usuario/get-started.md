@@ -8,27 +8,27 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/get_started_now.png )
 
-**La primera etapa de "Get Started" en Waizant, "Háblanos sobre tu organización", recopila información sobre el tamaño y las operaciones. Solicita el número de profesionales clínicos (médicos, enfermeros, administradores), el promedio de casos mensuales (con rangos a seleccionar) y la cantidad de instalaciones. Con un botón para "Salir del proceso" y otro para "Siguiente".**
+**La primera etapa de `Get Started` en Waizant, `Háblanos sobre tu organización`, recopila información sobre el tamaño y las operaciones. Solicita el número de profesionales clínicos (médicos, enfermeros, administradores), el promedio de casos mensuales (con rangos a seleccionar) y la cantidad de instalaciones. Con un botón para `Salir del proceso` y otro para `Siguiente`.**
 
 ![Get Started](/img/store-usuario/let_us_get_to_know_you.png )
 
- **En la segunda etapa de "Get Started", "Háganos saber sus necesidades", se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye:** Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). **Se incluyen botones para "Anterior", "Siguiente" y "Salir del proceso".**
+ **En la segunda etapa de `Get Started`, `Háganos saber sus necesidades`, se pide al usuario seleccionar los servicios y características de interés para ayudar a Waizant a proponer el plan ideal. La lista incluye:** Recopilación de datos de facturación, informes de medidas de calidad (AQI), documentación de encuentros con capturas, Comunicación segura entre usuarios, Etiquetas de jeringas compatibles con JHACO (LabelLinx™) y Codificación para facturación (Waizant™ RCM). **Se incluyen botones para `Anterior`, `Siguiente` y `Salir del proceso`.**
 
 ![Get Started](/img/store-usuario/let_us_know_your_needs.png )
 
-**La tercera etapa de "Get Started", "Permítanos conocerlo", solicita información personal y de la empresa antes de recomendar un plan. Incluye campos para nombre, apellido, correo electrónico de la empresa, número de teléfono, nombre de la empresa, especialidad médica (desplegable), rol en la empresa (Administrador de prácticas, Profesional líder, Ejecutivo, Líder de TI) y una descripción de la especialidad profesional o médica del usuario.**
+**La tercera etapa de `Get Started`, `Permítanos conocerlo`, solicita información personal y de la empresa antes de recomendar un plan. Incluye campos para nombre, apellido, correo electrónico de la empresa, número de teléfono, nombre de la empresa, especialidad médica (desplegable), rol en la empresa (Administrador de prácticas, Profesional líder, Ejecutivo, Líder de TI) y una descripción de la especialidad profesional o médica del usuario.**
 
 ![Get Started](/img/store-usuario/configurate_password_user.png )
 
-**La cuarta etapa de "Get Started" se centra en "Crea tu cuenta gratuita de Waizant™". Para continuar, el usuario debe crear una contraseña que cumpla con los requisitos:** al menos 10 caracteres, incluyendo una minúscula, una mayúscula, un número y un carácter especial. **Se proporcionan campos para ingresar y repetir la contraseña, con opción de mostrar/ocultar caracteres. La sección "Verificación de cuenta" informa que se envió un código a una dirección de correo electrónico para autenticar la cuenta.**
+**La cuarta etapa de `Get Started` se centra en `Crea tu cuenta gratuita de Waizant™`. Para continuar, el usuario debe crear una contraseña que cumpla con los requisitos:** al menos 10 caracteres, incluyendo una minúscula, una mayúscula, un número y un carácter especial. **Se proporcionan campos para ingresar y repetir la contraseña, con opción de mostrar/ocultar caracteres. La sección `Verificación de cuenta` informa que se envió un código a una dirección de correo electrónico para autenticar la cuenta.**
 
 ![Get Started](/img/store-usuario/login/cognito_verify.png )
 
-**Al ingresar el código OTP de AWS Cognito, el usuario completa el registro y queda verificado como un "usuario tipo Lead" (un usuario sin compras aún).**
+**Al ingresar el código OTP de AWS Cognito, el usuario completa el registro y queda verificado como un `usuario tipo Lead` (un usuario sin compras aún).**
 
 ![Get Started](/img/store-usuario/select_best_plan.png )
 
-**Después de que el usuario ingresa el código OTP para cognito nos mostrará esa notificación de verificación del usuario. Esta sección presenta los planes de suscripción de Waizant™, donde el sistema sugiere un plan específico "Sugerido" basándose en la información previa del usuario. Los planes son:** Lite, Plus y Premium. **Cada uno de estos planes cuenta con características específicas y funcionalidades exclusivas del tipo de plan.**
+**Después de que el usuario ingresa el código OTP para cognito nos mostrará esa notificación de verificación del usuario. Esta sección presenta los planes de suscripción de Waizant™, donde el sistema sugiere un plan específico `Sugerido` basándose en la información previa del usuario. Los planes son:** Lite, Plus y Premium. **Cada uno de estos planes cuenta con características específicas y funcionalidades exclusivas del tipo de plan.**
 
 ![Get Started](/img/store-usuario/plan_suggested.png )
 
@@ -68,7 +68,7 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/successful_plan_purchase.png )
 
-**Después de terminar el pago del plan, nos mostrará esta modal si todo está completamente bien y nos preguntará qué deseamos hacer, "Build My Ecosystem" o "Not Now", que específicamente nos lleva a otra vista para la creación de nuestro ecosistema y la otra opción nos lleva al inicio de la Store.**
+**Después de terminar el pago del plan, nos mostrará esta modal si todo está completamente bien y nos preguntará qué deseamos hacer, `Build My Ecosystem` o `Not Now`, que específicamente nos lleva a otra vista para la creación de nuestro ecosistema y la otra opción nos lleva al inicio de la Store.**
 
 ## Build My Ecosystem
 
@@ -82,23 +82,23 @@ sidebar_position: 17
 
 ![Get Started](/img/store-usuario/built_ecosystem_billing_data_colletion.png )
 
-**Esta pantalla, "Billing Data Collection", corresponde a una etapa inicial de configuración del sistema. Waizant permite la documentación y transmisión de Información de Salud Protegida (PHI), datos de calidad e información de facturación, otorgando un control preciso sobre los servicios dentro de la aplicación. Que culmina con un mensaje de agradecimiento por su paciencia mientras el sistema se configura.**
+**Esta pantalla, `Billing Data Collection`, corresponde a una etapa inicial de configuración del sistema. Waizant permite la documentación y transmisión de Información de Salud Protegida (PHI), datos de calidad e información de facturación, otorgando un control preciso sobre los servicios dentro de la aplicación. Que culmina con un mensaje de agradecimiento por su paciencia mientras el sistema se configura.**
 
 ![Get Started](/img/store-usuario/built_ecosystem_quality_data_colletion.png )
 
-**Esta pantalla muestra la segunda etapa del proceso de configuración inicial, titulada "Quality Data Collection" (Recolección de Datos de Calidad). Se informa al usuario que tendrá control total sobre la documentación y el reporte de las medidas de calidad de su práctica médica, lo que asegura el cumplimiento normativo adaptado a su especialidad. En la parte inferior, se presenta un mensaje de agradecimiento por la paciencia del usuario, indicando que la configuración del sistema tomará solo unos minutos.**
+**Esta pantalla muestra la segunda etapa del proceso de configuración inicial, titulada `Quality Data Collection` (Recolección de Datos de Calidad). Se informa al usuario que tendrá control total sobre la documentación y el reporte de las medidas de calidad de su práctica médica, lo que asegura el cumplimiento normativo adaptado a su especialidad. En la parte inferior, se presenta un mensaje de agradecimiento por la paciencia del usuario, indicando que la configuración del sistema tomará solo unos minutos.**
 
 ![Get Started](/img/store-usuario/built_ecosystem_secure_comunication.png )
 
-**"Secure Communication" es la tercera etapa de la configuración inicial. El servicio de comunicación de Waizant cumple con la normativa HIPAA, garantizando la capacidad de compartir Información de Salud Protegida (PHI) de forma segura con su equipo en tiempo real. La comunicación, ya sea a través de chats privados, grupos o transmisiones, estará protegida y será eficiente.**
+**`Secure Communication` es la tercera etapa de la configuración inicial. El servicio de comunicación de Waizant cumple con la normativa HIPAA, garantizando la capacidad de compartir Información de Salud Protegida (PHI) de forma segura con su equipo en tiempo real. La comunicación, ya sea a través de chats privados, grupos o transmisiones, estará protegida y será eficiente.**
 
 ![Get Started](/img/store-usuario/built_ecosystem_could_document_storage.png )
 
-**La pantalla "Cloud Document Storage" marca la cuarta y última etapa del proceso de configuración inicial. Los procesos patentados de Waizant aseguran la captura segura de imágenes y la transmisión encriptada de extremo a extremo. Esto garantiza la privacidad, la integridad y el cumplimiento normativo esencial para la atención médica y otras industrias de alta seguridad.**
+**La pantalla `Cloud Document Storage` marca la cuarta y última etapa del proceso de configuración inicial. Los procesos patentados de Waizant aseguran la captura segura de imágenes y la transmisión encriptada de extremo a extremo. Esto garantiza la privacidad, la integridad y el cumplimiento normativo esencial para la atención médica y otras industrias de alta seguridad.**
 
 ![Get Started](/img/store-usuario/user_panel_customer.png )
 
-**La pantalla "Congratulaciones", indica que su panel de ecosistema está listo. Para continuar, diríjase a la plataforma web y configura sus instalaciones y equipo. Puede seleccionar "Proceed to My Ecosystem" para acceder de inmediato o "Maybe later" si prefiere posponerlo. Esta pantalla confirma la finalización exitosa del proceso de configuración inicial del sistema.**
+**La pantalla `Congratulaciones`, indica que su panel de ecosistema está listo. Para continuar, diríjase a la plataforma web y configura sus instalaciones y equipo. Puede seleccionar `Proceed to My Ecosystem` para acceder de inmediato o `Maybe later` si prefiere posponerlo. Esta pantalla confirma la finalización exitosa del proceso de configuración inicial del sistema.**
 
 ![Get Started](/img/store-usuario/user_panel_lead.png )
 

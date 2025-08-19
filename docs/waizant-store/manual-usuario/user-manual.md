@@ -8,7 +8,7 @@ sidebar_position: 8
 
 ![User Manual](/img/store-usuario/user_guide.png )
 
-**La sección "Guías de Usuario" de Waizant™ proporciona instrucciones detalladas para la aplicación. Incluye una barra de búsqueda para facilitar el acceso a la documentación, en este momento solo se cuenta con la documentación de Waizant™ App( Tener en cuenta que la documentación sera visible solo si el usuario se encuentra logueado).**
+**La sección `Guías de Usuario` de Waizant™ proporciona instrucciones detalladas para la aplicación. Incluye una barra de búsqueda para facilitar el acceso a la documentación, en este momento solo se cuenta con la documentación de Waizant™ App(`Tener en cuenta que la documentación sera visible solo si el usuario se encuentra logueado`).**
 
 ![User Manual](/img/store-usuario/user_guide_login.png )
 

@@ -6,19 +6,19 @@ sidebar_position: 2
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/billing_panel.png)
 
-**Esta es la vista principal del "Billing panel" donde podemos ver información detalla del ecosistema con su nombre, total de licencias de usuarios, encounters, servicios adquiridos, montos a favor, el tipo del plan, fecha del próximo pago, el total de pago de la última factura y un botón nombrado "Plan management", debajo de la información del plan se encuentra la sección de "Invoices" donde tendremos las facturas de todas las compras que se han realizado en este ecosistema, para cada factura tenemos las opciones "View" que nos permite ver la factura detallada que se realizó y "Download" que nos permite descargar dicha factura.**
+**Esta es la vista principal del `Billing panel` donde podemos ver información detalla del ecosistema con su nombre, total de licencias de usuarios, encounters, servicios adquiridos, montos a favor, el tipo del plan, fecha del próximo pago, el total de pago de la última factura y un botón nombrado `Plan management`, debajo de la información del plan se encuentra la sección de `Invoices` donde tendremos las facturas de todas las compras que se han realizado en este ecosistema, para cada factura tenemos las opciones `View` que nos permite ver la factura detallada que se realizó y `Download` que nos permite descargar dicha factura.**
 
 ## Plan Management
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/plan_management_modal.png)
 
-**Cuando seleccionamos el botón "Plan management", se nos muestra esta vista donde podemos observar información de nuestra tarjeta con la que realizamos los pagos del plan y las compras que se realicen. También se nos muestra un botón que nos permite realizar un cambio a nuestro método de pago.**
+**Cuando seleccionamos el botón `Plan management`, se nos muestra esta vista donde podemos observar información de nuestra tarjeta con la que realizamos los pagos del plan y las compras que se realicen. También se nos muestra un botón que nos permite realizar un cambio a nuestro método de pago.**
 
 ## Change Payment Method
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/change_pay_method_mfa_disable.png)
 
-**Cuando el usuario selecciona el cambio de método de pago y este mismo tiene el MFA desactivado, se le indicará con esta modal, indicando que tiene que activarlo para poder realizar esta acción, para más información sobre la activación de [Activar MFA](/docs/waizant-store/manual-usuario/profile-settings/activate-mfa) .**
+**Cuando el usuario selecciona el cambio de método de pago y este mismo tiene el MFA desactivado, se le indicará con esta modal, indicando que tiene que activarlo para poder realizar esta acción, para más información sobre la activación de [Activar MFA](/docs/waizant-store/manual-usuario/profile-settings/activate-mfa).**
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/change_pay_method_code_mfa.png)
 
@@ -30,17 +30,17 @@ sidebar_position: 2
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/pay_method_chage_completed.png)
 
-**Cuando el usuario realice el guardado de la información y la tarjeta sea validada por el servicio, Stripe se redirigirá a la vista de "Plan management" y le saldrá la notificación de que sus datos fueron actualizados correctamente.**
+**Cuando el usuario realice el guardado de la información y la tarjeta sea validada por el servicio, Stripe se redirigirá a la vista de `Plan management` y le saldrá la notificación de que sus datos fueron actualizados correctamente.**
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/pay_method_chage_error.png)
 
-**Si el servicio de Stripe al verificar la tarjeta decide que esta no es válida, ya sea por fondos insuficientes, tarjeta reportada como extraviada, como robada, como vencida, etc. Se redirige a la vista de "Plan management" y le saldrá la notificación indicándole al usuario que ha ocurrido un error.**
+**Si el servicio de Stripe al verificar la tarjeta decide que esta no es válida, ya sea por fondos insuficientes, tarjeta reportada como extraviada, como robada, como vencida, etc. Se redirige a la vista de `Plan management` y le saldrá la notificación indicándole al usuario que ha ocurrido un error.**
 
 ## Cancelación de suscripción
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription.png)
 
-**Dentro de la modal de "Plan management" tenemos también el botón de "Manage Subscription", el cual nos lleva al proceso de cancelación de nuestro plan actual.**
+**Dentro de la modal de `Plan management` tenemos también el botón de `Manage Subscription`, el cual nos lleva al proceso de cancelación de nuestro plan actual.**
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_start_process.png)
 
@@ -56,15 +56,15 @@ sidebar_position: 2
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_confirm_modal.png)
 
-**Si ya en la última vista el usuario presiona la "X" que cierra la modal antes de aceptar la cancelación de su suscripción, se le mostrará esta advertencia donde se le pregunta que si está seguro de salir del proceso de cancelación y mantener su suscripción.**
+**Si ya en la última vista el usuario presiona la `X` que cierra la modal antes de aceptar la cancelación de su suscripción, se le mostrará esta advertencia donde se le pregunta que si está seguro de salir del proceso de cancelación y mantener su suscripción.**
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_pay_services_failed.png)
 
-****
+**Aqui se muestra lo que el usuario vera si por algun motivo al querer cancelar la suscripción su método de pago es rechazado y tiene servicios por pagar, al momento de ser rechazado se le dran las opciones al usuario de `cambiar su método de pago` o `cancelar el proceso`.**
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_pay_services.png)
 
-**Si ya en la última vista el usuario presiona "Complete process", se le mostrará esta advertencia donde se le pregunta al usuario si está seguro de completar el proceso de cancelación.**
+**Si ya en la última vista el usuario presiona `Complete process`, se le mostrará esta advertencia donde se le pregunta al usuario si está seguro de completar el proceso de cancelación.**
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_cancelled.png)
 

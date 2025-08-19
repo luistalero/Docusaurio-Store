@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/add_more_encounters.png)
 
-**Al hacer clic en "Update plan", se desplega un menú mostrando las opciones, se selecciona "Add more encounters" para ampliar la cantidad de encounters disponibles para un ecosistema.**
+**Al hacer clic en `Update plan`, se desplega un menú mostrando las opciones, se selecciona `Add more encounters` para ampliar la cantidad de encounters disponibles para un ecosistema.**
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/more_encounter_cupon_valid_porcent.png)
 
@@ -28,17 +28,17 @@ sidebar_position: 2
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/more_encounter_cupon_invalid.png)
 
-**En esta vista se puede apreciar el error que se le mostrará al usuario cuando un cupón no sea válido. Para limpiar el input y poder volver a escribir, se debe presionar la "X" roja y así se puede volver a realizar la compra con un cupón válido o realizar la compra sin cupón.**
+**En esta vista se puede apreciar el error que se le mostrará al usuario cuando un cupón no sea válido. Para limpiar el input y poder volver a escribir, se debe presionar la `X` roja y así se puede volver a realizar la compra con un cupón válido o realizar la compra sin cupón.**
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/pay_more_encounter_completed.png)
 
-**Pantalla de confirmación "Congrats" indicando que se ha realizado el pago de los encounters y el plan se ha actualizado exitosamente. Un botón "Continue" permite regresar al panel de usuario.**
+**Pantalla de confirmación `Congrats` indicando que se ha realizado el pago de los encounters y el plan se ha actualizado exitosamente. Un botón `Continue` permite regresar al panel de usuario.**
 
 ## more services/licenses
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/add_more_licenses_services.png)
 
-**Al hacer clic en "Update plan", se despliega un menú mostrando las opciones, se selecciona "Add more licenses/services" para ampliar la cantidad de licencias disponibles para un ecosistema o adquirir los servicios si el usuario no los tiene.**
+**Al hacer clic en `Update plan`, se despliega un menú mostrando las opciones, se selecciona `Add more licenses/services` para ampliar la cantidad de licencias disponibles para un ecosistema o adquirir los servicios si el usuario no los tiene.**
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/more_services.png)
 
@@ -54,13 +54,13 @@ sidebar_position: 2
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/no_more_licenses_services.png)
 
-**Aquí se muestra que si el usuario no adquiere ningún producto, el botón de "Upgrade plan" no se activará.**
+**Aquí se muestra que si el usuario no adquiere ningún producto, el botón de `Upgrade plan` no se activará.**
 
 ## Change Plan
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/change-plan.png)
 
-**Al hacer clic en "Update plan", se despliega un menú mostrando las opciones, se selecciona "Change Plan" para cambiar el plan que tiene actualmente el usuario, ya sea actualizando a un mejor plan o bajando a una versión con menor capacidad.**
+**Al hacer clic en `Update plan`, se despliega un menú mostrando las opciones, se selecciona `Change Plan` para cambiar el plan que tiene actualmente el usuario, ya sea actualizando a un mejor plan o bajando a una versión con menor capacidad.**
 
 ![Upgrade Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/select_subcription_plan.png)
 
