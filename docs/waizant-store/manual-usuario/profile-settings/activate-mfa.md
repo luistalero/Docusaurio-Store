@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Activar MFA
 
-![ACTIVAR MFA 1](/img/store-usuario/profile-settings/active_mfa.png)
+![Activar MFA](/img/store-usuario/profile-settings/active_mfa.png)
 
 **Esta sección de `Autenticación Multifactor (MFA)` en la configuración de perfil de Waizant permite fortalecer la seguridad de la cuenta añadiendo una capa extra de protección. La pantalla ofrece la opción `Activar MFA` para recibir códigos de verificación a través de una aplicación de autenticación y un botón `Continuar` para iniciar el proceso.**
 

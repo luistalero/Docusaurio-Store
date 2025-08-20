@@ -20,6 +20,27 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+  // headTags: [
+  //   {
+  //     tagName: 'script',
+  //     attributes: {
+  //       src: 'https://rails.wiedii-crm.orb.local/packs/js/sdk.js',
+  //       async: 'true',
+  //       onload: 'window.chatwootSDK.run({ websiteToken: "f8qPQ6oQEhn8u3oMpS9NMsfR", baseUrl: "https://docusaurus.my-website.orb.local" })'
+  //     },
+  //   },
+  // ],
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        src: 'https://rails.wiedii-crm.orb.local/packs/js/sdk.js',
+        async: 'true',
+        onload: 'window.chatwootSDK.run({ websiteToken: "f8qPQ6oQEhn8u3oMpS9NMsfR", baseUrl: "https://documentacion-store.netlify.app" })'
+      },
+    },
+  ],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
