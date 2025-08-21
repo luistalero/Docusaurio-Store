@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # Update Plan
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 **Tras la configuración de un ecosistema, la pertenencia del usuario en AWS Cognito se extiende a dos grupos principales:**
 
 + waizant-admin-store.
@@ -40,3 +44,5 @@ sidebar_position: 6
 ## Billing Panel
 
 **Esta interfaz representa la vista principal del ecosistema del usuario tras un cambio exitoso de plan. Aquí se consolidan y muestran los registros de facturación. En la esquina superior derecha, se visualiza el saldo a favor del usuario. Este saldo puede ser aplicado a futuros cargos de suscripción de planes, dado que son pagos recurrentes. Sin embargo, es importante destacar que este saldo no es utilizable para pagos inmediatos, como la adquisición de 'encounters' adicionales.**
+
+</AuthWrapper>

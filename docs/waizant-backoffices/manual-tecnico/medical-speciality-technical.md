@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Medical Speciality
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 **Este módulo permite gestionar y administrar las especialidades médicas dentro de un sistema o plataforma clínica o médica. Funciona como un catálogo o registro donde se almacenan las diferentes especialidades médicas disponibles en la plataforma, que pueden asociarse posteriormente a usuarios, profesionales de la salud, servicios, o planes.**
 
 ![MFA-Disable](/img/backoffice-user/medical_speciality_backoffice.png)
@@ -22,3 +26,5 @@ sidebar_position: 3
 Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/medical-specialty"className="info">Medical Speciality</a>
 :::
+
+</AuthWrapper>

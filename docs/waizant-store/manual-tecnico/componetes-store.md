@@ -4,6 +4,10 @@ sidebar_position: 4
 
 # Componente de la Store
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 ## Plans Store
 
 **Este componente, desarrollado en React, es responsable de la renderización dinámica de los planes de servicio disponibles en Waizant Store. La información se extrae directamente de la base de datos de la Store, asegurando la coherencia y actualización de los datos presentados. Su implementación es transversal a múltiples secciones de la aplicación, incluyendo:**
@@ -25,3 +29,5 @@ sidebar_position: 4
 ## Blog Subscription
 
 **De manera análoga a las secciones 'Contact Us' y 'Newsletter Sign-Up', la 'Blog Subscripción' se integra con el servicio de HubSpot para la gestión de las suscripciones al blog, facilitando la captura de datos de los usuarios y su incorporación a las listas de distribución.**
+
+</AuthWrapper>

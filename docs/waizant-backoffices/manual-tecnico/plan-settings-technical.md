@@ -3,6 +3,10 @@ sidebar_position: 6
 ---
 # Plan Settings
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 **Este módulo permite gestionar y configurar los diferentes planes de suscripción que se ofrecen a los usuarios dentro de la plataforma. Desde esta sección, los administradores pueden:**
 
 ![MFA-Disable](/img/backoffice-user/plan_settings_backoffice.png)
@@ -28,3 +32,5 @@ sidebar_position: 6
 ![MFA-Disable](/img/backoffice-user/license-waizant-app-plan.png)
 
 ![MFA-Disable](/img/backoffice-user/plan-notpublish.png)
+
+</AuthWrapper>

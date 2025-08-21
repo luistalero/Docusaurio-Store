@@ -4,6 +4,10 @@ sidebar_position: 5
 
 # Get started
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 ## Get Started Now
 
 **La sección 'Get Started Now' guía al usuario a través de un flujo de onboarding estructurado en una serie de formularios. Los pasos 1 y 2 están diseñados para la recolección inicial de información relevante. Los datos ingresados en estos formularios se persisten en la base de datos de la Store y son utilizados algorítmicamente para la recomendación de un plan de servicio óptimo y personalizado para el cliente, basado en sus necesidades declaradas. Es importante señalar la lógica condicional de navegación:** los pasos 3 y 4 se presentan únicamente si el usuario es nuevo en el sistema (no existe registro previo). **Por otro lado, si un usuario ya existente inicia sesión y desea proceder con una compra, el sistema omitirá automáticamente los pasos 3 y 4, redirigiéndolo directamente al paso 5 tras completar el paso 2.**
@@ -31,3 +35,5 @@ sidebar_position: 5
 ## Configuración de Ecosistema
 
 **En esta interfaz, el usuario inicia el proceso de creación de un nuevo ecosistema. La finalización exitosa de esta acción desencadena una serie de actualizaciones y configuraciones subsiguientes en el perfil del usuario registrado, reflejando su integración y la asignación de recursos dentro del nuevo ecosistema.**
+
+</AuthWrapper>

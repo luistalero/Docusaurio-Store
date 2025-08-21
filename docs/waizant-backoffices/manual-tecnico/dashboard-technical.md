@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # Dashboard
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 **El módulo Dashboard es el panel de control principal del Backoffice. Permite a los administradores del modelo de negocio consultar de forma rápida métricas clave, facilitando la toma de decisiones y el seguimiento de la operación, cuenta con `librerias` para los archivos de `excel`, `librerias` para mostrar las `graficas` y una `base de datos`.**
 
 ![MFA-Disable](/img/backoffice-user/dashboard_backoffice_file.png)
@@ -70,3 +74,5 @@ Es el promedio de ingresos generados por cada plan vendido en la plataforma. Se 
 - Identificar tendencias de adquisición y posibles momentos de estancamiento.
 - Realizar análisis comparativos entre meses.
 - Descargar la información en formato .`xls` para realizar reportes o análisis internos más detallados.
+
+</AuthWrapper>

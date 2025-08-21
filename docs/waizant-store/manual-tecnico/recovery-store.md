@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Recovery Store
 
+import AuthWrapper from '@site/src/components/AuthWrapper';
+
+<AuthWrapper allowedRoles={["developer"]}>
+
 **La funcionalidad de 'Recovery Password' de la Waizant Store permite a los usuarios restablecer sus credenciales. En esta sección, el usuario debe ingresar una dirección de correo electrónico previamente registrada en el sistema. Tras la validación de la existencia del correo, AWS Cognito iniciará el envío de un Código de Un Solo Uso (OTP) a la dirección proporcionada, el cual será requerido para el proceso de restablecimiento.**
 
 ## Reset Password
@@ -17,3 +21,5 @@ sidebar_position: 3
 + Mínimo un carácter especial.
 
 **Si estas condiciones no se satisfacen, la opción para guardar la contraseña permanecerá deshabilitada. Una vez que la nueva contraseña cumpla con todos los requisitos, se procederá a su almacenamiento directo en AWS Cognito. Es crucial destacar que, por motivos de seguridad, estas contraseñas no se persistirán en la base de datos de la aplicación, únicamente en Cognito.**
+
+</AuthWrapper>
