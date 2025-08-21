@@ -20,26 +20,17 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // headTags: [
+  // Conexion con Chatwoot
+  //  headTags: [
   //   {
   //     tagName: 'script',
   //     attributes: {
-  //       src: 'https://rails.wiedii-crm.orb.local/packs/js/sdk.js',
+  //       src: 'http://localhost:3000/packs/js/sdk.js',
   //       async: 'true',
-  //       onload: 'window.chatwootSDK.run({ websiteToken: "f8qPQ6oQEhn8u3oMpS9NMsfR", baseUrl: "https://docusaurus.my-website.orb.local" })'
+  //       onload: 'window.chatwootSDK.run({ websiteToken: "JRk74e8MnPUL7Qx4Mt5RbfYP", baseUrl: "http://localhost:3000/" })'
   //     },
   //   },
   // ],
-  headTags: [
-    {
-      tagName: 'script',
-      attributes: {
-        src: 'https://rails.wiedii-crm.orb.local/packs/js/sdk.js',
-        async: 'true',
-        onload: 'window.chatwootSDK.run({ websiteToken: "f8qPQ6oQEhn8u3oMpS9NMsfR", baseUrl: "https://documentacion-store.netlify.app" })'
-      },
-    },
-  ],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
