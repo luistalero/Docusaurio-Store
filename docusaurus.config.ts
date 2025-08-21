@@ -40,6 +40,12 @@ const config: Config = {
       },
     },
     {
+      tagName: "title",
+      attributes: {
+        innerHTML: "Wiedii Documentation",
+      },
+    },
+    {
       tagName: "link",
       attributes: {
         rel: "icon",
