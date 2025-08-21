@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useAuth } from "../context/AuthContext";
+import styles from "./index.module.css";
 
 const LoginPage: React.FC = () => {
   const { login } = useAuth();
@@ -14,23 +15,27 @@ const LoginPage: React.FC = () => {
   };
 
   return (
-    <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h2>🔐 Acceso Restringido</h2>
-      <input
-        type="text"
-        placeholder="Usuario"
-        value={user}
-        onChange={(e) => setUser(e.target.value)}
-      />
-      <br />
-      <input
-        type="password"
-        placeholder="Contraseña"
-        value={pass}
-        onChange={(e) => setPass(e.target.value)}
-      />
-      <br />
-      <button onClick={handleSubmit}>Ingresar</button>
+    <div className={styles.login} >
+      <div className={styles.formLogin}>
+        <div className={styles.title}>
+          <h2><img src="/img/wimii-form.png" alt="Wimii-wiedii" /> Iniciar Sesión</h2>
+        </div>
+        <input
+          type="text"
+          placeholder="Usuario"
+          value={user}
+          onChange={(e) => setUser(e.target.value)}
+        />
+        <br />
+        <input
+          type="password"
+          placeholder="Contraseña"
+          value={pass}
+          onChange={(e) => setPass(e.target.value)}
+        />
+        <br />
+        <button onClick={handleSubmit}>Ingresar</button>
+      </div>
     </div>
   );
 };

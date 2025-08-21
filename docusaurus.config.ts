@@ -31,6 +31,15 @@ const config: Config = {
   //     },
   //   },
   // ],
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1.0",
+      },
+    },
+  ],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -82,12 +91,15 @@ const config: Config = {
   ],
 
   themeConfig: {
+    metadata: [
+      { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
+    ],
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,   
     },
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/docusaurus-social-card.jpg', 
     navbar: {
       title: 'Wiedii Doc.',
       logo: {
