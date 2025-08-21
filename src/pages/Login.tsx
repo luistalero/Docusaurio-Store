@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { useAuth } from "../context/AuthContext";
 import styles from "./index.module.css";
+import Head from "@docusaurus/Head";
 
 const LoginPage: React.FC = () => {
   const { login } = useAuth();
@@ -15,6 +16,12 @@ const LoginPage: React.FC = () => {
   };
 
   return (
+    <>
+    <Head>
+        <title>Login - Wiedii Documentation</title>
+        <link rel="icon" href="/img/favicon-wiedii.png" />
+      </Head>
+
     <div className={styles.login} >
       <div className={styles.formLogin}>
         <div className={styles.title}>
@@ -37,6 +44,7 @@ const LoginPage: React.FC = () => {
         <button onClick={handleSubmit}>Ingresar</button>
       </div>
     </div>
+    </>
   );
 };
 

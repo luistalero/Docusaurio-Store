@@ -39,19 +39,6 @@ const config: Config = {
         content: "width=device-width, initial-scale=1.0",
       },
     },
-    {
-      tagName: "title",
-      attributes: {
-        innerHTML: "Wiedii Documentation",
-      },
-    },
-    {
-      tagName: "link",
-      attributes: {
-        rel: "icon",
-        href: "/img/favicon-wiedii.png",
-      },
-    },
   ],
 
   // GitHub pages deployment config.
