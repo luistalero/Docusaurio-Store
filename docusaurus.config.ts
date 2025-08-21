@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Wiedii',
+  title: 'Wiedii Documentation',
   tagline: 'We learn to improve',
   favicon: 'img/favicon-wiedii.png',
 
@@ -37,6 +37,13 @@ const config: Config = {
       attributes: {
         name: "viewport",
         content: "width=device-width, initial-scale=1.0",
+      },
+    },
+    {
+      tagName: "link",
+      attributes: {
+        rel: "icon",
+        href: "/img/favicon-wiedii.png",
       },
     },
   ],
