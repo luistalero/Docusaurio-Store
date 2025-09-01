@@ -15,4 +15,9 @@ import AuthWrapper from '@site/src/components/AuthWrapper';
 
 ![MFA-Disable](/img/backoffice-user/customer_list_store_user_backoffice.png)
 
+:::info
+Más información aquí{' '}
+<a href="docs/waizant-backoffices/manual-usuario/store-users"className="info">Store Users</a>
+:::
+
 </AuthWrapper>

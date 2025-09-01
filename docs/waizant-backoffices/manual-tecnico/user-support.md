@@ -5,17 +5,17 @@ sidebar_position: 7
 
 **Este modulo se encarga de brindar asistencia de soporte a los usuarios y al usuario sucesor, cuando tengan dudas o algún tipo de falla los usuarios podrán obtener ayuda para solucionar los requerimientos, cuenta con dos submodulos los cuales se encargan de brindar ayuda mas especifica en el rol que se requiera.**
 
-## Technical Assistance
+## **Technical Assistance**
 
-**Este submodulo cuenta con una conexión a la base de datos del `Core`, tiene conexión con `Lambdas AWS` para el proceso de autenticación, con `AWS Cognito`, y el envio de mensaje con el código `OTP`.**
+**Este submodulo cuenta con una conexión a la base de datos del `Core`, tiene conexión con `Lambdas AWS` para el proceso de autenticación, con `AWS Cognito` y el envio de mensaje con el código `OTP`.**
 
 - Previamente pide MFA al de soporte por medio de conexión a lambda.
 - Codigo que se envia a la persona que le esta prestando el soporte.
-- Si el usuario es el administrador del ecosistema le saldrán 3 botones (store, we, app) estos botones al dar clic a cualquiera tienen la acción de llevar al usuario si se le da clic a la web se redirige a la sesión de la web logueada con el usuario.
+- Si el usuario es el administrador del ecosistema le saldrán 3 botones `(store, we, app)` estos botones al dar clic a cualquiera tienen la acción de llevar al usuario si se le da clic a la web se redirige a la sesión de la web logueada con el usuario.
 
 ![MFA-Disable](/img/backoffice-user/support_technical_backoffice.png)
 
-***Nota: Si no es un usuario dueño de un ecosistema solo se mostraran 2 botones**
+***`Nota:` Si no es un usuario dueño de un ecosistema solo se mostraran 2 botones**
 
 ![MFA-Disable](/img/backoffice-user/support_technical_backoffices.png)
 

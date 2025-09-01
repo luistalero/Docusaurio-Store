@@ -6,7 +6,7 @@ sidebar_position: 8
 
 **Este modulo tiene conexión a la base de datos de `Core`, tiene conexión a `lambdas AWS` para el proceso de Autenticación con `AWS cognito`**
 
-**a\) Technical Assistance**
+## **`a)` Technical Assistance**
 
 **Permite verificar el estado de un usuario en Waizant ingresando su correo electrónico. Una vez validado, se selecciona el ecosistema para iniciar el proceso de autenticación y brindar soporte técnico personalizado.**
 

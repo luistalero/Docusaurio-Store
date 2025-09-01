@@ -6,7 +6,7 @@ sidebar_position: 9
 
 ## El módulo Users System permite gestionar y administrar las cuentas de usuarios
 
-**administrativos que tienen acceso al sistema BackOffice. Desde esta sección, se centraliza la creación, edición, activación y desactivación de los perfiles que interactúan con las diferentes funcionalidades internas del proyecto.**
+**Los administrativos que tienen acceso al sistema BackOffice. Desde esta sección, se centraliza la creación, edición, activación y desactivación de los perfiles que interactúan con las diferentes funcionalidades internas del proyecto.**
 
 **Este módulo es clave para mantener el control de los accesos al sistema, definir roles, y organizar al personal o usuarios administrativos según su función dentro del BackOffice.**
 

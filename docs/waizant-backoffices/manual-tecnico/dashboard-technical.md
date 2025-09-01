@@ -75,4 +75,9 @@ Es el promedio de ingresos generados por cada plan vendido en la plataforma. Se 
 - Realizar análisis comparativos entre meses.
 - Descargar la información en formato .`xls` para realizar reportes o análisis internos más detallados.
 
+:::info
+Más información aquí{' '}
+[Dashboard](/docs/waizant-backoffices/manual-usuario/dashboard)
+:::
+
 </AuthWrapper>
