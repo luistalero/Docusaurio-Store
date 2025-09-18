@@ -80,10 +80,46 @@ code{
   background: transparent;
 }
 .footer--dark .container-fluid{
-display: flex;
-flex-direction: column;
-text-align: center;
-row-gap: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  row-gap: 10px;
+}
+
+.button.button--secondary{
+  display: flex;
+  align-items: center;
+  background: #1C1A1D;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  height: 50px;
+}
+
+.button.button--secondary:hover{
+  background-color: #333333;
+  color: #fff !important;
+  transition: all 0.3s ease;
+}
+
+.buttons_wjNP{
+  height: 50px !important;
+  background: #fff !important;
+  color:#1C1A1D !important;
+  border: none;
+}
+
+.buttons_wjNP:hover{
+  background-color: #f0f0f0 !important;
+  color: #20C997 !important;
+  border: 1px solid #20C997 !important;
+}
+.hero__title{
+  color: #fff;
+}
+
+.hero__subtitle{
+  color: #fff;
 }
 
 @media (max-width: 768px) {
