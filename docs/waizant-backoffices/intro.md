@@ -16,9 +16,15 @@ sidebar_position: 1
 
 - **`Datos Actualizados:`** Permite filtrar la información por fechas, como se muestra en la esquina superior derecha, para analizar tendencias y comparar el rendimiento en diferentes períodos de tiempo.
 
-**`2) Store User:` El módulo Store User se encarga de la administración completa de los usuarios registrados en la plataforma. Este módulo es vital para mantener un control riguroso sobre quién accede al sistema y con qué privilegios.**
+**`2) Store User:`El módulo Store User es el centro de control para la administración completa de los usuarios que interactúan directamente con tu plataforma. A diferencia de los usuarios administrativos, este módulo está diseñado para gestionar a los usuarios finales, que se dividen en dos grupos principales: clientes (Customers) y potenciales clientes (Leads). Su función principal es mantener un control riguroso sobre quién accede al sistema y cómo se gestiona su información, lo cual es vital para las operaciones de negocio y la relación con el usuario.**
 
-- **`¿Qué incluye?`** Permite a los administradores crear, editar, desactivar o eliminar perfiles de usuario. También es el lugar donde se gestiona su información personal (como nombre, correo electrónico, y datos de contacto), se les asignan roles (por ejemplo, "cliente", "vendedor", o "administrador") y se monitorea su estado (activo, inactivo, o suspendido).
+- **`Gestión de Clientes y Leads:`** Permite a los administradores ver y gestionar listas separadas para clientes y potenciales clientes.
+
+- **`Control del Perfil:`** Facilita la visualización y edición de información clave como nombre, correo electrónico y compañía.
+
+- **`Estado del Usuario:`** Permite activar o desactivar el acceso de un usuario de forma rápida y sencilla.
+
+- **`Detalles del Ecosistema:`** Muestra a qué ecosistema pertenece cada usuario, lo que es útil para la segmentación y el seguimiento.
 
 **`3) Notification Center:` El Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios correctos.**
 
