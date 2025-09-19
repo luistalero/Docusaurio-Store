@@ -107,6 +107,7 @@ code{
   background: #fff !important;
   color:#1C1A1D !important;
   border: none;
+  border-radius: 4px;
 }
 
 .buttons_wjNP:hover{
