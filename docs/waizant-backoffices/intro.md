@@ -10,7 +10,11 @@ sidebar_position: 1
 
 **`1) Dashboard:` El Dashboard es la pantalla de inicio o el centro de control del sistema. Su objetivo principal es ofrecer una visión general e instantánea del estado actual de todo el ecosistema. Es la primera parada para cualquier usuario al iniciar sesión, ya que consolida la información más crítica y las estadísticas clave en un solo lugar.**
 
-- **`¿Qué incluye?`** Suele mostrar gráficos interactivos, estadísticas en tiempo real (como el número de usuarios activos, transacciones recientes, o el rendimiento del sistema), y accesos directos a las funciones más utilizadas para agilizar la navegación. Por ejemplo, un administrador podría ver rápidamente cuántos tickets de soporte están abiertos o el estado de las últimas notificaciones.
+- **`Estadísticas Clave:`** Muestra métricas importantes en tiempo real como el número total de usuarios, las ventas acumuladas hasta la fecha, la cantidad de planes vendidos y la tasa de venta promedio.
+
+- **`Gráficos Interactivos:`** Proporciona representaciones visuales de los datos. Esto incluye un gráfico de barras que muestra la distribución de usuarios por ciudad y un gráfico circular que detalla las ventas por plan, permitiendo una comprensión rápida del rendimiento y la segmentación del mercado.
+
+- **`Datos Actualizados:`** Permite filtrar la información por fechas, como se muestra en la esquina superior derecha, para analizar tendencias y comparar el rendimiento en diferentes períodos de tiempo.
 
 **`2) Store User:` El módulo Store User se encarga de la administración completa de los usuarios registrados en la plataforma. Este módulo es vital para mantener un control riguroso sobre quién accede al sistema y con qué privilegios.**
 

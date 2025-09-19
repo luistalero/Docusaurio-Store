@@ -19,5 +19,5 @@ sidebar_position: 11
 
 :::info
 Más información aquí{' '}
-<a href="/docs/waizant-backoffices/Manual%20-%20Usuario/Login/Multifactor_Backoffice"className="info">Multi-factor</a>
+<a href="/docs/waizant-backoffices/manual-usuario/login/multifactor-backoffice"className="info">Multi-factor</a>
 :::
