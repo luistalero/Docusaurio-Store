@@ -66,6 +66,11 @@
   background: #1a8870;
   color: white;
 }
+.formLogin button:hover{
+  background-color: #333333;
+  color: #fff !important;
+  transition: all 0.3s ease;
+}
 
 .title {
   width: 100%;
@@ -86,8 +91,8 @@
 }
 
 .title h2 img {
-  width: 80px;
-  height: 100px;
+  width: 81px;
+  height: 110px;
   object-fit: cover;
 }
 
