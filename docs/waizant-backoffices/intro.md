@@ -48,12 +48,6 @@ sidebar_position: 1
 
 **`7) Quality Measures:` El módulo de Medidas de Calidad es el centro de supervisión para asegurar la excelencia en el proceso de digitalización de los encounters. Su función principal es permitirte definir, monitorear y evaluar la calidad de los datos y la eficiencia de los procesos, garantizando que cada registro digital sea preciso, completo y seguro. Es la herramienta clave para transformar la información de un encuentro físico a digital sin perder exactitud ni integridad.**
 
-- **`Configuración de Métricas:`**  Permite establecer reglas para medir la precisión de los datos, como la tasa de campos completados y la exactitud en la captura de la información del paciente.
-
-- **`Monitoreo de la Eficiencia:`** Permite supervisar el rendimiento del proceso, midiendo el tiempo de procesamiento y el índice de retrabajo para identificar y solucionar cuellos de botella.
-
-- **`Auditoría y Seguridad:`** Ofrece herramientas para auditar quién accede a los expedientes digitalizados y para asegurar que el proceso de digitalización cumple con los estándares de seguridad y privacidad, como el cifrado de datos.
-
 **`8) Medical Specialty:` Este módulo es una herramienta de gestión especializada dentro del sistema, diseñada específicamente para entornos de salud. Su propósito es organizar y centralizar la información sobre las diferentes especialidades médicas. Esto es crucial para clasificar y asignar perfiles, pacientes y documentos de manera precisa, asegurando que la información llegue al profesional de la salud correcto. Es, en esencia, el clasificador que permite que el sistema opere de forma eficiente en un entorno médico.**
 
 - **`Creación y Edición de Especialidades:`** Permite a los administradores crear, nombrar y gestionar una lista completa de especialidades médicas (ej. Cardiología, Pediatría, Dermatología).
