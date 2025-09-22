@@ -36,7 +36,7 @@ sidebar_position: 1
 
 **`5) User Support:`Este es el módulo principal que centraliza y gestiona toda la asistencia a los usuarios. Su objetivo es asegurar que cada consulta, problema o solicitud se resuelva de manera rápida y eficiente. Para ello, ofrece soporte tanto a usuarios generales como a usuarios administradores, adaptándose a las necesidades de cada rol dentro del ecosistema.**
 
-- **`Submódulos principales de asistencia`**
+**`Submódulos principales de asistencia`**
 
 **`* Technical Assistance:` Este submódulo se enfoca en resolver los problemas técnicos que puedan enfrentar los usuarios, preguntas generales, fallos, errores del sistema, problemas de conexión o cualquier otro inconveniente que impida el correcto funcionamiento de la plataforma.**
 
