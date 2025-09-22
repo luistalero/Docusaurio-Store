@@ -28,7 +28,7 @@ sidebar_position: 1
 
 **`3) Notification Center:` El Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios correctos.**
 
-- **`¿Qué incluye?`** Administra una amplia variedad de notificaciones, desde alertas del sistema (por ejemplo, "el sistema se actualizará pronto"), mensajes informativos ("tu pedido ha sido enviado"), hasta notificaciones personalizadas. Este módulo asegura que cada notificación llegue a tiempo, sea visible en un panel centralizado, y que los usuarios puedan marcarla como leída o archivada para mantener su bandeja de entrada organizada.
+- **`¿Qué incluye?`** Administra una amplia variedad de notificaciones, desde alertas del sistema (por ejemplo, "el sistema se actualizará pronto"), mensajes informativos, hasta notificaciones personalizadas. Este módulo asegura que cada notificación llegue a tiempo, sea visible en un panel centralizado, y que los usuarios puedan marcarla como leída o archivada para mantener su bandeja de entrada organizada.
 
 **`4) Plan Settings:` El módulo de Plan Settings es fundamental para los sistemas que ofrecen servicios o funcionalidades por niveles (por ejemplo, un modelo de suscripción). Permite definir y gestionar los diferentes planes de servicio disponibles para los usuarios.**
 
