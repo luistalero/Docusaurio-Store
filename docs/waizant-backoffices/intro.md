@@ -58,4 +58,4 @@ sidebar_position: 1
 
 **`9) Profile Settings:` El módulo de Profile Settings es donde el usuario (en este caso, un usuario administrativo) puede gestionar y personalizar su propia información y preferencias dentro del BackOffice.**
 
-- **`¿Qué incluye?`** Ofrece funcionalidades para que el usuario pueda editar su información personal (nombre, contraseña, etc.), personalizar la interfaz (como el idioma o el tema visual), y configurar sus propias preferencias de notificación. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.
+- **`¿Qué incluye?`** Ofrece funcionalidades para que el usuario pueda editar su información personal (nombre, contraseña, etc.), personalizar y configurar sus propias preferencias de notificación. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.
