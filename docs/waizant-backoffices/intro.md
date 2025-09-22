@@ -54,7 +54,7 @@ sidebar_position: 1
 
 **`6) User System:` El módulo de User System es un componente crucial para la seguridad y el control del acceso en el BackOffice. Se encarga de gestionar a los usuarios que tienen privilegios de administración, a diferencia de los usuarios finales (Store User).**
 
-- **`¿Qué incluye?`** Controla quién puede acceder al panel de administración, qué roles tienen (por ejemplo, "administrador de contenidos", "supervisor de ventas", o "técnico de IT") y, por lo tanto, qué acciones pueden realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.
+- **`¿Qué incluye?`** Controla quién puede acceder al panel de administración, qué roles tienen (por ejemplo), "administrador", por lo tanto, qué acciones puede realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.
 
 **`7) Quality Measures:` El módulo de Medidas de Calidad es el centro de supervisión para asegurar la excelencia en el proceso de digitalización de los encounters. Su función principal es permitirte definir, monitorear y evaluar la calidad de los datos y la eficiencia de los procesos, garantizando que cada registro digital sea preciso, completo y seguro. Es la herramienta clave para transformar la información de un encuentro físico a digital sin perder exactitud ni integridad.**
 
