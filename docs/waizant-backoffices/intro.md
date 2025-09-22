@@ -34,23 +34,13 @@ sidebar_position: 1
 
 - **`¿Qué incluye?`** En este módulo, se pueden configurar los precios, las características incluidas en cada plan (como el número de proyectos, el espacio de almacenamiento, o las funcionalidades exclusivas), y las reglas de acceso. Por ejemplo, podrías definir un plan "Básico" con funcionalidades limitadas y un plan "Premium" que desbloquea todas las herramientas.
 
-**`5) User Support:`Este es el módulo principal, la herramienta que centraliza y gestiona toda la asistencia a los usuarios. Su objetivo es asegurar que cada consulta, problema o solicitud se resuelva de manera rápida y eficiente. Dentro de este módulo, se encuentran los siguientes submódulos para una gestión más especializada:**
+**`5) User Support:`Este es el módulo principal que centraliza y gestiona toda la asistencia a los usuarios. Su objetivo es asegurar que cada consulta, problema o solicitud se resuelva de manera rápida y eficiente. Para ello, ofrece soporte tanto a usuarios generales como a usuarios administradores, adaptándose a las necesidades de cada rol dentro del ecosistema.**
 
-**`* Technical Assistance:` Este submódulo se enfoca en resolver los problemas técnicos que puedan enfrentar los usuarios. No se ocupa de preguntas generales, sino de fallos, errores del sistema, problemas de conexión o cualquier otro inconveniente que impida el correcto funcionamiento de la plataforma.**
+- **`Submódulos principales de asistencia`**
 
-- **`Gestión de Incidentes:`** Permite al personal de soporte crear y asignar tickets de problemas específicos.
+**`* Technical Assistance:` Este submódulo se enfoca en resolver los problemas técnicos que puedan enfrentar los usuarios, preguntas generales, fallos, errores del sistema, problemas de conexión o cualquier otro inconveniente que impida el correcto funcionamiento de la plataforma.**
 
-- **`Diagnóstico y Resolución:`** Proporciona herramientas para registrar el proceso de diagnóstico, la solución aplicada y el seguimiento de la incidencia hasta su cierre.
-
-- **`Base de Conocimiento:`** Facilita el acceso a artículos, guías y soluciones comunes para ayudar a los agentes a resolver los problemas más rápido.
-
-**`* Ecosystem Admin:` Este submódulo está diseñado para los usuarios con roles de administración y control sobre el sistema completo. Permite la gestión y supervisión de las funciones más críticas, asegurando que el ecosistema funcione de manera fluida y segura.**
-
-- **`Gestión de Usuarios y Permisos:`** Permite al administrador crear, editar y asignar roles y permisos a otros usuarios, asegurando que cada persona tenga el nivel de acceso adecuado.
-
-- **`Monitoreo del Sistema:`** Ofrece una vista detallada del rendimiento del sistema, como el estado del servidor, los niveles de uso y las transacciones en curso.
-
-- **`Configuración General:`** Proporciona acceso a las configuraciones globales del sistema, como actualizaciones, políticas de seguridad y ajustes de integración con otras plataformas.
+**`* Ecosystem Admin:` Este submódulo está diseñado para atender a los usuarios con roles administrativos, garantizando que puedan gestionar y controlar el ecosistema de manera segura y eficiente. La asistencia aquí se orienta a resolver dudas o incidencias relacionadas con la administración del sistema..**
 
 **`6) User System:` El módulo de User System es un componente crucial para la seguridad y el control del acceso en el BackOffice. Se encarga de gestionar a los usuarios que tienen privilegios de administración, a diferencia de los usuarios finales (Store User).**
 
