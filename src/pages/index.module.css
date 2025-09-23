@@ -67,9 +67,7 @@
   color: white;
 }
 .formLogin button:hover{
-  background-color: #333333;
-  color: #fff !important;
-  transition: all 0.3s ease;
+opacity: 0.5;
 }
 
 .title {
