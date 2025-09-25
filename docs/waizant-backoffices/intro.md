@@ -28,7 +28,7 @@ sidebar_position: 1
 
 - ***`Nota:`** Cuenta con la opción para descargar un archivo xls con la información de los Customers y los Leads.
 
-**`3) Notification Center:` El Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios correctos.**
+**`3) Notification Center:` El modulo Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios correctos.**
 
 - **`¿Qué incluye?`** Administra una amplia variedad de notificaciones, desde alertas del sistema (por ejemplo, "el sistema se actualizará pronto"), mensajes informativos, hasta notificaciones personalizadas. Este módulo asegura que cada notificación llegue a tiempo, sea visible en un panel centralizado, y que los usuarios puedan marcarla como leída o archivada para mantener su bandeja de entrada organizada.
 
