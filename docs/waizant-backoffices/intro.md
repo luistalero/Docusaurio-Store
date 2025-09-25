@@ -26,7 +26,7 @@ sidebar_position: 1
 
 - **`Detalles del Ecosistema:`** Muestra a qué ecosistema pertenece cada cliente, lo que es útil para el seguimiento.
 
-- ***`Nota:`** Cuenta con la opción para descargar un archivo xls con la información de los Customers y los Leads.
+***`Nota:`** Cuenta con la opción para descargar un archivo xls con la información de los Customers y los Leads.
 
 **`3) Notification Center:` El modulo Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios correctos.**
 
