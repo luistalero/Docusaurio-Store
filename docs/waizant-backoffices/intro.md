@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introducción a la documentación del BackOffice
 
-**El BackOffice es el sistema administrativo central diseñado para que tú y otros usuarios de Waizant puedan gestionar de manera eficiente todas las operaciones internas del proyecto. Funciona como el centro de control de nuestra aplicación, permitiéndote organizar, supervisar y mantener en orden los recursos, configuraciones y la interacción entre todas las entidades del ecosistema.**
+**El BackOffice es el sistema administrativo central diseñado para que los usuarios del core de waizant puedan gestionar de manera eficiente todas las operaciones internas del proyecto. Funciona como el centro de control de nuestra aplicación, permitiéndote organizar, supervisar y mantener en orden los recursos, configuraciones y la interacción entre todas las entidades del ecosistema.**
 
 **El proyecto cuenta con una estructura modular que facilita el control y administración de cada área funcional a través de los siguientes módulos:**
 
