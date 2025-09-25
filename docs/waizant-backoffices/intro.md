@@ -8,23 +8,25 @@ sidebar_position: 1
 
 **El proyecto cuenta con una estructura modular que facilita el control y administración de cada área funcional a través de los siguientes módulos:**
 
-**`1) Dashboard:` El Dashboard es la pantalla de inicio o el centro de control del sistema. Su objetivo principal es ofrecer una visión general e instantánea del estado actual de todo el ecosistema. Es la primera parada para cualquier usuario al iniciar sesión, ya que consolida la información más crítica y las estadísticas clave en un solo lugar.**
+**`1) Dashboard:` El Dashboard es la pantalla de inicio o el centro de control del sistema. Su objetivo principal es ofrecer una visión general e instantánea del estado actual de todo el ecosistema. Es la primera parada para cualquier cliente al iniciar sesión, ya que consolida la información más crítica y las estadísticas clave en un solo lugar.**
 
 - **`Estadísticas Clave:`** Muestra métricas importantes en tiempo real como el número total de usuarios, las ventas acumuladas hasta la fecha, la cantidad de planes vendidos y la tasa de venta promedio.
 
-- **`Gráficos Interactivos:`** Proporciona representaciones visuales de los datos. Esto incluye un gráfico de barras que muestra la distribución de usuarios por ciudad y un gráfico circular que detalla las ventas por plan, permitiendo una comprensión rápida del rendimiento y la segmentación del mercado.
+- **`Gráficos Interactivos:`** Proporciona representaciones visuales de los datos. Esto incluye una gráfica circular que muestra la distribución de clientes por ciudad y una gráfica circular que detalla las ventas por plan, permitiendo una comprensión rápida del rendimiento y la segmentación del mercado.
 
 - **`Datos Actualizados:`** Permite filtrar la información por fechas, como se muestra en la esquina superior derecha, para analizar tendencias y comparar el rendimiento en diferentes períodos de tiempo.
 
-**`2) Store User:`El módulo Store User es el centro de control para la administración completa de los usuarios que interactúan directamente con tu plataforma. A diferencia de los usuarios administrativos, este módulo está diseñado para gestionar a los usuarios finales, que se dividen en dos grupos principales: clientes (Customers) y potenciales clientes (Leads). Su función principal es mantener un control riguroso sobre quién accede al sistema y cómo se gestiona su información, lo cual es vital para las operaciones de negocio y la relación con el usuario.**
+**`2) Store User:`El módulo Store User es el centro de control para la administración a diferencia de los usuarios administrativos, este módulo está diseñado para gestionar a los usuarios finales, que se dividen en dos grupos principales: clientes (Customers) y potenciales clientes (Leads). Su función principal es mantener un control riguroso sobre quién accede al sistema y cómo se gestiona su información, lo cual es vital para las operaciones de negocio y la relación con el usuario.**
 
 - **`Gestión de Clientes y Leads:`** Permite a los administradores ver y gestionar listas separadas para clientes y potenciales clientes.
 
-- **`Control del Perfil:`** Facilita la visualización y edición de información clave como nombre, correo electrónico y compañía.
+- **`Control del Perfil:`** Facilita la visualización de la información clave como nombre, correo electrónico y compañía.
 
-- **`Estado del Usuario:`** Permite activar o desactivar el acceso de un usuario de forma rápida y sencilla.
+- **`Estado del Usuario:`** Permite activar o desactivar el acceso del cliente de forma rápida y sencilla de su ecosistema.
 
-- **`Detalles del Ecosistema:`** Muestra a qué ecosistema pertenece cada usuario, lo que es útil para la segmentación y el seguimiento.
+- **`Detalles del Ecosistema:`** Muestra a qué ecosistema pertenece cada cliente, lo que es útil para el seguimiento.
+
+- ***`Nota:`** Cuenta con la opción para descargar un archivo xls con la información de los Customers y los Leads.
 
 **`3) Notification Center:` El Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios correctos.**
 
