@@ -43,9 +43,9 @@ sidebar_position: 1
 *Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/notificacion-center"className="info">Notification Center</a>
 
-**`4) Plan Settings:` El módulo de Plan Settings es fundamental para los sistemas que ofrecen servicios o funcionalidades por niveles (por ejemplo, un modelo de suscripción). Permite definir y gestionar los diferentes planes de servicio disponibles para los usuarios.**
+**`4) Plan Settings:` El módulo de Plan Settings es fundamental para los sistemas que ofrecen servicios o funcionalidades por niveles (por ejemplo, un modelo de suscripción). Permite definir y gestionar los diferentes planes disponibles para los usuarios.**
 
-- **`¿Qué incluye?` En este módulo, se pueden configurar los precios, las características incluidas en cada plan (como el número de proyectos, el espacio de almacenamiento, o las funcionalidades exclusivas), y las reglas de acceso. Por ejemplo, podrías definir un plan "Básico" con funcionalidades limitadas y un plan "Premium" que desbloquea todas las herramientas.**
+**`¿Qué incluye?` En este módulo, se pueden configurar los precios, las características incluidas en cada plan como el número de encounter que tiene el plan, o las funcionalidades exclusivas, y las reglas de acceso. Por ejemplo, podrías definir un plan "Básico" con funcionalidades limitadas y un plan "Premium" que desbloquea todas las herramientas.**
 
 *Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/settings-backoffice"className="info">Plan Settings</a>
@@ -56,12 +56,12 @@ sidebar_position: 1
 
 **`* Technical Assistance:` Este submódulo se enfoca en resolver los problemas técnicos que puedan enfrentar los usuarios, preguntas generales, fallos, errores del sistema, problemas de conexión o cualquier otro inconveniente que impida el correcto funcionamiento de la plataforma.**
 
-**`* Ecosystem Admin:` Este submódulo está diseñado para atender a los usuarios con roles administrativos, garantizando que puedan gestionar y controlar el ecosistema de manera segura y eficiente. La asistencia aquí se orienta a resolver dudas o incidencias relacionadas con la administración del sistema..**
+**`* Ecosystem Admin:` Este submódulo está diseñado para atender a los usuarios con roles administrativos, garantizando que puedan gestionar y controlar el ecosistema de manera segura y eficiente. La asistencia aquí se orienta a resolver dudas o incidencias relacionadas con la funcionalidad de otorgar los privilegios de administracion de un ecosistema a otro usuario que haga parte del mismo ecosistema**
 
 *Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/user-support"className="info">User Support</a>
 
-**`6) User System:` El módulo de User System es un componente crucial para la seguridad y el control del acceso en el BackOffice. Se encarga de gestionar a los usuarios que tienen privilegios de administración, a diferencia de los usuarios finales (Store User).**
+**`6) User System:` El módulo de User System es un componente crucial para la seguridad y el control del acceso en el BackOffice. Se encarga de gestionar a los usuarios que tienen privilegios de administración, a diferencia de los usuarios finales Store User.**
 
 - **`¿Qué incluye?` Controla quién puede acceder al panel de administración, qué roles tienen (por ejemplo), "administrador", por lo tanto, qué acciones puede realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.**
 
@@ -74,16 +74,14 @@ sidebar_position: 1
 
 - **`Creación y Edición de Especialidades:`** Permite a los administradores crear, nombrar y gestionar una lista completa de especialidades médicas (ej. Cardiología, Pediatría, Dermatología).
 
-- **`Asignación de Roles y Permisos:`** Facilita la asignación de roles específicos basados en la especialidad. Por ejemplo, un usuario con el rol de "Administrativo de Cardiología" solo tendrá acceso a los expedientes relacionados con esa especialidad.
-
 - **`Filtrado y Búsqueda:`** Actúa como un filtro clave en el sistema. Permite a los usuarios buscar y visualizar información (como citas o historiales médicos) basada en una especialidad específica, mejorando la eficiencia y la navegación.
 
 *Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/medical-specialty"className="info">Medical Specialty</a>
 
-**`9) Profile Settings:` El módulo de Profile Settings es donde el usuario (en este caso, un usuario administrativo) puede gestionar y personalizar su propia información y preferencias dentro del BackOffice.**
+**`9) Profile Settings:` El módulo de Profile Settings es donde el usuario (en este caso, un usuario administrativo) puede gestionar y personalizar su propia información del BackOffice.**
 
-- **`¿Qué incluye?` Ofrece funcionalidades para que el usuario pueda editar su información personal (nombre, contraseña, etc.), personalizar y configurar sus propias preferencias de notificación. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.**
+- **`¿Qué incluye?` Ofrece funcionalidades para que el usuario pueda editar su información personal nombre, contraseña, personalizar y configurar la herramienta del multifactor. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.**
 
 *Más información aquí:{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/profile-settings"className="info">Profile Settings</a>
