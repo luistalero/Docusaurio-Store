@@ -63,7 +63,7 @@ sidebar_position: 1
 
 **`6) User System:` El módulo de User System es un componente crucial para la seguridad y el control del acceso en el BackOffice. Se encarga de gestionar a los usuarios que tienen privilegios de administración, a diferencia de los usuarios finales Store User.**
 
-- **`¿Qué incluye?` Controla quién puede acceder al panel de administración, qué roles tienen (por ejemplo), "administrador", por lo tanto, qué acciones puede realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.**
+**`¿Qué incluye?` Controla quién puede acceder al panel de administración, qué roles tienen (por ejemplo), "administrador", por lo tanto, qué acciones puede realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.**
 
 *Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/user-system"className="info">User System</a>
@@ -81,7 +81,7 @@ sidebar_position: 1
 
 **`9) Profile Settings:` El módulo de Profile Settings es donde el usuario (en este caso, un usuario administrativo) puede gestionar y personalizar su propia información del BackOffice.**
 
-- **`¿Qué incluye?` Ofrece funcionalidades para que el usuario pueda editar su información personal nombre, contraseña, personalizar y configurar la herramienta del multifactor. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.**
+**`¿Qué incluye?`Ofrece funcionalidades para que el usuario pueda editar su información personal nombre, contraseña, personalizar y configurar la herramienta del multifactor. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.**
 
 *Más información aquí:{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/profile-settings"className="info">Profile Settings</a>

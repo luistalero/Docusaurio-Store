@@ -4,33 +4,76 @@ sidebar_position: 5
 
 # Store Users
 
-**El módulo Store Users permite gestionar y consultar la información de los usuarios registrados en el sistema, clasificándolos en dos categorías: `Customers y Leads`.**
+Para acceder se debe loguear con las credenciales correctas, el módulo se encuentra en la barra lateral izquierda al ingresar se despliega una interfaz con dos pestañas principales en la parte superior: **Customers** y **Leads**.
 
-**Desde este módulo es posible filtrar, buscar y exportar la información disponible en formato `XLS`.**
+---
+El módulo **Store Users** permite gestionar los usuarios registrados en la plataforma, diferenciando entre **Customers** "clientes con suscripción" y **Leads** "usuarios registrados sin suscripción".  
+Desde este módulo es posible **buscar, filtrar, exportar información en formato `XLS`** y **activar o suspender accesos** según sea necesario.
 
-***`Nota:` Se debe hacer clic en el modulo de Store Users que se encuentra en la barra lateral izquierda, se visualiza una interfaz con dos pestañas en la parte superior: `Customers` y `Leads`, también en la parte derecha hay una opción para descargar en un archivo `xls` el listado de los `customers` o `leads`.**
+![Store Users](/img/backoffice-user/store_users_backoffice.png)
 
-![MFA-Disable](/img/backoffice-user/store_users_backoffice.png)
+### 1. Customers
 
-**`a)` `Search:`**
-en esta sesión se visualiza una sesión de búsqueda el cual se puede buscar a un usuario mas rápidamente, se puede realizar la búsqueda por el name email etc.
+> **Usuarios Customer**: son aquellos clientes que han comprado una suscripción en Waizant Store.  
+> Un Customer puede o no haber desplegado su ecosistema, y desde esta sección los administradores pueden consultar el estado de la suscripción, la información detallada del ecosistema y administrar el acceso de forma rápida según se requiera.
 
-![MFA-Disable](/img/backoffice-user/searh_store_user_backoffice.png)
+Dentro de esta sección es posible:  
 
-**`b)` `Customers:`**
-Se mostrará una tabla con el listado de todos los clientes registrados que hicieron todo el proceso y pagaron suscripciones, la tabla incluye columnas con información relevante por ejemplo: `(First Name, Last Name, Company Email, Company Name, Ecosystem Name, Active, Action.)`. En la columna Active hay un tole que sirve para activar o desactivar la suscripción que tenga cada usuario, también contiene otra columna Action esta tiene un botón que al dar clic se muestra una modal con toda la información bien detallada del usuario.
+- **Visualizar el despliegue del ecosistema**:  
+  - Si el cliente ya desplegó su ecosistema, aparece el **nombre del ecosistema** en la columna *Ecosystem Name*.  
+  - Si aún no lo ha desplegado, se mostrará como **No complete**.  
 
-***`Nota:` En la parte inferior se mostrara una opción de paginado, la cual es muy util para cuando hay muchos usuarios.**
+- **Administrar accesos** con el botón **Active**, que permite **activar o suspender de forma inmediata** el acceso al ecosistema del cliente.  
 
-![MFA-Disable](/img/backoffice-user/customer_list_store_user_backoffice.png)
+  > Ejemplo: si se presenta un inconveniente a nivel de politicas y privacidad, o se esta haciendo algo indevido, por alguna situación que se presente se tiene ese acceso rápido para suspender el acceso a su ecosistema a los usuarios del ecosistema, del customer que se este activando o desactivando van a tener ese impacto, ese es el acceso rapido para activar o suspender si el core de Waizant lo amerita.
 
-***Modal Action**
+![Customers List](/img/backoffice-user/customer_list_store_user_backoffice.png)
 
-![MFA-Disable](/img/backoffice-user/modal_store_user_action_backoffice.png)
+---
 
-**`c)` `Leads:`**
- Se mostrara una tabla con el listado de personas que hicieron el proceso pero no adquirieron ni planes ni suscripciones
+### Modal de detalle (Action)
 
-**`d)` En la parte inferior se mostrara una opción de paginado, la cual es muy util para cuando hay muchos usuarios.**
+Al dar clic en el botón **Action**, se abre una ventana modal que muestra información completa de la suscripción del cliente, entre la que se incluye:  
 
-![MFA-Disable](/img/backoffice-user/leads_list_store_user_backoffice.png)
+- Tipo de suscripción (**mensual o anual**).  
+- Estado actual de la suscripción.  
+- Fecha de inicio y fecha de finalización.  
+- Ecosistema asociado al cliente.  
+- Número de **encounters**.  
+- Cantidad y estado de las **licencias** disponibles.  
+
+Esta vista ofrece al administrador una visión detallada y centralizada de la información de cada cliente.  
+
+![Modal Action](/img/backoffice-user/modal_store_user_action_backoffice.png)
+
+---
+
+### 2. Leads
+Son los usuarios que se registraron en la plataforma de Waizant Store pero **no adquirieron una suscripción**.  
+Estos se listan en el módulo con el fin de que sus datos puedan exportarse y ser utilizados en campañas de marketing que incentiven la compra de planes o suscripciones.
+
+![Leads List](/img/backoffice-user/leads_list_store_user_backoffice.png)
+
+---
+
+## Funcionalidades del módulo
+
+### Search
+Permite realizar búsquedas rápidas de usuarios por **First Name, Last Name, Company Email, Phone Number Company Name.**  
+
+![Search Store User](/img/backoffice-user/searh_store_user_backoffice.png)
+
+---
+
+### Exportación
+En la parte superior derecha existe la opción para descargar los listados de **Customers** o **Leads** en archivo `XLS`.
+
+![download Store User](/img/backoffice-user/download-list-customer.png)
+
+---
+
+### Paginación
+En ambos listados (Customers y Leads) se encuentra un sistema de **paginado** que facilita la navegación cuando hay un gran número de usuarios.
+
+![pagination Store User](/img/backoffice-user/pagination-list-customer.png)
+
