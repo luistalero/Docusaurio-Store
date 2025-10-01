@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![MFA Enable](/img/store-usuario/login/login_user_panel_ecosystem.png )
 
-**Cuando un usuario que ya es dueño de uno o más ecosistemas\, tendrá la posibilidad de ver los detalles del ecosistema que desee dando clic en el botón Ecosytem Details**
+**Cuando un usuario ya es dueño de uno o más ecosistemas\, tendrá la posibilidad de ver los detalles del ecosistema que desee dando clic en el botón Ecosytem Details**
 
 ## Products Ecosystem
 

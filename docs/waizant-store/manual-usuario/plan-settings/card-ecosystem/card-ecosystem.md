@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_not_completed.png)
 
-**El ecosistema aún no ha completado su proceso de configuración. El plan se encuentra inactivo y no se han activado licencias ni encuentros. El usuario debe acceder al panel de configuración y completar el proceso para comenzar a usar los servicios, para más información acceda aqui [Not Completed](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/not-completed).**
+**El ecosistema aún no ha completado su proceso de configuración. El plan se encuentra inactivo y no se han activado licencias ni encuentros. El usuario debe acceder al panel de configuración y completar el proceso para comenzar a usar los servicios, para más información acceda aqui [Not Completed](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/not-completed).**
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_completed.png)
 
