@@ -1,12 +1,15 @@
-FROM node:18
+FROM node:18-alpine
 
 WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm install
+RUN --mount=type=cache,id=npm,target=/root/.npm \
+    npm ci --prefer-offline --no-audit
 
-COPY . .
+COPY --chown=node:node . .
+
+USER node
 
 EXPOSE 3000
 
