@@ -11,4 +11,8 @@ sidebar_position: 3
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/status_not_completed-billing.png)
 
-**`2. Billing Panel:`**
+**`2. Billing Panel:`** Si el usuario decide hacer clic sobre el botón llamado `Billing Panel` el usuario sera enviado a la sección donde podra visualizar las facturas y los pagos que realizo al momento de adquirir este plan, a continuación la vista del [Billing Panel](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/not-completed#billign-panel).
+
+## billign panel
+
+![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/billing-panel-not-completed.png)

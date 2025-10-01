@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Contact Us
 
-[Contact Us](https://www.waizant.com/contact-us)
+## [Contact Us](https://www.waizant.com/contact-us)
 
 ![Contact Us](/img/store-usuario/contact_us.png)
 

@@ -18,7 +18,7 @@ sidebar_position: 1
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_inactive.png)
 
-**El ecosistema está inactivo y requiere intervención. Puede deberse a una configuración incompleta o a problemas de facturación. Se recomienda contactar con el soporte para resolverlo, para más información acceda aqui [Contact Support](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/contact-support).**
+**El ecosistema está inactivo y requiere intervención. Puede deberse a una configuración incompleta o a problemas de facturación. Se recomienda contactar con el soporte para resolverlo, para más información acceda aqui [Contact Support](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/contact-support).**
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_pay_services_error.png)
 
