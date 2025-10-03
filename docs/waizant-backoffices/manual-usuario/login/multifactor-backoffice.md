@@ -16,11 +16,11 @@ sidebar_position: 3
 
 ***Al hacer clic en el botón Continue, se desplegará la opción para iniciar el proceso de activación.**
 
-![MFA-Disable](/img/backoffice-user/multifactor_backoffice.png )
+![MFA-Disable](/img/backoffice-user/view-settings-multifactor.png)
 
 ## **Escaneo del código QR**
 
-**Aparece un código QR que debe ser escaneado con una aplicación de autenticación como Authy, Google Authenticator o Microsoft Authenticator desde un dispositivo móvil. Si el usuario no tiene la app, se le sugiere instalarla desde su tienda de aplicaciones `(App Store o Google Play)`.**
+**Aparece un código QR que debe ser escaneado con una aplicación de autenticación como Authy, Google Authenticator desde un dispositivo móvil. Si el usuario no tiene la app, se le sugiere instalarla desde su tienda de aplicaciones `(App Store o Google Authentication)`.**
 
 ![MFA-Disable](/img/backoffice-user/authentification_Backoffice.png )
 
