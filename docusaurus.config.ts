@@ -129,7 +129,7 @@ const config: Config = {
           items: [
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/margay.wiedii',
+              href: 'https://www.facebook.com/share/1CrFphJjQK/',
             },
           ],
         },

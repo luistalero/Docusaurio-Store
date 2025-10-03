@@ -40,7 +40,7 @@ sidebar_position: 1
 
 **`2) Servicios:` En este módulo, se aprecian los servicios que se ofrecen para el usuario.**
 
-- **`Scheduling Service:`** Waizant™ gestione y optimice la agenda de su práctica médica. A través de herramientas avanzadas de programación, se asegura que las citas se organicen de manera eficiente, evitando solapamientos y maximizando el tiempo disponible de los proveedores. Ideal para clínicas que buscan mejorar su flujo de pacientes y reducir ausencias o espacios no utilizados.
+- **`Scheduling Service:`** Waizant™ gestiona y optimiza la agenda de su práctica médica. A través de herramientas avanzadas de programación, se asegura que las citas se organicen de manera eficiente, evitando solapamientos y maximizando el tiempo disponible de los proveedores. Ideal para clínicas que buscan mejorar su flujo de pacientes y reducir ausencias o espacios no utilizados.
 
 - **`Reviewing Service:`** Waizant™ ofrece un servicio especializado de auditoría de datos. Este proceso revisa la exactitud y consistencia de la información demográfica, clínica y de facturación, garantizando que esté completa, cumpla con las normativas y sea apta para el procesamiento sin errores. Esto minimiza rechazos, acelera el ciclo de cobro y mejora la eficiencia financiera de la práctica.
 
@@ -54,4 +54,4 @@ sidebar_position: 1
 
 - **`Gestión de Pagos:`** Permite gestionar los métodos de pago.
 
-- **`Transferencia de Ecosistema:`** El administrador puede transferir el ecosistema y la suscripción a otro usuario.
+- **`Transferencia de Ecosistema:`** El administrador puede transferir el ecosistema y la suscripción a otro usuario que pertenezca al mismo ecosistema.
