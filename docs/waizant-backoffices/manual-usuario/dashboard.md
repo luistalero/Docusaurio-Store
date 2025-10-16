@@ -6,6 +6,8 @@ sidebar_position: 4
 
 **1. El modulo de Dashboard es el encargado de tener y mostrar las métricas del proyecto, inicialmente se muestra unas card:** Total User, Sales to date, Sold plans, Avg. sales rate
 
+---
+
 ![MFA-Disable](/img/backoffice-user/dashboard_backoffice.png)
 
 ***`Nota:` existe un campo de calendario, ahí se puede buscar por fechas para mostrar la información de las card**
@@ -28,6 +30,8 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 
 - **Si el resultado es negativo, la gráfica se mostrará en color rojo, lo que indica que en el mes actual no se han obtenido ganancias positivas.**
 
+---
+
 **2. Distribution by city.**
 
 **En la sección de Distribution by city se puede visualizar dos graficas una tipo barra que es para la distribución por ciudad de los clientes que han adquirido la suscripción, para llevar un registro por ciudad de cuantos clientes tiene, tambien podemos visualizar en el lado derecho una grafica circular donde se puede visualizar la distribución de las ventas por planes, ahhi se visualiza cuantas suscripciones se han representado el plan lite, plan plus y plan premium, y se distribuye en el porcentaje equivalente al 100% entre los 3 planes, tambien existe la opción de descargar informes de tipo xls para tener una apreciación de estas dos metricas.**
@@ -38,12 +42,16 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 
 ***`Nota:` En la parte derecha se muestra una sesión donde hay dos opciones Sales by plan, Type of clients, tiene unas flechas las cuales se deben oprimir para cambiar de opción.**
 
+---
+
 ## Sales by plan
 
 ![MFA-Disable](/img/backoffice-user/sales_plan_backoffice.png)
 **`a)` En esta opción se muestran los porcentajes de los planes han comprado, existen 3 planes actualmente `Lite plan, Plus plan y Premium Plan`**
 
 **`b)`También tiene la opción de descargar en un archivo xls para visualizar mas detalladamente y automaticamente queda guardado en el computador.**
+
+---
 
 ## Type of clients
 
@@ -60,6 +68,11 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 ### `Leads:` Usuarios que iniciaron el proceso pero no finalizaron ninguna adquisición
 
 ![MFA-Disable](/img/backoffice-user/leads_backoffice.png)
+
+*Más información aquí{' '}
+<a href="/docs/waizant-backoffices/manual-usuario/store-users"className="info">Store User</a>
+
+---
 
 ## Subscriptions
 
