@@ -4,8 +4,7 @@ sidebar_position: 4
 
 # Dashboard
 
-**1. El modulo de Dashboard es el encargado de tener y mostrar las métricas del proyecto, inicialmente se muestra unas card:**
-`(Total User, Sales to date, Sold plans, Avg. sales rate)`
+**1. El modulo de Dashboard es el encargado de tener y mostrar las métricas del proyecto, inicialmente se muestra unas card:** Total User, Sales to date, Sold plans, Avg. sales rate
 
 ![MFA-Disable](/img/backoffice-user/dashboard_backoffice.png)
 
@@ -67,19 +66,22 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 **En esta sección se presenta una gráfica combinada de barras y línea que permite visualizar el comportamiento de las suscripciones mensuales a lo largo del año.**
 
 - **Las barras verdes representan la cantidad de nuevos clientes registrados en cada mes.**
-
 - **Las barras rojas (si aparecen) muestran el número de clientes inactivos durante ese mismo período.**
-
 - **La línea morada indica el total acumulado de ecosistemas, el cual se va actualizando conforme se suman nuevos clientes o se inactivan algunos.**
+
+**Al colocar el cursor sobre la gráfica, aparece una ventana emergente (tooltip) que detalla la información correspondiente a ese mes, incluyendo:**
+
+- **Nuevos clientes**
+- **Clientes inactivos**
+- **Total de ecosistemas**
 
 **La información se actualiza automáticamente cada vez que se detectan cambios en el sistema, ya sea por la adición de nuevos clientes o la inactivación de usuarios existentes, de esta manera, la gráfica muestra de forma clara el crecimiento o disminución de clientes y ecosistemas mes a mes.**
 
-![MFA-Disable](/img/backoffice-user/suscription_backoffice.png)
+![MFA-Disable](/img/backoffice-user/suscriptions_backoffice.png)
 
 **Además, esta sección cuenta con dos funciones principales:**
 
 - **Permite exportar todos los datos detallados de las suscripciones en formato xls**
-
 - **Selector de año: posibilita cambiar el año de análisis para comparar la evolución de las suscripciones entre diferentes períodos.**
 
 **Por ejemplo, al seleccionar 2024, se puede observar un año sin movimiento o crecimiento, mientras que al cambiar a 2025, la gráfica refleja un aumento en nuevos clientes y ecosistemas, evidenciando la actividad y los cambios ocurridos en ese año.**
