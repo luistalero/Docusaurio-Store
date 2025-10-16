@@ -76,6 +76,10 @@ a.info {
   text-decoration-color: #25c2a0;
   text-decoration: underline;
 }
+a code {
+  text-decoration: underline ;
+}
+
 code{
   color: #25c2a0;
   background: transparent;

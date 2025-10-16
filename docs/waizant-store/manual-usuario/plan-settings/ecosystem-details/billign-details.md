@@ -18,7 +18,7 @@ sidebar_position: 2
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/change_pay_method_mfa_disable.png)
 
-**Cuando el usuario selecciona el cambio de método de pago y este mismo tiene el MFA desactivado, se le indicará con esta modal, indicando que tiene que activarlo para poder realizar esta acción, para más información sobre la activación de [Activar MFA](/docs/waizant-store/manual-usuario/profile-settings/activate-mfa).**
+**Cuando el usuario selecciona el cambio de método de pago y este mismo tiene el MFA desactivado, se le indicará con esta modal, indicando que tiene que activarlo para poder realizar esta acción, para más información sobre la activación de [`Activar MFA`](/docs/waizant-store/manual-usuario/profile-settings/activate-mfa).**
 
 ![Billing Details](/img/store-usuario/plan-settings/ecosystem-details/change_pay_method_code_mfa.png)
 
@@ -60,7 +60,7 @@ sidebar_position: 2
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_pay_services_failed.png)
 
-**Aqui se muestra lo que el usuario vera si por algun motivo al querer cancelar la suscripción su método de pago es rechazado y tiene servicios por pagar, al momento de ser rechazado se le dran las opciones al usuario de `cambiar su método de pago` o `cancelar el proceso`.**
+**aquí se muestra lo que el usuario vera si por algun motivo al querer cancelar la suscripción su método de pago es rechazado y tiene servicios por pagar, al momento de ser rechazado se le dran las opciones al usuario de `cambiar su método de pago` o `cancelar el proceso`.**
 
 ![Plan Management](/img/store-usuario/plan-settings/ecosystem-details/manage_subcription_pay_services.png)
 

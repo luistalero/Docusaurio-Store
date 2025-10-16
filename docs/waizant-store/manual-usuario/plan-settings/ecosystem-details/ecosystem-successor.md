@@ -64,11 +64,11 @@ sidebar_position: 4
 
 ![Ecosystem Successor](/img/store-usuario/plan-settings/previous_admin_status_permanently_remove.png)
 
-**Aqui seleccionada se encuenta la 1ra opción que sera `Permanently Remove` con esta opción el usuario que antes era administrador quedara completamente eliminado de este ecosistema y ya no tendra acceso a los productos especificos de dicho ecosistema.**
+**Aquí seleccionada se encuenta la 1ra opción que sera `Permanently Remove` con esta opción el usuario que antes era administrador quedara completamente eliminado de este ecosistema y ya no tendra acceso a los productos especificos de dicho ecosistema.**
 
 ![Ecosystem Successor](/img/store-usuario/plan-settings/previous_admin_status_keep_user.png)
 
-**Ya aqui se encuentra seleccionada la 2da opción que seria `Keep as a User` la cual borraria completamente el rol como administrador para el usuario, pero, este usuario seguiria teniendo acceso hacia Waizant™ web y a Waizant™ APP.**
+**Ya aquí se encuentra seleccionada la 2da opción que seria `Keep as a User` la cual borraria completamente el rol como administrador para el usuario, pero, este usuario seguiria teniendo acceso hacia Waizant™ web y a Waizant™ APP.**
 
 ![Ecosystem Successor](/img/store-usuario/plan-settings/process_succesor_in_validation.png)
 
@@ -118,7 +118,7 @@ sidebar_position: 4
 
 ![Successor web 8](/img/store-usuario/plan-settings/successor_start_process_validation_web.png)
 
-**Al iniciar el proceso se le muestra esta información donde se especifica todo lo que esta apunto de suceder a este usuario, como este es un proceso iniciado fuera de la ruta principal aqui el sucesor tendra que especificar la razón del porque inicio el proceso de sucesión ante Support Waizant™.**
+**Al iniciar el proceso se le muestra esta información donde se especifica todo lo que esta apunto de suceder a este usuario, como este es un proceso iniciado fuera de la ruta principal aquí el sucesor tendra que especificar la razón del porque inicio el proceso de sucesión ante Support Waizant™.**
 
 ![Successor web 9](/img/store-usuario/plan-settings/successor_process_reason_web.png)
 
@@ -156,7 +156,7 @@ sidebar_position: 4
 
 ![Successor backoffice 5](/img/store-usuario/plan-settings/backoffices_details_activity_ecosystem.png)
 
-**Ya con el ecosistema seleccionado se mostrara la información referente a la actividad del usuario, tenemos los detalles de cada actividad que ha tenido el ecosistema con respecto a la suceción de administreador, aqui por medio de el soporte de Waizant™ el usuario puede saber como esta el proceso de sucesión y poder solucionar cualquier inconveniente con este proceso, ahora que el proceso esta declinado por Waizant™ se puede ver un `More details` en la ultima actividad del ecosistema.**
+**Ya con el ecosistema seleccionado se mostrara la información referente a la actividad del usuario, tenemos los detalles de cada actividad que ha tenido el ecosistema con respecto a la suceción de administreador, aquí por medio de el soporte de Waizant™ el usuario puede saber como esta el proceso de sucesión y poder solucionar cualquier inconveniente con este proceso, ahora que el proceso esta declinado por Waizant™ se puede ver un `More details` en la ultima actividad del ecosistema.**
 
 ![Successor backoffice 6](/img/store-usuario/plan-settings/backoffices_release_request_succesor_ecosystem.png)
 
@@ -164,13 +164,13 @@ sidebar_position: 4
 
 ![Successor backoffice 8](/img/store-usuario/plan-settings/backoffices_request_completed.png)
 
-**Ya aqui se le notifica al usuario que el proceso se ha completado correctamente y que el usuario puede volver a iniciar el su proceso para adquirir la sucesió ya con esto actvio de nuevo con un status en pending.**
+**Ya aquí se le notifica al usuario que el proceso se ha completado correctamente y que el usuario puede volver a iniciar el su proceso para adquirir la sucesió ya con esto actvio de nuevo con un status en pending.**
 
 ## Templates de correos Electrónicos para sucesor
 
 ![Successor notification 1](/img/store-usuario/plan-settings/notification_invitation_succesor.png)
 
-**Aqui podemos ver uno de los template, en esta podemos ver que lo que dice esta siendo invotado para ser el sucesor del ecosistema, en esta plantilla hay una redirección en el texto `here` que envia al usuario a la pagina de Waizant™ Web.**
+**Aquí podemos ver uno de los template, en esta podemos ver que lo que dice esta siendo invotado para ser el sucesor del ecosistema, en esta plantilla hay una redirección en el texto `here` que envia al usuario a la pagina de Waizant™ Web.**
 
 ![Successor notification 2](/img/store-usuario/plan-settings/notification_activate_status_successor.png)
 
@@ -182,7 +182,7 @@ sidebar_position: 4
 
 ![Successor notification 4](/img/store-usuario/plan-settings/notification_acepted_invitation_successor.png)
 
-**Este correo le sera enviado al administrador del ecosistema en caso de que el usuario que el asigno acepte ser el sucesor de ese ecosistema y aqui se le muuestra el nombre del ecosistema y el correo del sucesor.**
+**Este correo le sera enviado al administrador del ecosistema en caso de que el usuario que el asigno acepte ser el sucesor de ese ecosistema y aquí se le muuestra el nombre del ecosistema y el correo del sucesor.**
 
 ![Successor notification 5](/img/store-usuario/plan-settings/notification_process_transfer_admin.png)
 

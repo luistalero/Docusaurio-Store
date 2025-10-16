@@ -11,32 +11,32 @@ sidebar_position: 1
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_not_completed.png)
 
 **Esta tarjeta se muestra cuando el usuario ha adquirido un plan, pero el proceso de configuración inicial de su ecosistema aún no ha finalizado. El plan se encuentra en un estado Inactivo (Inactive plan) hasta que se complete la configuración.** \
-`para más información acceda aqui` [Not Completed](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/not-completed)
+`para más información acceda aquí` [`Not Completed`](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/not-completed)
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_completed.png)
 
 **Esta tarjeta representa el estado estándar de un ecosistema que ha sido adquirido y configurado exitosamente, y se encuentra activo y funcionando. Muestra el nombre del ecosistema, el uso de licencias y encuentros.** \
-`para más información acceda aqui` [Detalles De Ecosistema](/docs/waizant-store/manual-usuario/plan-settings/ecosystem-details/ecosystem-detail)
+`para más información acceda aquí` [`Detalles De Ecosistema`](/docs/waizant-store/manual-usuario/plan-settings/ecosystem-details/ecosystem-detail)
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_inactive.png)
 
 **Esta tarjeta indica que el ecosistema, aunque previamente configurado, ha sido Suspendido (Suspended Plan) debido a algún tipo de problema, que puede ser técnico o de facturación.** \
-`para más información acceda aqui` [Contact Support](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/contact-support)
+`para más información acceda aquí` [`Contact Support`](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/contact-support)
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_pay_services_error.png)
 
 **Cuando se produce una falla en el pago de servicios adicionales dentro del ecosistema, aparecerá una tarjeta informativa. Es importante notar que, a pesar de este fallo, el ecosistema permanece completamente funcional. Esta tarjeta proporciona información sobre las licencias y encounters, e inmediatamente le ofrece al usuario tres opciones para gestionar la deuda pendiente y el plan.** \
-`para más información acceda aqui` [Pay Services](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/payment-error#pay-services).
+`para más información acceda aquí` [`Pay Services`](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/payment-error#pay-services).
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_payment_error.png)
 
 **Cuando un pago automático por la suscripción de su ecosistema falla, aparecerá una tarjeta de error de pago en la interfaz. Esta falla puede deberse a diversos motivos, como saldo insuficiente, tarjeta caducada o un problema con el método de pago registrado. La tarjeta mostrará la información de sus licencias y encounters, junto con el mensaje `"Payment error"` y dos opciones de acción.**\
-`Para más información hacer clic aquí` [Payment Error](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/payment-error#payment-error)
+`Para más información hacer clic aquí` [`Payment Error`](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/payment-error#payment-error)
 
 ![Estado Ecosystem](/img/store-usuario/plan-settings/card-ecosystem/status_cancelled.png)
 
 **Esta tarjeta se muestra cuando la suscripción al ecosistema ha sido formalmente Cancelada (Cancelled Plan). La información en la tarjeta muestra el estado final de las licencias y encuentros al momento de la cancelación.** \
-`para más información acceda aqui` [Billing Panel](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/canceled-plan)
+`para más información acceda aquí` [`Billing Panel`](/docs/waizant-store/manual-usuario/plan-settings/card-ecosystem/card-funcionality/canceled-plan)
 
 ## Barra de Progreso de los Ecosistemas
 
