@@ -24,7 +24,7 @@ sidebar_position: 3
 
 ![MFA-Disable](/img/backoffice-user/authentification_Backoffice.png )
 
-**Cuando se descarga la app en el celular se genera un código para tener acceso, ese código se digitalizados en la siguiente vista y luego se le da clic en el botón Save.**
+**Cuando se descarga la app en el celular se genera un código para tener acceso, ese código se digitaliza en la siguiente vista y luego se le da clic en el botón Save.**
 
 ![MFA-Disable](/img/backoffice-user/code_multifactor.png )
 
