@@ -8,15 +8,21 @@ sidebar_position: 6
 
 **Este módulo es crucial para mantener una comunicación fluida entre el sistema y los usuarios, ya sea para enviar mensajes informativos alertas, avisos de bienvenida, recordatorios, o mensajes grupales.**
 
+---
+
 ![MFA-Disable](/img/backoffice-user/notifications_center_backoffice.png)
 
 - **Para ingresar al modulo de Notification Center se debe dar clic a la opción que se encuentra en la barra lateral izquierda.**
 
-- **Se mostrara un listado de notificaciones que se han creado mediante el botón que se encuentra en la parte superior Create new notification al darle clic de mostrara una sesión en la parte derecha donde se debe llenar el formulario, existen 2 tabs Single User y Group of users**
+- **Se mostrara un listado de notificaciones que se han creado mediante el botón que se encuentra en la parte superior Create new notification al darle clic de mostrara una sesión en la parte derecha donde se debe llenar el formulario, al darle clic a los botones de Edit o Reprogram se mostrara una session con dos opciones tabs Single User y Group of users**
+
+![MFA-Disable](/img/backoffice-user/notification_center_create_edit_reprogram.png)
 
 **¿Cómo acceder?**
 
 **Desde la barra lateral izquierda del BackOffice, haz clic en la opción Notification Center. Se desplegará una vista principal con un listado de notificaciones existentes y un botón para crear nuevas.**
+
+---
 
 ## Crear Nueva Notificación
 
@@ -43,6 +49,8 @@ Este toogle sirve para seleccionar la fecha en la cual se quiere generar la noti
 **`Addresses:`**
 Esta opción es un filtro se debe dal clic para que se muestre un filtro de búsqueda, donde se agregan los correos a quien se desee enviar, filtra con las primeras letras ahi se muestra unas opciones para elegir la que se requiera o si se desea enviar a varios correos también se puede realizar ya que tiene la opción de selección multiple.
 
+---
+
 ![MFA-Disable](/img/backoffice-user/cancel_notification_backoffice.png)
 
 ***`Nota:` Existen 3 botones (Cancel) (Save af draft) (send to)**
@@ -55,6 +63,8 @@ Este botón se guarda en borrador y se podrá visualizar en el listado que se en
 
 **`Send to:`**
 Al tener el formulario de la notificación lleno se le da clic a este botón para enviar el correo a quienes se seleccionaron anteriormente en (Addresses)
+
+---
 
 **Vista del listado de notificaciones:**
 
@@ -76,6 +86,8 @@ Al tener el formulario de la notificación lleno se le da clic a este botón par
 ![MFA-Disable](/img/backoffice-user/edit_notification_backoffice.png)
 
 ***`Nota:` Los botones de Edit, Reprogam se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada, el boton Delete al darle clic elimina la notificación.**
+
+---
 
 ***Group of users**
 
