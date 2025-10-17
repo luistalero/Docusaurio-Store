@@ -58,25 +58,29 @@ Esta opción es un filtro se debe dal clic para que se muestre un filtro de bús
 
 ![MFA-Disable](/img/backoffice-user/filter_adress_notification.png)
 
-***`Nota:` Existen 3 botones (Cancel) (Save af draft) (send to)**
+***`Nota:` Existen 3 botones Cancel, Save af draft, send to**
 
 ![MFA-Disable](/img/backoffice-user/cancel_notification_backoffice.png)
 
 
-**`Cancel:`**
-Si se da clic en este boton se cancela lo que se haya agregado para general la notificación, antes de cancelarla totalmente al darle clic se mostrara una alerta indicando si esta seguro de cancelarla.
+**Cancel: cierra el formulario actual sin guardar los cambios realizados.**
 
-**`Save af draft:`**
-Este botón se guarda en borrador y se podrá visualizar en el listado que se encuentra iniciando el modulo.
+**Save as draft: guarda la notificación en estado borrador, permitiendo retomarla o editarla más adelante antes de enviarla.**
 
-**`Send to:`**
-Al tener el formulario de la notificación lleno se le da clic a este botón para enviar el correo a quienes se seleccionaron anteriormente en (Addresses)
+**Send to: envía la notificación a los destinatarios seleccionados según la configuración establecida usuario único o grupo de usuarios.**
 
 ---
 
+**Group of Users**
+
+**Esta pestaña mantiene la misma estructura y campos del formulario de Single User. La única diferencia es el campo de destinatarios, que en este caso se denomina Groups of recipients. Desde este selector, puedes elegir uno o varios grupos de usuarios a los que se enviará la notificación de manera simultánea, facilitando la comunicación masiva sin necesidad de seleccionar usuarios individuales.**
+
+![MFA-Disable](/img/backoffice-user/group_of_recipients.png)
+
+---
 **Vista del listado de notificaciones:**
 
-![MFA-Disable](/img/backoffice-user/list_notification_backoffice.png)
+![MFA-Disable](/img/backoffice-user/list_notifications_backoffice.png)
 **a) En esta vista del listado contienen varios items, Notification title Type Creation Date Publication date Status Action**
 
 ***`Notification title:` En esta opción se mostrara el titulo de la notificación que se haya seleccionado.**
@@ -93,13 +97,11 @@ Al tener el formulario de la notificación lleno se le da clic a este botón par
 
 ![MFA-Disable](/img/backoffice-user/edit_notification_backoffice.png)
 
-***`Nota:` Los botones de Edit, Reprogam se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada, el boton Delete al darle clic elimina la notificación.**
+***`Nota:` Los botones de Edit, Reprogam se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada.**
+
+![MFA-Disable](/img/backoffice-user/buttons_save_as_draft.png)
 
 ---
-
-***Group of users**
-
-**Su funcionamiento y llenado de campos es similar al del item anterior Single User el item que cambia es el de Groups of recipients en este campo se selecciona es por grupos se selecciona en la serie de opciones que se muestran.**
 
 ## Icono de notificaciones en la barra superior
 
@@ -114,9 +116,9 @@ Al tener el formulario de la notificación lleno se le da clic a este botón par
 ***`All:`**
  Muestra el historial completo de notificaciones.
 
-![MFA-Disable](/img/backoffice-user/notification_center_all_backoffice.png)
+![MFA-Disable](/img/backoffice-user/icons_notificatios_backoffice.png)
 
 ***`Unread:`**
 Muestra únicamente las notificaciones que no han sido leídas.
 
-![MFA-Disable](/img/backoffice-user/notification_center_unread.png)
+![MFA-Disable](/img/backoffice-user/notifications_center_unread.png)
