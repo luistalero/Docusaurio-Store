@@ -56,12 +56,9 @@ Este toogle sirve para seleccionar la fecha en la cual se quiere generar la noti
 **`Addresses:`**
 Esta opción es un filtro se debe dal clic para que se muestre un filtro de búsqueda, donde se agregan los correos a quien se desee enviar, filtra con las primeras letras ahi se muestra unas opciones para elegir la que se requiera o si se desea enviar a varios correos también se puede realizar ya que tiene la opción de selección multiple.
 
-![MFA-Disable](/img/backoffice-user/filter_adress_notification.png)
+![MFA-Disable](/img/backoffice-user/filters_adress_notification.png)
 
 ***`Nota:` Existen 3 botones Cancel, Save af draft, send to**
-
-![MFA-Disable](/img/backoffice-user/cancel_notification_backoffice.png)
-
 
 **Cancel: cierra el formulario actual sin guardar los cambios realizados.**
 
