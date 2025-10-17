@@ -4,41 +4,46 @@ sidebar_position: 6
 
 # Notificación Center
 
-**El Notification Center es el módulo del BackOffice diseñado para la gestión centralizada de notificaciones dentro del sistema. Permite a los usuarios administrativos crear, editar, programar, enviar y eliminar mensajes dirigidos a usuarios del ecosistema.**
-
-**Este módulo es crucial para mantener una comunicación fluida entre el sistema y los usuarios, ya sea para enviar mensajes informativos alertas, avisos de bienvenida, recordatorios, o mensajes grupales.**
+**El Notification Center es el módulo del BackOffice diseñado para la gestión centralizada de notificaciones dentro del sistema. Permite a los usuarios administrativos crear, editar, programar, enviar y eliminar mensajes dirigidos a usuarios del ecosistema, este módulo es crucial para mantener una comunicación fluida entre el sistema y los usuarios, ya sea para enviar mensajes informativos alertas, avisos de bienvenida, recordatorios, o mensajes grupales.**
 
 ---
 
 ![MFA-Disable](/img/backoffice-user/notifications_center_backoffice.png)
 
-- **Para ingresar al modulo de Notification Center se debe dar clic a la opción que se encuentra en la barra lateral izquierda.**
-
-- **Se mostrara un listado de notificaciones que se han creado mediante el botón que se encuentra en la parte superior Create new notification al darle clic de mostrara una sesión en la parte derecha donde se debe llenar el formulario, al darle clic a los botones de Edit o Reprogram se mostrara una session con dos opciones tabs Single User y Group of users**
-
-![MFA-Disable](/img/backoffice-user/notification_center_create_edit_reprogram.png)
-
 **¿Cómo acceder?**
 
-**Desde la barra lateral izquierda del BackOffice, haz clic en la opción Notification Center. Se desplegará una vista principal con un listado de notificaciones existentes y un botón para crear nuevas.**
+**Desde el BackOffice, dirígete a la barra lateral izquierda y haz clic en la opción Notification Center. Al hacerlo, se desplegará la vista principal, donde podrás ver un listado de notificaciones existentes y un botón para crear nuevas notificaciones.**
+
+**En esta vista se mostrará el listado de todas las notificaciones creadas mediante el botón “Create new notification”, ubicado en la parte superior. Al hacer clic en este botón, se abrirá una sección lateral derecha donde deberás completar el formulario para crear una nueva notificación.**
+
+**Si haces clic en los botones “Edit” o “Reprogram”, se mostrará una sección con dos pestañas (tabs) Single User y Group of Users.**
+
+- **Edit: al hacer clic en este botón, se abre el formulario de notificación (como el que se muestra en la imagen) con los campos previamente completados de la notificación seleccionada. Desde esta vista, el usuario puede modificar la información existente, como el título, tipo, contenido, fecha de publicación o destinatarios, y luego guardar los cambios o reenviar la notificación.**
+- **Reprogram: al seleccionarlo, se abre el mismo formulario, pero enfocado principalmente en ajustar la fecha y hora de publicación de una notificación ya creada. Esta opción permite reagendar el envío sin necesidad de cambiar el contenido original.**
+- **Single User: permite gestionar notificaciones dirigidas a un solo usuario.**
+- **Group of Users: permite enviar notificaciones a un grupo de usuarios.**
+
+![MFA-Disable](/img/backoffice-user/notification_center_create_edit_reprogram.png)
 
 ---
 
 ## Crear Nueva Notificación
 
-**Para crear una nueva notificación, haz clic en el botón "Create new notification" ubicado en la parte superior. Aparecerá una sección lateral con un formulario dividido en dos pestañas:**
+**Para crear una nueva notificación, haz clic en el botón "Create new notification" ubicado en la parte superior. Aparecerá una sección lateral con un formulario dividido en dos pestañas, Single User y Group of Users.**
 
-![MFA-Disable](/img/backoffice-user/create_notification_backoffice.png)
+![MFA-Disable](/img/backoffice-user/create_notifications_backoffice.png)
 
 ***Single User:**
 
-**En la tab de Single User se mostrara opciones para llenar campos el primero.**
+**En la tab de Single User se mostrara opciones para llenar campos los cuales son obligatorios.**
 
 **`Notification title:`**
-En esta opción se agregará el titulo de la notificación, que su limite de caracteres es de 50.
+En esta opción se agregará el título de la notificación, su limite de es de 50 caracteres .
 
 **`Notification type:`**
 En esta opción se puede elegir que tipo de notificación se desea al darle clic se despliegan las opciones.
+
+![MFA-Disable](/img/backoffice-user/options_type_notification.png)
 
 **`Notification content:`**
 En esta opción se agrega el contenido que se quiera mostrar en la notificación, su limite máximo es de 120 caracteres.
@@ -46,14 +51,17 @@ En esta opción se agrega el contenido que se quiera mostrar en la notificación
 **`Schedule notification:`**
 Este toogle sirve para seleccionar la fecha en la cual se quiere generar la notificación.
 
+![MFA-Disable](/img/backoffice-user/option_date_notification.png)
+
 **`Addresses:`**
 Esta opción es un filtro se debe dal clic para que se muestre un filtro de búsqueda, donde se agregan los correos a quien se desee enviar, filtra con las primeras letras ahi se muestra unas opciones para elegir la que se requiera o si se desea enviar a varios correos también se puede realizar ya que tiene la opción de selección multiple.
 
----
+![MFA-Disable](/img/backoffice-user/filter_adress_notification.png)
+
+***`Nota:` Existen 3 botones (Cancel) (Save af draft) (send to)**
 
 ![MFA-Disable](/img/backoffice-user/cancel_notification_backoffice.png)
 
-***`Nota:` Existen 3 botones (Cancel) (Save af draft) (send to)**
 
 **`Cancel:`**
 Si se da clic en este boton se cancela lo que se haya agregado para general la notificación, antes de cancelarla totalmente al darle clic se mostrara una alerta indicando si esta seguro de cancelarla.
