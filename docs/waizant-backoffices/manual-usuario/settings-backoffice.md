@@ -47,7 +47,39 @@ sidebar_position: 7
 
 ![MFA-Disable](/img/backoffice-user/plan_lite_backoffice.png)
 
-***Al ingresar se observara en la parte superior izquierda el nombre del plan al cual se ingreso, junto con la version, en la parte derecha hay un botón de crear version.**
+***Al ingresar se observara la vista de edición el nombre del plan, descripción, cuantos ususarios estan activos en ese plan, numero de la versión, rango de fechas de esa versión, y si esta publicada, en la parte inferior se encuentra la configuración para los parametros, las features que son las caracteristicas que tendran cada plan, los servicios, y los precios que son mensual, anual, y el descuento.**
+
+**Parameters**
+
+- **Las licencias de usuario**
+- **Los numeros de encounters**
+
+**Features**
+
+![MFA-Disable](/img/backoffice-user/feature_plan.png)
+
+- **Schedule**
+- **LabelLinx**
+- **MileLinx**
+- **Waizant Chat**
+- **Encounters**
+- **Encounters + Capture**
+- **Quality**
+- **Billings (CSV y JSON)**
+- **Billings Full (CSV, JSON, XML y PDF)**
+- **Waizant RCM**
+
+***`Nota:` Cada plan cuenta con un conjunto específico de funcionalidades "Features" que varían según el tipo de plan seleccionado, y según el plan seleccionado, se mostrarán únicamente las Features correspondientes a ese plan.**
+
+**Services**
+
+![MFA-Disable](/img/backoffice-user/services_plan.png)
+
+**Pricing**
+
+![MFA-Disable](/img/backoffice-user/pircing_plan.png)
+
+---
 
 ***`Nota:` cuando el plan esta en estado Activo solo se muestra el botón de crear version, pero si están en un plan inactivo se muestra otro botón de delete.**
 
