@@ -186,32 +186,32 @@ sidebar_position: 7
 
 **Schedule**
 
-**`Encounters:`**
-Gestión y registro de encuentros o interacciones.
-**`LabelLlinx`**
+- **`Encounters`**
+- **`LabelLlinx`**
+- **`MileLinx:`**
+- **`Quality:`**
+- **`Waizant Chat`**
+- **`Billings (CSV y JSON)`**
 
-**`MileLinx:`**
-Control y seguimiento de distancias o recorridos.
-
-**`Quality:`**
-Módulo de control de calidad sobre procesos.
-**`Waizant Chat`**
-
-**`Billings (CSV y JSON):`**
-Exportación y gestión de facturación en formatos `CSV y JSON`.
-
-**c) En Parameters cuenta con una segunda opción de `(Number of entries)` al igual que los pasos anteriores se llenan los campos.**
+**En Parameters cuenta con una segunda opción de Number of entries al igual que los pasos anteriores se llenan los campos.**
 
 ![MFA-Disable](/img/backoffice-user/number_of_entries.png)
 
+--- 
+
 **Plan Premium**
 
-**El plan más completo, que incluye todas las funcionalidades disponibles en el sistema, ideal para operaciones avanzadas y mayor control administrativo, en este plan al igual que el anterior contiene una nueva opción de `(Number of entries)` y se llenan para crear una versión mas robusta con todas las opciones que contiene**
-**`Schedule, Encounters`**
+**El plan más completo, que incluye todas las funcionalidades disponibles en el sistema, ideal para operaciones avanzadas y mayor control administrativo, en este plan al igual que el anterior contiene una nueva opción de Number of entries y se llenan para crear una versión mas robusta con todas las opciones que contiene**
 
-**`Encounters + Capture:`**
-Gestión de encuentros con captura de datos adicional.
-**`LabelLlinx, MileLinx, Quality, Waizant Chat,Billings (CSV y JSON)`**
+- **`Schedule, Encounters`**
+- **`Encounters + Capture`**
+- **`LabelLlinx, MileLinx, Quality, Waizant Chat,Billings (CSV y JSON)`**
+- **`Billings Full (CSV, JSON, XML y PDF)`**
 
-**`Billings Full (CSV, JSON, XML y PDF):`**
-Exportación y administración de facturación en formatos `CSV, JSON, XML y PDF`, para una gestión documental más completa.
+![MFA-Disable](/img/backoffice-user/plan_premium.png)
+
+---
+
+**Free Trial**
+
+**El plan Free Trial ofrece acceso temporal a todas las funcionalidades disponibles en la plataforma Waizant, permitiendo al usuario explorar y evaluar el sistema en su totalidad. Este plan incluye todas las features de los planes Lite, Plus y Premium, brindando una experiencia completa antes de adquirir una suscripción.**
