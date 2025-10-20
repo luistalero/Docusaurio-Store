@@ -4,28 +4,48 @@ sidebar_position: 7
 
 # Plan Settings
 
-**El módulo Plan Settings permite administrar y definir los diferentes planes de servicio que el sistema ofrece a sus usuarios. Desde esta sección, los administradores pueden visualizar, configurar y mantener actualizada la estructura de cada plan, especificando las funcionalidades y servicios incluidos en cada uno.**
+**El módulo Plan Settings, en su vista inicial, muestra un listado con los planes que ofrece Waizant a sus clientes. En este listado se presenta la última versión publicada de cada plan, donde se visualizan datos como el precio mensual, precio anual, nombre del plan y algunas de las funcionalidades (features) incluidas, cada plan cuenta con un toogle que permite identificar si la versión se encuentra publicada o no. Además, dispone de los botones Action y Edit, los cuales permiten ingresar al detalle de cualquier versión del plan.**
+
+**Al seleccionar el botón Edit, el sistema redirige automáticamente a la última versión publicada del plan correspondiente.**
+
+**Desde este módulo es posible administrar y definir los diferentes planes de servicio que el sistema ofrece a sus usuarios. Los administradores pueden visualizar, configurar y mantener actualizada la estructura de cada plan, especificando las funcionalidades y servicios que incluye cada uno.**
+
+**Para acceder a este módulo, es necesario iniciar sesión con las credenciales correctas. El módulo se encuentra disponible en la barra lateral izquierda del sistema.**
+
+**Actualmente, el sistema cuenta con los siguientes planes: Lite, Plus, Premium y Free Trial.**
 
 ![MFA-Disable](/img/backoffice-user/plan_settings_backoffice.png)
 
-**a) `Plan Lite:` Un plan básico que ofrece las funcionalidades esenciales para operar con el sistema.**
+**Features disponibles en cada plan**
 
-***`Schedule:`**
-Gestión de horarios o programaciones.
+**Plan Lite**
 
-***`LabelLlinx:`**
-Administración de etiquetas o vínculos personalizados.
+- **Schedule**
+- **LabelLinx**
+- **MileLinx**
+- **Waizant Chat**
 
-***`Waizant Chat:`**
-Acceso al sistema de mensajería y chat interno.
+**Plan Plus**
 
-***`Nota:` Los planes cuentan con unas opciones de (Publish) (Action)**
+- **Encounters**
+- **Encounters + Capture**
+- **Quality**
+- **Billings (CSV y JSON)**
+- **Billings Full (CSV, JSON, XML y PDF)**
 
-***`Publish:` Esta opción tiene un toogle que actúa publicando o despuplicando el plan.**
+**Plan Premium**
+
+**Ofrece todas las funcionalidades de los planes anteriores, además de:**
+
+- **Waizant RCM**
+
+**Free Trial**
+
+**Versión de prueba que incluye todas las funcionalidades del plan Premium, permitiendo al usuario explorar la totalidad del sistema de manera temporal.**
+
+---
 
 ![MFA-Disable](/img/backoffice-user/plan_lite_backoffice.png)
-
-***`Action:` Esta opción contiene un botón (Edit) al darle clic se mostrara una vista de una serie de opciones mas detallada para crear suscripciones.**
 
 ***Al ingresar se observara en la parte superior izquierda el nombre del plan al cual se ingreso, junto con la version, en la parte derecha hay un botón de crear version.**
 
