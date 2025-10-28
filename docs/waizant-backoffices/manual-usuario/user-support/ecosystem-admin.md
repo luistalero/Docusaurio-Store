@@ -11,9 +11,11 @@ sidebar_position: 3
 **Se debe ingresar el correo electrónico del sucesor que asumirá la administración del ecosistema. Una vez introducido el correo, el sistema inicia automáticamente el proceso de verificación, comprobando que el usuario exista y esté registrado dentro de la plataforma Waizant.**
 
 ![MFA-Disable](/img/backoffice-user/user_email_start_verification.png)
+
 **Este código que se envia al usuario mediante el correo se debe agregar a la vista para verificación del código y así continuar con el proceso**
 
 ![MFA-Disable](/img/backoffice-user/internal_code_verification.png)
+
 **Al darle clic en Validate code se mostrara una modal indicando que se enviara codigo al telefono para tener mayor seguridad, se da clic al botón de Send verification Code este código se le enviara al correo de la persona que esta prestando el soporte**
 
 ![MFA-Disable](/img/backoffice-user/images_succesor/verification_succesfull.png)
