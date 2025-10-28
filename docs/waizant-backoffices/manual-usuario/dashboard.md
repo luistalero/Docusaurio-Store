@@ -27,7 +27,6 @@ en la parte inferior se encuentra el indicador “Up from past”, el cual muest
 Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las ganancias han aumentado o disminuido respecto a abril.
 
 - **Si el resultado es positivo, la gráfica se mostrará en color verde, indicando un incremento en las ganancias.**
-
 - **Si el resultado es negativo, la gráfica se mostrará en color rojo, lo que indica que en el mes actual no se han obtenido ganancias positivas.**
 
 ---
