@@ -13,24 +13,40 @@ sidebar_position: 3
 ![MFA-Disable](/img/backoffice-user/user_email_start_verification.png)
 **Este código que se envia al usuario mediante el correo se debe agregar a la vista para verificación del código y así continuar con el proceso**
 
-![MFA-Disable](/img/backoffice-user/verification_code_admin.png)
-
 ![MFA-Disable](/img/backoffice-user/internal_code_verification.png)
-**Se debe seleccionar un ecosistema para continuar el proceso, se da clic al botón de Send verification Code este código se le enviara al correo de la persona que esta prestando el soporte**
+**Al darle clic en Validate code se mostrara una modal indicando que se enviara codigo al telefono para tener mayor seguridad, se da clic al botón de Send verification Code este código se le enviara al correo de la persona que esta prestando el soporte**
 
-![MFA-Disable](/img/backoffice-user/verification_succesfull_backoffice.png)
+![MFA-Disable](/img/backoffice-user/images_succesor/verification_succesfull.png)
 
-**Existe un botón de Cancel este sirve para cancelar el proceso, pero muestra una modal donde hay un campo, allí se debe agregar el motivo por el cual se esta cancelando, y luego se le da clic en ok.**
+**A continuación se le da clic en Send Verification code se mostrara una modal de verificación, se debe agregar el codigo que le ha llegado al telefono**
 
-![MFA-Disable](/img/backoffice-user/cancel_process_admin_backoffice.png)
+![MFA-Disable](/img/backoffice-user/images_succesor/validate_code_phone.png)
+
+**Si el codigo que se agrego no es el correcto se mostrara una alerta indicando que el codigo no es valido.**
+
+![MFA-Disable](/img/backoffice-user/images_succesor/image_alert_code_invalid.png)
+
+**Existe un botón de Cancel este sirve para cancelar el proceso, pero muestra una modal donde hay una serie de opciones y un campo para texto, allí se debe agregar el motivo por el cual se esta cancelando, y luego se le da clic en ok.**
+
+![MFA-Disable](/img/backoffice-user/images_succesor/cancel_process_admin_backoffice.png)
 
 **\*Paso a paso de actividades del sucesor**
 
-**En esta vista se mostrara 3 campos User, Email, Select, Ecosystem, User, Role también se mostrara el un listado de procesos que lleve el usuario, defendiendo de donde quiera obtener información se mostrara una modal con el detallado, solo se le daría clic a see details.**
+**En esta vista se muestran dos campos principales: User Email y User Role. Debajo de estos campos se presenta el apartado User Activity, donde se visualiza un historial de acciones realizadas por el usuario, incluyendo fechas y descripciones de cada evento. Al final de la vista, se incluyen los botones Cancel process y Finish process para gestionar el estado del proceso.**
 
-![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)
+![MFA-Disable](/img/backoffice-user/images_succesor/user_activity_backoffice.png)
 
 **\*`Nota:` Esta ayuda o soporte al no tener actividad tendrá un tiempo de 15 minutos, es decir si se solicita soporte y el usuario no vuelve a tener actividad no responde al llamado de soporte a los 15 minutos de inactividad por parte del usuario automáticamente pasado el tiempo se cerrara la sesión y perderá esa solicitud.**
 **Modal del detallado del botón de see details si se le dio clic a The validation process for The Successor was rejected by Waizant**
 
-![MFA-Disable](/img/backoffice-user/user_activity_backoffice.png)
+**Al darle clic a Finish Process se mostrara una modal donde se debe agregar el correo del usuario para que el sistema verifique su estado en Waizant**
+
+![MFA-Disable](/img/backoffice-user/images_succesor/image_start_verification_process.png)
+
+**Al darle clic en el botón de Start Verification Process se mostrara una imagen de una modal indicando que se envio código de verificacion al correo, se debera agregar el código y dar clic en Validate code.**
+
+![MFA-Disable](/img/backoffice-user/images_succesor/validation_internal_code.png)
+
+**Al agregar el codigo y enviarlo se mostrara una moda donde se indicara que se envio codigo al telefono**
+
+![MFA-Disable](/img/backoffice-user/images_succesor/image_send_code_phone.png)
