@@ -10,7 +10,7 @@ sidebar_position: 4
 
 ![MFA-Disable](/img/backoffice-user/dashboard_backoffice.png)
 
-***`Nota:` existe un campo de calendario, ahí se puede buscar por fechas para mostrar la información de las card**
+**\*`Nota:` existe un campo de calendario, ahí se puede buscar por fechas para mostrar la información de las card**
 
 **`a)` `Total User:`**
 Se muestra el total de usuarios que se han registrado, también hace la division donde hay dos opciones una donde muestran los usuarios activos, "active Users" y los usuarios inactivos "Inactive Users".
@@ -36,11 +36,11 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 
 **En la sección de Distribution by city se puede visualizar dos graficas una tipo barra que es para la distribución por ciudad de los clientes que han adquirido la suscripción, para llevar un registro por ciudad de cuantos clientes tiene, tambien podemos visualizar en el lado derecho una grafica circular donde se puede visualizar la distribución de las ventas por planes, ahhi se visualiza cuantas suscripciones se han representado el plan lite, plan plus y plan premium, y se distribuye en el porcentaje equivalente al 100% entre los 3 planes, tambien existe la opción de descargar informes de tipo xls para tener una apreciación de estas dos metricas.**
 
-***`Nota:` Nota: En la parte superior derecha puedes seleccionar un rango de fechas (desde y hasta). Al hacerlo, las gráficas se actualizarán automáticamente para mostrar la información correspondiente a ese período.**
+**\*`Nota:` Nota: En la parte superior derecha puedes seleccionar un rango de fechas (desde y hasta). Al hacerlo, las gráficas se actualizarán automáticamente para mostrar la información correspondiente a ese período.**
 
 ![MFA-Disable](/img/backoffice-user/distribution_city_backoffice.png)
 
-***`Nota:` En la parte derecha se muestra una sesión donde hay dos opciones Sales by plan, Type of clients, tiene unas flechas las cuales se deben oprimir para cambiar de opción.**
+**\*`Nota:` En la parte derecha se muestra una sesión donde hay dos opciones Sales by plan, Type of clients, tiene unas flechas las cuales se deben oprimir para cambiar de opción.**
 
 ---
 
@@ -69,7 +69,7 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 
 ![MFA-Disable](/img/backoffice-user/leads_backoffice.png)
 
-*Más información aquí{' '}
+\*Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/store-users"className="info">Store User</a>
 
 ---
@@ -98,5 +98,3 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 - **Selector de año: posibilita cambiar el año de análisis para comparar la evolución de las suscripciones entre diferentes períodos.**
 
 **Por ejemplo, al seleccionar 2024, se puede observar un año sin movimiento o crecimiento, mientras que al cambiar a 2025, la gráfica refleja un aumento en nuevos clientes y ecosistemas, evidenciando la actividad y los cambios ocurridos en ese año.**
-
-
