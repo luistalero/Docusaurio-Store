@@ -28,10 +28,6 @@ sidebar_position: 3
 
 ![MFA-Disable](/img/backoffice-user/images_succesor/image_alert_code_invalid.png)
 
-**Existe un botón de Cancel este sirve para cancelar el proceso, pero muestra una modal donde hay una serie de opciones y un campo para texto, allí se debe agregar el motivo por el cual se esta cancelando, y luego se le da clic en ok.**
-
-![MFA-Disable](/img/backoffice-user/images_succesor/cancel_process_admin_backoffice.png)
-
 **\*Paso a paso de actividades del sucesor**
 
 **En esta vista se muestran dos campos principales: User Email y User Role. Debajo de estos campos se presenta el apartado User Activity, donde se visualiza un historial de acciones realizadas por el usuario, incluyendo fechas y descripciones de cada evento. Al final de la vista, se incluyen los botones Cancel process y Finish process para gestionar el estado del proceso.**
@@ -43,12 +39,13 @@ sidebar_position: 3
 
 **Al darle clic a Finish Process se mostrara una modal donde se debe agregar el correo del usuario para que el sistema verifique su estado en Waizant**
 
-![MFA-Disable](/img/backoffice-user/images_succesor/image_start_verification_process.png)
+![MFA-Disable](/img/backoffice-user/images_succesor/image_finish_process.png)
 
-**Al darle clic en el botón de Start Verification Process se mostrara una imagen de una modal indicando que se envio código de verificacion al correo, se debera agregar el código y dar clic en Validate code.**
+**Existe un botón de Cancel Process este sirve para cancelar el proceso, pero muestra una modal donde hay una serie de opciones y un campo para texto, allí se debe agregar el motivo por el cual se esta cancelando, y luego se le da clic en ok.**
 
-![MFA-Disable](/img/backoffice-user/images_succesor/validation_internal_code.png)
+![MFA-Disable](/img/backoffice-user/images_succesor/cancel_process_admin_backoffice.png)
 
-**Al agregar el codigo y enviarlo se mostrara una moda donde se indicara que se envio codigo al telefono**
-
-![MFA-Disable](/img/backoffice-user/images_succesor/image_send_code_phone.png)
+:::info
+Más información de los pasos del Successor{' '}
+<a href="/docs/waizant-store/manual-usuario/plan-settings/ecosystem-details/ecosystem-successor"className="info">Aquí</a>
+:::
