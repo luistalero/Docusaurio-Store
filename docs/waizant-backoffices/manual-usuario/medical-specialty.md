@@ -4,47 +4,55 @@ sidebar_position: 10
 
 # Medical Specialty
 
-**El módulo Medical Specialty es responsable de la gestión centralizada de las especialidades médicas que se ofrecen dentro del ecosistema de Waizant. Su principal objetivo es mantener actualizado y estructurado el catálogo de especialidades disponibles, el cual sirve como base para otros procesos clínicos y administrativos del sistema, tales como la configuración de perfiles de profesionales de salud, asignación de agendas, categorización de casos clínicos y segmentación de servicios según el tipo de atención requerida.**
+**El módulo Medical Specialty se encarga de la gestión centralizada de las especialidades médicas disponibles en el ecosistema de Waizant. Su propósito principal es mantener un catálogo actualizado y estructurado de especialidades, que sirve como base para diversos procesos clínicos y administrativos dentro del sistema.**
+
+**Entre sus principales funciones se incluyen la configuración de perfiles de profesionales de la salud, la asignación de agendas, la categorización de casos clínicos y la segmentación de servicios según el tipo de atención requerida.**
 
 ![MFA-Disable](/img/backoffice-user/medical_speciality_backoffice.png)
-**Funcionalidades principales**
 
-***`Creación de especialidades:`**
-El sistema permite registrar nuevas especialidades médicas mediante un formulario sencillo e intuitivo. Todos los campos obligatorios deben ser completados antes de guardar la información.
+---
 
-***`Edición de especialidades:`**
- Las especialidades existentes pueden ser editadas. Al seleccionar una especialidad desde el listado, se despliega una ventana modal con los campos prellenados, permitiendo modificar la información y actualizarla fácilmente.
+## **Funcionalidades principales**
 
-***`Activación y desactivación:`**
- A través de un interruptor tipo toggle, los administradores pueden activar o desactivar especialidades médicas. Esto resulta útil para mantener el catálogo limpio y vigente, evitando eliminar registros históricos que podrían estar relacionados con datos clínicos.
+**Creación de especialidades:**
 
-***`Búsqueda y filtrado:`**
- Incluye un campo de búsqueda que facilita encontrar rápidamente especialidades específicas por nombre o palabra clave, agilizando la administración del listado.
+**El sistema permite registrar nuevas especialidades médicas mediante un formulario sencillo e intuitivo. Todos los campos obligatorios deben completarse antes de guardar la información. Una vez registrada, la nueva especialidad se mostrará automáticamente en el listado principal.**
 
-***`Listado detallado:`**
- Se presenta una tabla con la información relevante de cada especialidad, incluyendo:
+**Edición de especialidades:**
 
- ***`Title:`**
- Nombre de la especialidad médica.
+**Las especialidades existentes pueden ser modificadas. Al seleccionar el botón Edit, se despliega una ventana modal con los campos prellenados, lo que permite actualizar fácilmente la información y guardar los cambios.**
 
- ***`Date Created:`**
- Fecha de creación del registro.
+**Activación y desactivación:**
 
-***`Date Updated:`**
-Fecha de la última modificación.
+**A través de un interruptor tipo toggle, los administradores pueden activar o desactivar especialidades médicas. Esta funcionalidad permite mantener el catálogo actualizado sin necesidad de eliminar registros históricos que podrían estar asociados a información clínica.**
 
-***`Active:`**
-Estado actual (activo/inactivo).
+**Búsqueda y filtrado:**
 
-***`Action:`**
-Botones para editar o cambiar el estado del registro.
+**Incluye un campo de búsqueda que permite localizar rápidamente una especialidad médica específica por nombre o palabra clave, optimizando la administración del listado.**
 
-**Contiene un campo de búsqueda que sirve para buscar la especialidad medica que se necesite, y un botón de Créate new Medical Speciality que su función es para crear la especialidad que se requiera o se brinde.**
+**Listado de especialidades:**
+
+**Se presenta una tabla que muestra la información relevante de cada especialidad, incluyendo:**
+
+- **Title: Nombre de la especialidad médica.**
+- **Date Created: Fecha en que se creó el registro.**
+- **Date Updated: Fecha de la última modificación.**
+- **Active: Estado actual (activo/inactivo).**
+- **Action: Botones para editar o cambiar el estado del registro.**
+
+**Además, la interfaz cuenta con:**
+
+- **Un campo de búsqueda para localizar especialidades específicas.**
+- **Un botón “Create new Medical Specialty”, que permite registrar una nueva especialidad médica dentro del sistema.**
 
 **Se deben llenar los campos los cuales son obligatorios, se da clic en el botón Save, cuando se guarda la especialidad medica se mostrara en el listado inicial.**
-![MFA-Disable](/img/backoffice-user/cancel_create_medical_speciality.png)
-**Modal de Edit**
 
-**Es una interfaz tipo popup que se abre al hacer clic en el botón `"Edit"` (ubicado en la columna Action del listado de especialidades). Esta ventana muestra los datos ya registrados de la especialidad seleccionada, permitiendo modificarlos de forma rápida y controlada.**
+![MFA-Disable](/img/backoffice-user/cancel_create_medical_speciality.png)
+
+---
+
+## **Modal de Edit**
+
+**Es una interfaz tipo popup que se abre al hacer clic en el botón "Edit" ubicado en la columna Action del listado de especialidades. Esta ventana muestra los datos ya registrados de la especialidad seleccionada, permitiendo modificarlos de forma rápida y controlada.**
 
 ![MFA-Disable](/img/backoffice-user/edit_medical_speciality.png)

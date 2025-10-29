@@ -21,7 +21,7 @@ sidebar_position: 11
 
 ---
 
-**Multi-factor: En esta opción se visualiza la vista de Multi-factor se le da clic al botón de Continue, se mostrara las opciones para su autenticación al escanear el código Qr lleva a la app para descargar Authy luego se le da clic al botón de Continue.**
+**En esta opción se visualiza la vista de Multi-factor se le da clic al botón de Continue, se mostrara las opciones para su autenticación al escanear el código Qr lleva a la app para descargar Authy luego se le da clic al botón de Continue.**
 
 ![MFA-Disable](/img/backoffice-user/view-settings-multifactor.png)
 
